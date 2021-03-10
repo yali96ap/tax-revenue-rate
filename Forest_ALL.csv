@@ -1,0 +1,287 @@
+Year,Country,Value
+2005,Austria,0.768
+2000,Belgium,0.654
+2005,Belgium,0.83
+2010,Belgium,1.056
+2012,Belgium,1.099
+2000,Czech Republic,0.729
+2001,Czech Republic,0.715
+2002,Czech Republic,0.722
+2003,Czech Republic,0.751
+2004,Czech Republic,0.767
+2005,Czech Republic,0.758
+2006,Czech Republic,0.859
+2007,Czech Republic,0.893
+2008,Czech Republic,0.777
+2009,Czech Republic,0.716
+2010,Czech Republic,0.788
+2011,Czech Republic,0.717
+2012,Czech Republic,0.698
+2013,Czech Republic,0.706
+2014,Czech Republic,0.708
+2015,Czech Republic,0.741
+2016,Czech Republic,0.801
+2017,Czech Republic,0.876
+2000,Denmark,0.593
+2005,Denmark,0.531
+2010,Denmark,0.457
+2012,Denmark,0.593
+2013,Denmark,0.606
+2014,Denmark,0.564
+2015,Denmark,0.523
+2016,Denmark,0.58
+2017,Denmark,0.673
+2000,Finland,0.744
+2001,Finland,0.706
+2002,Finland,0.703
+2003,Finland,0.702
+2004,Finland,0.695
+2005,Finland,0.661
+2006,Finland,0.634
+2007,Finland,0.699
+2008,Finland,0.675
+2009,Finland,0.568
+2010,Finland,0.686
+2011,Finland,0.692
+2012,Finland,0.683
+2013,Finland,0.74
+2014,Finland,0.74
+2015,Finland,0.77
+2016,Finland,0.801
+2017,Finland,0.815
+2002,France,0.725
+2003,France,0.648
+2004,France,0.587
+2009,France,0.51
+2010,France,0.513
+2011,France,0.527
+2012,France,0.532
+2013,France,0.521
+2014,France,0.516
+2000,Germany,0.749
+2001,Germany,0.593
+2002,Germany,0.637
+2003,Germany,0.731
+2004,Germany,0.819
+2005,Germany,0.854
+2006,Germany,0.925
+2007,Germany,1.046
+2008,Germany,0.857
+2009,Germany,0.743
+2010,Germany,0.865
+2011,Germany,0.8
+2012,Germany,0.805
+2013,Germany,0.748
+2014,Germany,0.764
+2015,Germany,0.778
+2016,Germany,0.75
+2000,Hungary,0.622
+2001,Hungary,0.586
+2002,Hungary,0.581
+2003,Hungary,0.576
+2004,Hungary,0.567
+2005,Hungary,0.556
+2006,Hungary,0.511
+2007,Hungary,0.512
+2008,Hungary,0.529
+2009,Hungary,0.508
+2010,Hungary,0.565
+2011,Hungary,0.618
+2012,Hungary,0.593
+2013,Hungary,0.603
+2014,Hungary,0.576
+2015,Hungary,0.564
+2016,Hungary,0.564
+2017,Hungary,0.583
+2000,Ireland,0.715
+2005,Ireland,0.715
+2006,Ireland,0.695
+2010,Ireland,0.55
+2012,Ireland,0.406
+2013,Ireland,0.435
+2014,Ireland,0.446
+2015,Ireland,0.465
+2016,Ireland,0.48
+2017,Ireland,0.456
+2000,Italy,0.415
+2005,Italy,0.371
+2010,Italy,0.344
+2000,Japan,0.29
+2005,Japan,0.398
+2000,Korea,0.123
+2005,Korea,0.206
+2006,Korea,0.175
+2008,Korea,0.128
+2009,Korea,0.185
+2011,Korea,0.262
+2012,Korea,0.335
+2013,Korea,0.277
+2014,Korea,0.226
+2015,Korea,0.247
+2016,Korea,0.227
+2017,Korea,0.225
+2007,Luxembourg,0.493
+2011,Luxembourg,0.723
+2012,Luxembourg,0.491
+2013,Luxembourg,0.47
+2014,Luxembourg,0.534
+2015,Luxembourg,0.578
+2016,Luxembourg,0.504
+2017,Luxembourg,0.57
+2000,Netherlands,0.569
+2005,Netherlands,0.454
+2010,Netherlands,0.447
+2013,Netherlands,0.465
+2017,Netherlands,0.496
+2000,New Zealand,0.564
+2001,New Zealand,0.579
+2002,New Zealand,0.611
+2003,New Zealand,0.639
+2004,New Zealand,0.577
+2005,New Zealand,0.524
+2006,New Zealand,0.501
+2007,New Zealand,0.514
+2008,New Zealand,0.519
+2009,New Zealand,0.468
+2010,New Zealand,0.536
+2011,New Zealand,0.602
+2012,New Zealand,0.619
+2013,New Zealand,0.657
+2014,New Zealand,0.703
+2015,New Zealand,0.693
+2016,New Zealand,0.685
+2017,New Zealand,0.754
+2000,Norway,0.403
+2005,Norway,0.418
+2006,Norway,0.384
+2007,Norway,0.439
+2008,Norway,0.44
+2009,Norway,0.381
+2010,Norway,0.456
+2011,Norway,0.443
+2012,Norway,0.459
+2013,Norway,0.441
+2014,Norway,0.463
+2015,Norway,0.522
+2016,Norway,0.527
+2017,Norway,0.539
+2000,Poland,0.533
+2005,Poland,0.55
+2010,Poland,0.642
+2000,Portugal,0.626
+2005,Portugal,0.711
+2000,Slovak Republic,0.555
+2001,Slovak Republic,0.547
+2002,Slovak Republic,0.549
+2003,Slovak Republic,0.581
+2004,Slovak Republic,0.63
+2005,Slovak Republic,0.88
+2006,Slovak Republic,0.716
+2007,Slovak Republic,0.717
+2008,Slovak Republic,0.803
+2009,Slovak Republic,0.779
+2010,Slovak Republic,0.825
+2011,Slovak Republic,0.787
+2012,Slovak Republic,0.679
+2013,Slovak Republic,0.654
+2014,Slovak Republic,0.78
+2015,Slovak Republic,0.765
+2016,Slovak Republic,0.772
+2017,Slovak Republic,0.781
+2000,Sweden,0.78
+2005,Sweden,0.852
+2009,Sweden,0.66
+2010,Sweden,0.734
+2011,Sweden,0.716
+2012,Sweden,0.682
+2013,Sweden,0.668
+2014,Sweden,0.71
+2015,Sweden,0.722
+2000,Switzerland,0.756
+2005,Switzerland,0.734
+2010,Switzerland,0.714
+2015,Switzerland,0.695
+2009,Turkey,0.516
+2010,Turkey,0.453
+2011,Turkey,0.475
+2012,Turkey,0.424
+2013,Turkey,0.424
+2014,Turkey,0.457
+2015,Turkey,0.463
+2016,Turkey,0.46
+2017,Turkey,0.44
+2000,United Kingdom,0.459
+2005,United Kingdom,0.481
+2010,United Kingdom,0.507
+2015,United Kingdom,0.629
+2000,United States,0.729
+2001,United States,0.697
+2002,United States,0.656
+2003,United States,0.626
+2004,United States,0.636
+2005,United States,0.623
+2006,United States,0.595
+2007,United States,0.568
+2008,United States,0.491
+2009,United States,0.447
+2010,United States,0.455
+2011,United States,0.473
+2000,Chile,0.449
+2005,Chile,0.531
+2009,Chile,0.576
+2012,Chile,0.622
+2013,Chile,0.577
+2014,Chile,0.535
+2015,Chile,0.538
+2000,Estonia,0.815
+2001,Estonia,0.947
+2002,Estonia,0.779
+2003,Estonia,0.752
+2004,Estonia,0.618
+2005,Estonia,0.609
+2006,Estonia,0.438
+2007,Estonia,0.395
+2008,Estonia,0.355
+2009,Estonia,0.48
+2010,Estonia,0.604
+2011,Estonia,0.655
+2012,Estonia,0.733
+2013,Estonia,0.714
+2014,Estonia,0.699
+2015,Estonia,0.701
+2016,Estonia,0.752
+2017,Estonia,0.763
+2000,Slovenia,0.244
+2005,Slovenia,0.293
+2006,Slovenia,0.345
+2007,Slovenia,0.3
+2008,Slovenia,0.317
+2009,Slovenia,0.311
+2012,Slovenia,0.469
+2000,Spain,0.502
+2005,Spain,0.49
+2010,Spain,0.53
+2005,Latvia,0.559
+2006,Latvia,0.559
+2007,Latvia,0.539
+2008,Latvia,0.401
+2009,Latvia,0.466
+2010,Latvia,0.539
+2011,Latvia,0.563
+2012,Latvia,0.538
+2013,Latvia,0.523
+2014,Latvia,0.55
+2015,Latvia,0.541
+2016,Latvia,0.555
+2017,Latvia,0.57
+2007,Lithuania,0.706
+2008,Lithuania,0.701
+2009,Lithuania,0.66
+2010,Lithuania,0.602
+2011,Lithuania,0.566
+2012,Lithuania,0.552
+2013,Lithuania,0.546
+2014,Lithuania,0.565
+2015,Lithuania,0.568
+2016,Lithuania,0.601
+2017,Lithuania,0.591

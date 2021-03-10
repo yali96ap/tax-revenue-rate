@@ -1,0 +1,888 @@
+Year,Country,Variable,Value
+2000,Australia,Fellings,24407.727
+2001,Australia,Fellings,24474
+2002,Australia,Fellings,24296
+2003,Australia,Fellings,25819
+2004,Australia,Fellings,26498
+2005,Australia,Fellings,26998.358
+2006,Australia,Fellings,26734.156
+2007,Australia,Fellings,27192.006
+2008,Australia,Fellings,28367.758
+2009,Australia,Fellings,25798.803
+2010,Australia,Fellings,25563
+2011,Australia,Fellings,26532
+2012,Australia,Fellings,23497
+2013,Australia,Fellings,22580
+2014,Australia,Fellings,25266
+2015,Australia,Fellings,27290
+2016,Australia,Fellings,30083
+2005,Austria,Fellings,23511
+2000,Belgium,Fellings,3457
+2005,Belgium,Fellings,4389
+2010,Belgium,Fellings,5230.195
+2012,Belgium,Fellings,5057.122
+2000,Canada,Fellings,202372
+2001,Canada,Fellings,187300
+2002,Canada,Fellings,198231
+2003,Canada,Fellings,184273
+2004,Canada,Fellings,210871
+2005,Canada,Fellings,205665
+2006,Canada,Fellings,185359
+2007,Canada,Fellings,165921
+2008,Canada,Fellings,141397
+2009,Canada,Fellings,118935
+2010,Canada,Fellings,144274
+2011,Canada,Fellings,150483
+2012,Canada,Fellings,153185
+2013,Canada,Fellings,155531
+2014,Canada,Fellings,155136
+2015,Canada,Fellings,160164
+2016,Canada,Fellings,156744
+2000,Czech Republic,Fellings,16005
+2001,Czech Republic,Fellings,15931
+2002,Czech Republic,Fellings,16116
+2003,Czech Republic,Fellings,16780
+2004,Czech Republic,Fellings,17291
+2005,Czech Republic,Fellings,17190
+2006,Czech Republic,Fellings,19593
+2007,Czech Republic,Fellings,20513
+2008,Czech Republic,Fellings,17940
+2009,Czech Republic,Fellings,17179
+2010,Czech Republic,Fellings,18553
+2011,Czech Republic,Fellings,17047
+2012,Czech Republic,Fellings,16692
+2013,Czech Republic,Fellings,16991
+2014,Czech Republic,Fellings,17152
+2015,Czech Republic,Fellings,17913
+2016,Czech Republic,Fellings,19525
+2017,Czech Republic,Fellings,21487
+2000,Denmark,Fellings,3193
+2001,Denmark,Fellings,1559
+2002,Denmark,Fellings,1397
+2003,Denmark,Fellings,1572
+2004,Denmark,Fellings,1623
+2005,Denmark,Fellings,2576
+2006,Denmark,Fellings,2043
+2007,Denmark,Fellings,2217
+2008,Denmark,Fellings,2062
+2009,Denmark,Fellings,2091
+2010,Denmark,Fellings,2309
+2011,Denmark,Fellings,2231
+2012,Denmark,Fellings,3981
+2013,Denmark,Fellings,4195
+2014,Denmark,Fellings,4345
+2015,Denmark,Fellings,3831
+2016,Denmark,Fellings,3939
+2017,Denmark,Fellings,4270.782
+2000,Finland,Fellings,69973
+2001,Finland,Fellings,67723
+2002,Finland,Fellings,68711
+2003,Finland,Fellings,69896
+2004,Finland,Fellings,69934
+2005,Finland,Fellings,67326
+2006,Finland,Fellings,65376
+2007,Finland,Fellings,72932
+2008,Finland,Fellings,71208
+2009,Finland,Fellings,60135
+2010,Finland,Fellings,72788
+2011,Finland,Fellings,73643
+2012,Finland,Fellings,72900
+2013,Finland,Fellings,79185
+2014,Finland,Fellings,79152
+2015,Finland,Fellings,82396
+2016,Finland,Fellings,85744
+2017,Finland,Fellings,87191
+2002,France,Fellings,70658
+2003,France,Fellings,64132
+2004,France,Fellings,59001
+2009,France,Fellings,45880
+2010,France,Fellings,46852
+2011,France,Fellings,48470
+2012,France,Fellings,49037
+2013,France,Fellings,48094
+2014,France,Fellings,47401
+2000,Germany,Fellings,91175
+2001,Germany,Fellings,72315
+2002,Germany,Fellings,76350.41
+2003,Germany,Fellings,87561.641
+2004,Germany,Fellings,97802.409
+2005,Germany,Fellings,101778.434
+2006,Germany,Fellings,109954.993
+2007,Germany,Fellings,124192.003
+2008,Germany,Fellings,101603.932
+2009,Germany,Fellings,87868.686
+2010,Germany,Fellings,101200.015
+2011,Germany,Fellings,93409.229
+2012,Germany,Fellings,93821.429
+2013,Germany,Fellings,87237.812
+2014,Germany,Fellings,86927.669
+2015,Germany,Fellings,88504.991
+2016,Germany,Fellings,85341.732
+2000,Greece,Fellings,1972
+2001,Greece,Fellings,1529
+2002,Greece,Fellings,1586
+2003,Greece,Fellings,1650
+2004,Greece,Fellings,1693
+2005,Greece,Fellings,1601
+2006,Greece,Fellings,1666
+2007,Greece,Fellings,1587
+2008,Greece,Fellings,1466
+2009,Greece,Fellings,1267
+2010,Greece,Fellings,1838
+2011,Greece,Fellings,1833.75
+2012,Greece,Fellings,1711.879
+2013,Greece,Fellings,1596.427
+2014,Greece,Fellings,1431.926
+2000,Hungary,Fellings,7287
+2001,Hungary,Fellings,7011
+2002,Hungary,Fellings,7013
+2003,Hungary,Fellings,7085
+2004,Hungary,Fellings,7094
+2005,Hungary,Fellings,7167
+2006,Hungary,Fellings,7005
+2007,Hungary,Fellings,6609
+2008,Hungary,Fellings,7024
+2009,Hungary,Fellings,6774
+2010,Hungary,Fellings,7424
+2011,Hungary,Fellings,8080
+2012,Hungary,Fellings,7732
+2013,Hungary,Fellings,7875
+2014,Hungary,Fellings,7517
+2015,Hungary,Fellings,7354
+2016,Hungary,Fellings,7338
+2017,Hungary,Fellings,7576
+2005,Iceland,Fellings,0.5
+2000,Ireland,Fellings,3043
+2005,Ireland,Fellings,3206
+2006,Ireland,Fellings,3234
+2007,Ireland,Fellings,3240.6
+2008,Ireland,Fellings,2636.7
+2009,Ireland,Fellings,2732.4
+2010,Ireland,Fellings,2948
+2011,Ireland,Fellings,2953.5
+2012,Ireland,Fellings,3121.8
+2013,Ireland,Fellings,3339.6
+2014,Ireland,Fellings,3425.4
+2015,Ireland,Fellings,3575
+2016,Ireland,Fellings,3690.5
+2017,Ireland,Fellings,3894
+2000,Italy,Fellings,14327
+2005,Italy,Fellings,13298
+2010,Italy,Fellings,12755
+2000,Japan,Fellings,24650
+2005,Japan,Fellings,34659
+2006,Japan,Fellings,35784
+2007,Japan,Fellings,39690
+2008,Japan,Fellings,41194
+2009,Japan,Fellings,43484
+2010,Japan,Fellings,44152
+2011,Japan,Fellings,45931
+2012,Japan,Fellings,39455
+2013,Japan,Fellings,40209
+2014,Japan,Fellings,41881
+2015,Japan,Fellings,43806
+2016,Japan,Fellings,45816
+2000,Korea,Fellings,2438
+2005,Korea,Fellings,3573
+2006,Korea,Fellings,3728
+2007,Korea,Fellings,4553
+2008,Korea,Fellings,4727
+2009,Korea,Fellings,7678
+2010,Korea,Fellings,8671
+2011,Korea,Fellings,9953
+2012,Korea,Fellings,10701
+2013,Korea,Fellings,9323
+2014,Korea,Fellings,8763
+2015,Korea,Fellings,7769
+2016,Korea,Fellings,7670
+2017,Korea,Fellings,6750
+2000,Luxembourg,Fellings,316
+2005,Luxembourg,Fellings,249
+2006,Luxembourg,Fellings,294
+2007,Luxembourg,Fellings,370
+2008,Luxembourg,Fellings,382
+2009,Luxembourg,Fellings,354
+2010,Luxembourg,Fellings,464
+2011,Luxembourg,Fellings,515
+2012,Luxembourg,Fellings,363
+2013,Luxembourg,Fellings,356
+2014,Luxembourg,Fellings,405
+2015,Luxembourg,Fellings,438
+2016,Luxembourg,Fellings,382
+2017,Luxembourg,Fellings,432
+2000,Mexico,Fellings,9429.8
+2001,Mexico,Fellings,8124.571
+2002,Mexico,Fellings,6664.72
+2003,Mexico,Fellings,6996.77
+2004,Mexico,Fellings,6718.508
+2005,Mexico,Fellings,6423.898
+2006,Mexico,Fellings,6481.167
+2007,Mexico,Fellings,6988.461
+2008,Mexico,Fellings,6304.948
+2009,Mexico,Fellings,5808.957
+2010,Mexico,Fellings,5627.087
+2011,Mexico,Fellings,5501.086
+2012,Mexico,Fellings,5910.293
+2013,Mexico,Fellings,5957.094
+2014,Mexico,Fellings,5664.934
+2015,Mexico,Fellings,6122.241
+2016,Mexico,Fellings,6715.284
+2017,Mexico,Fellings,7072.005
+2000,Netherlands,Fellings,1354
+2005,Netherlands,Fellings,1314
+2010,Netherlands,Fellings,1295
+2013,Netherlands,Fellings,1267
+2017,Netherlands,Fellings,1321
+2000,New Zealand,Fellings,18196
+2001,New Zealand,Fellings,19287
+2002,New Zealand,Fellings,20940
+2003,New Zealand,Fellings,22472
+2004,New Zealand,Fellings,20911
+2005,New Zealand,Fellings,19334
+2006,New Zealand,Fellings,18894
+2007,New Zealand,Fellings,19974
+2008,New Zealand,Fellings,20481
+2009,New Zealand,Fellings,18937
+2010,New Zealand,Fellings,22042
+2011,New Zealand,Fellings,25131
+2012,New Zealand,Fellings,26070
+2013,New Zealand,Fellings,28163.682
+2014,New Zealand,Fellings,30258.37
+2015,New Zealand,Fellings,29580
+2016,New Zealand,Fellings,28536
+2017,New Zealand,Fellings,31411
+2000,Norway,Fellings,12048
+2005,Norway,Fellings,13068
+2006,Norway,Fellings,11764
+2007,Norway,Fellings,12845
+2008,Norway,Fellings,12705
+2009,Norway,Fellings,11038
+2010,Norway,Fellings,13359
+2011,Norway,Fellings,13116
+2012,Norway,Fellings,13758
+2013,Norway,Fellings,13313
+2014,Norway,Fellings,14081
+2015,Norway,Fellings,15547
+2016,Norway,Fellings,15711
+2017,Norway,Fellings,16056
+2000,Poland,Fellings,32531
+2005,Poland,Fellings,37156
+2009,Poland,Fellings,37754
+2010,Poland,Fellings,46600
+2000,Portugal,Fellings,12650
+2001,Portugal,Fellings,11909.849
+2002,Portugal,Fellings,11501.143
+2003,Portugal,Fellings,12701.785
+2004,Portugal,Fellings,14321.285
+2005,Portugal,Fellings,14229
+2006,Portugal,Fellings,14130.741
+2007,Portugal,Fellings,14184.832
+2008,Portugal,Fellings,13259.652
+2009,Portugal,Fellings,12588.492
+2000,Slovak Republic,Fellings,6218
+2001,Slovak Republic,Fellings,6185
+2002,Slovak Republic,Fellings,6248
+2003,Slovak Republic,Fellings,6652
+2004,Slovak Republic,Fellings,7268
+2005,Slovak Republic,Fellings,10191
+2006,Slovak Republic,Fellings,8357
+2007,Slovak Republic,Fellings,8367
+2008,Slovak Republic,Fellings,9467
+2009,Slovak Republic,Fellings,9248
+2010,Slovak Republic,Fellings,9860
+2011,Slovak Republic,Fellings,9467
+2012,Slovak Republic,Fellings,8232
+2013,Slovak Republic,Fellings,7837
+2014,Slovak Republic,Fellings,9417
+2015,Slovak Republic,Fellings,9249
+2016,Slovak Republic,Fellings,9321
+2017,Slovak Republic,Fellings,9393
+2000,Spain,Fellings,16873.389
+2005,Spain,Fellings,17369.103
+2010,Spain,Fellings,19706.466
+2000,Sweden,Fellings,71200
+2005,Sweden,Fellings,86400
+2009,Sweden,Fellings,78800
+2010,Sweden,Fellings,88900
+2011,Sweden,Fellings,88400
+2012,Sweden,Fellings,85500
+2013,Sweden,Fellings,85600
+2014,Sweden,Fellings,91500
+2015,Sweden,Fellings,92400
+2016,Sweden,Fellings,93300
+2017,Sweden,Fellings,90900
+2000,Switzerland,Fellings,7838
+2005,Switzerland,Fellings,8076
+2010,Switzerland,Fellings,8289
+2015,Switzerland,Fellings,8505
+2000,Turkey,Fellings,12880
+2005,Turkey,Fellings,14107
+2009,Turkey,Fellings,18736
+2010,Turkey,Fellings,16424
+2011,Turkey,Fellings,17216
+2012,Turkey,Fellings,17893
+2013,Turkey,Fellings,17886
+2014,Turkey,Fellings,19276
+2015,Turkey,Fellings,21241
+2016,Turkey,Fellings,21129
+2017,Turkey,Fellings,20196
+2000,United Kingdom,Fellings,9678
+2005,United Kingdom,Fellings,10551
+2010,United Kingdom,Fellings,11646
+2015,United Kingdom,Fellings,13517
+2000,Chile,Fellings,35892.04
+2005,Chile,Fellings,45707.22
+2009,Chile,Fellings,52696.44
+2012,Chile,Fellings,59659
+2013,Chile,Fellings,54400
+2014,Chile,Fellings,51907
+2015,Chile,Fellings,52006
+2000,Estonia,Fellings,10556.467
+2001,Estonia,Fellings,12403.272
+2002,Estonia,Fellings,10134.305
+2003,Estonia,Fellings,9834.424
+2004,Estonia,Fellings,8101.82
+2005,Estonia,Fellings,7962.095
+2006,Estonia,Fellings,5737.211
+2007,Estonia,Fellings,5167.935
+2008,Estonia,Fellings,4639.198
+2009,Estonia,Fellings,6349.505
+2010,Estonia,Fellings,8165.22
+2011,Estonia,Fellings,8990.496
+2012,Estonia,Fellings,10181.723
+2013,Estonia,Fellings,10091.724
+2014,Estonia,Fellings,10007.563
+2015,Estonia,Fellings,10046.291
+2016,Estonia,Fellings,10737.585
+2017,Estonia,Fellings,10992
+2000,Russia,Fellings,86489
+2001,Russia,Fellings,89287
+2002,Russia,Fellings,94656
+2003,Russia,Fellings,111915
+2004,Russia,Fellings,121516
+2005,Russia,Fellings,124224
+2006,Russia,Fellings,125427
+2007,Russia,Fellings,142177
+2008,Russia,Fellings,113128
+2009,Russia,Fellings,100059
+2010,Russia,Fellings,112163
+2000,Slovenia,Fellings,2609
+2005,Slovenia,Fellings,3153
+2006,Slovenia,Fellings,3718
+2007,Slovenia,Fellings,3242
+2008,Slovenia,Fellings,3427
+2009,Slovenia,Fellings,3374
+2012,Slovenia,Fellings,4869
+2005,Austria,Natural losses,5486
+2012,Denmark,Natural losses,352
+2013,Denmark,Natural losses,397
+2014,Denmark,Natural losses,424
+2015,Denmark,Natural losses,443
+2016,Denmark,Natural losses,473
+2017,Denmark,Natural losses,488.718
+2005,Finland,Natural losses,2760
+2006,Finland,Natural losses,2760
+2007,Finland,Natural losses,2760
+2008,Finland,Natural losses,4736
+2009,Finland,Natural losses,4736
+2010,Finland,Natural losses,4736
+2011,Finland,Natural losses,4736
+2012,Finland,Natural losses,4736
+2013,Finland,Natural losses,4736
+2014,Finland,Natural losses,4736
+2015,Finland,Natural losses,4736
+2016,Finland,Natural losses,5602
+2017,Finland,Natural losses,5602
+2002,France,Natural losses,6787
+2003,France,Natural losses,6904
+2004,France,Natural losses,7007
+2009,France,Natural losses,8708
+2010,France,Natural losses,8655
+2011,France,Natural losses,8800
+2012,France,Natural losses,9126
+2013,France,Natural losses,9354
+2014,France,Natural losses,9768
+2000,Germany,Natural losses,2890
+2001,Germany,Natural losses,2897
+2002,Germany,Natural losses,3790.012
+2003,Germany,Natural losses,3783.926
+2004,Germany,Natural losses,3775.977
+2005,Germany,Natural losses,3765.116
+2006,Germany,Natural losses,3757.199
+2007,Germany,Natural losses,3751.604
+2008,Germany,Natural losses,3745.075
+2009,Germany,Natural losses,3738.453
+2010,Germany,Natural losses,3697.832
+2011,Germany,Natural losses,3691.339
+2012,Germany,Natural losses,3684.455
+2013,Germany,Natural losses,3685.336
+2014,Germany,Natural losses,5158.981
+2015,Germany,Natural losses,5252.591
+2016,Germany,Natural losses,5064.858
+2007,Ireland,Natural losses,403
+2008,Ireland,Natural losses,403
+2009,Ireland,Natural losses,403
+2010,Ireland,Natural losses,403
+2011,Ireland,Natural losses,403
+2012,Ireland,Natural losses,403
+2013,Ireland,Natural losses,403
+2014,Ireland,Natural losses,403
+2015,Ireland,Natural losses,403
+2016,Ireland,Natural losses,403
+2017,Ireland,Natural losses,292.93
+2000,Italy,Natural losses,4348
+2005,Italy,Natural losses,4520
+2010,Italy,Natural losses,4689
+2015,Italy,Natural losses,4860
+2000,Japan,Natural losses,837
+2005,Japan,Natural losses,689
+2006,Japan,Natural losses,644
+2007,Japan,Natural losses,619
+2008,Japan,Natural losses,626
+2009,Japan,Natural losses,594
+2010,Japan,Natural losses,582
+2011,Japan,Natural losses,645
+2012,Japan,Natural losses,643
+2013,Japan,Natural losses,627
+2014,Japan,Natural losses,561
+2015,Japan,Natural losses,481
+2016,Japan,Natural losses,440
+2000,Korea,Natural losses,1373
+2005,Korea,Natural losses,114
+2006,Korea,Natural losses,8
+2007,Korea,Natural losses,6
+2008,Korea,Natural losses,5
+2009,Korea,Natural losses,91
+2010,Korea,Natural losses,11
+2011,Korea,Natural losses,92
+2012,Korea,Natural losses,475
+2013,Korea,Natural losses,533
+2014,Korea,Natural losses,836
+2015,Korea,Natural losses,730
+2016,Korea,Natural losses,507
+2017,Korea,Natural losses,100
+2011,Luxembourg,Natural losses,86
+2012,Luxembourg,Natural losses,85
+2013,Luxembourg,Natural losses,62
+2014,Luxembourg,Natural losses,101
+2015,Luxembourg,Natural losses,62
+2016,Luxembourg,Natural losses,62
+2017,Luxembourg,Natural losses,62
+2000,Netherlands,Natural losses,155
+2005,Netherlands,Natural losses,156
+2010,Netherlands,Natural losses,157
+2013,Netherlands,Natural losses,168
+2017,Netherlands,Natural losses,158
+2000,Norway,Natural losses,3713
+2005,Norway,Natural losses,3884
+2006,Norway,Natural losses,3788
+2007,Norway,Natural losses,3612
+2008,Norway,Natural losses,3542
+2009,Norway,Natural losses,3524
+2010,Norway,Natural losses,3551
+2011,Norway,Natural losses,3585
+2012,Norway,Natural losses,3620
+2013,Norway,Natural losses,3657
+2014,Norway,Natural losses,3694
+2015,Norway,Natural losses,4188
+2016,Norway,Natural losses,4188
+2017,Norway,Natural losses,4188
+2000,Poland,Natural losses,18118
+2005,Poland,Natural losses,18400
+2010,Poland,Natural losses,10300
+2000,Portugal,Natural losses,1143
+2005,Portugal,Natural losses,1132
+2000,Spain,Natural losses,1551.741
+2005,Spain,Natural losses,1633.685
+2010,Spain,Natural losses,1715.628
+2000,Sweden,Natural losses,4627
+2005,Sweden,Natural losses,9387
+2010,Sweden,Natural losses,5131
+2015,Sweden,Natural losses,8297
+2000,Switzerland,Natural losses,2041
+2005,Switzerland,Natural losses,1901
+2010,Switzerland,Natural losses,1749
+2015,Switzerland,Natural losses,1592
+2000,Turkey,Natural losses,2256
+2005,Turkey,Natural losses,1789
+2009,Turkey,Natural losses,4170
+2011,Turkey,Natural losses,3245
+2012,Turkey,Natural losses,3073
+2013,Turkey,Natural losses,4014
+2014,Turkey,Natural losses,2567
+2015,Turkey,Natural losses,5246
+2016,Turkey,Natural losses,3324
+2017,Turkey,Natural losses,2763
+2000,United States,Natural losses,169248
+2001,United States,Natural losses,178586
+2002,United States,Natural losses,187211
+2003,United States,Natural losses,195836
+2004,United States,Natural losses,204461
+2005,United States,Natural losses,213086
+2006,United States,Natural losses,221713
+2007,United States,Natural losses,228448
+2008,United States,Natural losses,235183
+2009,United States,Natural losses,241918
+2010,United States,Natural losses,248653
+2011,United States,Natural losses,255389
+2000,Chile,Natural losses,4116.79
+2005,Chile,Natural losses,2454.1
+2009,Chile,Natural losses,2818.05
+2012,Chile,Natural losses,5152
+2000,Slovenia,Natural losses,1035
+2005,Slovenia,Natural losses,1044
+2006,Slovenia,Natural losses,1045
+2007,Slovenia,Natural losses,1047
+2008,Slovenia,Natural losses,1049
+2009,Slovenia,Natural losses,1051
+2005,Austria,Gross Increment,30622
+2000,Belgium,Gross Increment,5289
+2005,Belgium,Gross Increment,5289
+2010,Belgium,Gross Increment,4951.334
+2012,Belgium,Gross Increment,4601.401
+2000,Czech Republic,Gross Increment,21944
+2001,Czech Republic,Gross Increment,22277
+2002,Czech Republic,Gross Increment,22332
+2003,Czech Republic,Gross Increment,22356
+2004,Czech Republic,Gross Increment,22548
+2005,Czech Republic,Gross Increment,22680
+2006,Czech Republic,Gross Increment,22804
+2007,Czech Republic,Gross Increment,22961
+2008,Czech Republic,Gross Increment,23083
+2009,Czech Republic,Gross Increment,23988
+2010,Czech Republic,Gross Increment,23539
+2011,Czech Republic,Gross Increment,23767
+2012,Czech Republic,Gross Increment,23909
+2013,Czech Republic,Gross Increment,24071
+2014,Czech Republic,Gross Increment,24209
+2015,Czech Republic,Gross Increment,24175
+2016,Czech Republic,Gross Increment,24380
+2017,Czech Republic,Gross Increment,24518
+2000,Denmark,Gross Increment,5382
+2005,Denmark,Gross Increment,4854.6
+2010,Denmark,Gross Increment,5049.06
+2012,Denmark,Gross Increment,6711
+2013,Denmark,Gross Increment,6920
+2014,Denmark,Gross Increment,7708
+2015,Denmark,Gross Increment,7331
+2016,Denmark,Gross Increment,6797
+2017,Denmark,Gross Increment,6345.671
+2000,Finland,Gross Increment,94070
+2001,Finland,Gross Increment,95880
+2002,Finland,Gross Increment,97690
+2003,Finland,Gross Increment,99500
+2004,Finland,Gross Increment,100690
+2005,Finland,Gross Increment,101890
+2006,Finland,Gross Increment,103080
+2007,Finland,Gross Increment,104280
+2008,Finland,Gross Increment,105470
+2009,Finland,Gross Increment,105780
+2010,Finland,Gross Increment,106080
+2011,Finland,Gross Increment,106390
+2012,Finland,Gross Increment,106690
+2013,Finland,Gross Increment,107000
+2014,Finland,Gross Increment,107000
+2015,Finland,Gross Increment,107000
+2016,Finland,Gross Increment,107000
+2017,Finland,Gross Increment,107000
+2002,France,Gross Increment,97496
+2003,France,Gross Increment,99010
+2004,France,Gross Increment,100581
+2009,France,Gross Increment,89939
+2010,France,Gross Increment,91319
+2011,France,Gross Increment,91929
+2012,France,Gross Increment,92219
+2013,France,Gross Increment,92385
+2014,France,Gross Increment,91806
+2000,Germany,Gross Increment,121650.554
+2001,Germany,Gross Increment,121921.632
+2002,Germany,Gross Increment,119921.023
+2003,Germany,Gross Increment,119728.501
+2004,Germany,Gross Increment,119476.99
+2005,Germany,Gross Increment,119133.362
+2006,Germany,Gross Increment,118882.876
+2007,Germany,Gross Increment,118705.855
+2008,Germany,Gross Increment,118499.284
+2009,Germany,Gross Increment,118289.792
+2010,Germany,Gross Increment,117004.577
+2011,Germany,Gross Increment,116799.165
+2012,Germany,Gross Increment,116571.115
+2013,Germany,Gross Increment,116598.982
+2014,Germany,Gross Increment,113740.802
+2015,Germany,Gross Increment,113742.838
+2016,Germany,Gross Increment,113754.132
+2000,Hungary,Gross Increment,11711
+2001,Hungary,Gross Increment,11973
+2002,Hungary,Gross Increment,12061
+2003,Hungary,Gross Increment,12308
+2004,Hungary,Gross Increment,12518
+2005,Hungary,Gross Increment,12899
+2006,Hungary,Gross Increment,13702
+2007,Hungary,Gross Increment,12917
+2008,Hungary,Gross Increment,13275
+2009,Hungary,Gross Increment,13345
+2010,Hungary,Gross Increment,13142
+2011,Hungary,Gross Increment,13070
+2012,Hungary,Gross Increment,13035
+2013,Hungary,Gross Increment,13069
+2014,Hungary,Gross Increment,13052
+2015,Hungary,Gross Increment,13034
+2016,Hungary,Gross Increment,13008
+2017,Hungary,Gross Increment,12984
+2000,Iceland,Gross Increment,37
+2000,Ireland,Gross Increment,4257
+2005,Ireland,Gross Increment,4485
+2006,Ireland,Gross Increment,4653
+2010,Ireland,Gross Increment,5356
+2012,Ireland,Gross Increment,7685
+2013,Ireland,Gross Increment,7685
+2014,Ireland,Gross Increment,7685
+2015,Ireland,Gross Increment,7685
+2016,Ireland,Gross Increment,7685
+2017,Ireland,Gross Increment,8532
+2000,Italy,Gross Increment,34510
+2005,Italy,Gross Increment,35872
+2010,Italy,Gross Increment,37122
+2015,Italy,Gross Increment,38371
+2000,Japan,Gross Increment,85000
+2005,Japan,Gross Increment,87143
+2000,Korea,Gross Increment,19818
+2005,Korea,Gross Increment,17316
+2006,Korea,Gross Increment,21262
+2008,Korea,Gross Increment,37010
+2009,Korea,Gross Increment,41428
+2011,Korea,Gross Increment,38002
+2012,Korea,Gross Increment,31955
+2013,Korea,Gross Increment,33702
+2014,Korea,Gross Increment,38802
+2015,Korea,Gross Increment,31499
+2016,Korea,Gross Increment,33853
+2017,Korea,Gross Increment,29964
+2007,Luxembourg,Gross Increment,750
+2011,Luxembourg,Gross Increment,712
+2012,Luxembourg,Gross Increment,739
+2013,Luxembourg,Gross Increment,758
+2014,Luxembourg,Gross Increment,758
+2015,Luxembourg,Gross Increment,758
+2016,Luxembourg,Gross Increment,758
+2017,Luxembourg,Gross Increment,758
+2000,Netherlands,Gross Increment,2381
+2005,Netherlands,Gross Increment,2894
+2010,Netherlands,Gross Increment,2895
+2013,Netherlands,Gross Increment,2724
+2017,Netherlands,Gross Increment,2662
+2000,New Zealand,Gross Increment,32274
+2001,New Zealand,Gross Increment,33310
+2002,New Zealand,Gross Increment,34282
+2003,New Zealand,Gross Increment,35142
+2004,New Zealand,Gross Increment,36254
+2005,New Zealand,Gross Increment,36864
+2006,New Zealand,Gross Increment,37745
+2007,New Zealand,Gross Increment,38841
+2008,New Zealand,Gross Increment,39428
+2009,New Zealand,Gross Increment,40489
+2010,New Zealand,Gross Increment,41115
+2011,New Zealand,Gross Increment,41745
+2012,New Zealand,Gross Increment,42094
+2013,New Zealand,Gross Increment,42856
+2014,New Zealand,Gross Increment,43058
+2015,New Zealand,Gross Increment,42666
+2016,New Zealand,Gross Increment,41643
+2017,New Zealand,Gross Increment,41645
+2000,Norway,Gross Increment,29889
+2005,Norway,Gross Increment,31272
+2006,Norway,Gross Increment,30600
+2007,Norway,Gross Increment,29271
+2008,Norway,Gross Increment,28884
+2009,Norway,Gross Increment,28963
+2010,Norway,Gross Increment,29297
+2011,Norway,Gross Increment,29633
+2012,Norway,Gross Increment,29969
+2013,Norway,Gross Increment,30180
+2014,Norway,Gross Increment,30391
+2015,Norway,Gross Increment,29806
+2016,Norway,Gross Increment,29806
+2017,Norway,Gross Increment,29806
+2000,Poland,Gross Increment,61028
+2005,Poland,Gross Increment,67596
+2010,Poland,Gross Increment,72600
+2000,Portugal,Gross Increment,20197
+2005,Portugal,Gross Increment,20002
+2000,Slovak Republic,Gross Increment,11204
+2001,Slovak Republic,Gross Increment,11299
+2002,Slovak Republic,Gross Increment,11391
+2003,Slovak Republic,Gross Increment,11451
+2004,Slovak Republic,Gross Increment,11534
+2005,Slovak Republic,Gross Increment,11584
+2006,Slovak Republic,Gross Increment,11671
+2007,Slovak Republic,Gross Increment,11665
+2008,Slovak Republic,Gross Increment,11786
+2009,Slovak Republic,Gross Increment,11866
+2010,Slovak Republic,Gross Increment,11953
+2011,Slovak Republic,Gross Increment,12024
+2012,Slovak Republic,Gross Increment,12126
+2013,Slovak Republic,Gross Increment,11982
+2014,Slovak Republic,Gross Increment,12079
+2015,Slovak Republic,Gross Increment,12092
+2016,Slovak Republic,Gross Increment,12079
+2017,Slovak Republic,Gross Increment,12023
+2000,Spain,Gross Increment,33641.608
+2005,Spain,Gross Increment,35418.134
+2010,Spain,Gross Increment,37194.659
+2000,Sweden,Gross Increment,91309.645
+2005,Sweden,Gross Increment,101446.974
+2009,Sweden,Gross Increment,119320
+2010,Sweden,Gross Increment,121040
+2011,Sweden,Gross Increment,123470
+2012,Sweden,Gross Increment,125310
+2013,Sweden,Gross Increment,128130
+2014,Sweden,Gross Increment,128920
+2015,Sweden,Gross Increment,127910
+2000,Switzerland,Gross Increment,10371
+2005,Switzerland,Gross Increment,11002
+2010,Switzerland,Gross Increment,11611
+2015,Switzerland,Gross Increment,12232
+2009,Turkey,Gross Increment,36282
+2010,Turkey,Gross Increment,36282
+2011,Turkey,Gross Increment,36282
+2012,Turkey,Gross Increment,42179
+2013,Turkey,Gross Increment,42179
+2014,Turkey,Gross Increment,42179
+2015,Turkey,Gross Increment,45904
+2016,Turkey,Gross Increment,45904
+2017,Turkey,Gross Increment,45904
+2000,United Kingdom,Gross Increment,21070
+2005,United Kingdom,Gross Increment,21930
+2010,United Kingdom,Gross Increment,22987
+2015,United Kingdom,Gross Increment,21488
+2000,United States,Gross Increment,839530
+2001,United States,Gross Increment,849659
+2002,United States,Gross Increment,875596
+2003,United States,Gross Increment,901533
+2004,United States,Gross Increment,927470
+2005,United States,Gross Increment,953407
+2006,United States,Gross Increment,979344
+2007,United States,Gross Increment,984203
+2008,United States,Gross Increment,989062
+2009,United States,Gross Increment,993921
+2010,United States,Gross Increment,998780
+2011,United States,Gross Increment,1003638
+2000,Chile,Gross Increment,79866.9
+2005,Chile,Gross Increment,86121.361
+2009,Chile,Gross Increment,91515.88
+2012,Chile,Gross Increment,95910
+2013,Chile,Gross Increment,94355
+2014,Chile,Gross Increment,97023
+2015,Chile,Gross Increment,96582
+2000,Estonia,Gross Increment,12955.955
+2001,Estonia,Gross Increment,13098.128
+2002,Estonia,Gross Increment,13007.093
+2003,Estonia,Gross Increment,13080.67
+2004,Estonia,Gross Increment,13118.673
+2005,Estonia,Gross Increment,13064.244
+2006,Estonia,Gross Increment,13099.844
+2007,Estonia,Gross Increment,13085.256
+2008,Estonia,Gross Increment,13068.595
+2009,Estonia,Gross Increment,13222.135
+2010,Estonia,Gross Increment,13511.355
+2011,Estonia,Gross Increment,13722.999
+2012,Estonia,Gross Increment,13888.004
+2013,Estonia,Gross Increment,14134.8
+2014,Estonia,Gross Increment,14321.311
+2015,Estonia,Gross Increment,14324.533
+2016,Estonia,Gross Increment,14271.903
+2017,Estonia,Gross Increment,14401.577
+2000,Slovenia,Gross Increment,10678
+2005,Slovenia,Gross Increment,10765
+2006,Slovenia,Gross Increment,10783
+2007,Slovenia,Gross Increment,10801
+2008,Slovenia,Gross Increment,10818
+2009,Slovenia,Gross Increment,10836
+2012,Slovenia,Gross Increment,10391
+2000,Costa Rica,Fellings,205
+2005,Costa Rica,Fellings,582.5
+2006,Costa Rica,Fellings,703.7
+2007,Costa Rica,Fellings,538.3
+2008,Costa Rica,Fellings,576
+2009,Costa Rica,Fellings,490.5
+2010,Costa Rica,Fellings,351.1
+2011,Costa Rica,Fellings,454.5
+2012,Costa Rica,Fellings,510
+2013,Costa Rica,Fellings,479.3
+2014,Costa Rica,Fellings,542.2
+2015,Costa Rica,Fellings,588.4
+2016,Costa Rica,Fellings,480.3
+2017,Costa Rica,Fellings,446.53
+2000,Latvia,Fellings,15734.4
+2001,Latvia,Fellings,14125.1
+2002,Latvia,Fellings,14812.6
+2003,Latvia,Fellings,14207.391
+2004,Latvia,Fellings,14029.4
+2005,Latvia,Fellings,14126.97
+2006,Latvia,Fellings,14129.06
+2007,Latvia,Fellings,13633.648
+2008,Latvia,Fellings,10135.716
+2009,Latvia,Fellings,11787.073
+2010,Latvia,Fellings,13879.072
+2011,Latvia,Fellings,14499.83
+2012,Latvia,Fellings,13852.926
+2013,Latvia,Fellings,13466.145
+2014,Latvia,Fellings,14173.879
+2015,Latvia,Fellings,13928.729
+2016,Latvia,Fellings,14299
+2017,Latvia,Fellings,14700
+2010,Latvia,Natural losses,6090
+2011,Latvia,Natural losses,6090
+2012,Latvia,Natural losses,6090
+2013,Latvia,Natural losses,6090
+2014,Latvia,Natural losses,6090
+2015,Latvia,Natural losses,6070
+2016,Latvia,Natural losses,6070
+2017,Latvia,Natural losses,6070
+2005,Latvia,Gross Increment,25280
+2006,Latvia,Gross Increment,25280
+2007,Latvia,Gross Increment,25280
+2008,Latvia,Gross Increment,25280
+2009,Latvia,Gross Increment,25280
+2010,Latvia,Gross Increment,25770
+2011,Latvia,Gross Increment,25770
+2012,Latvia,Gross Increment,25770
+2013,Latvia,Gross Increment,25770
+2014,Latvia,Gross Increment,25770
+2015,Latvia,Gross Increment,25770
+2016,Latvia,Gross Increment,25770
+2017,Latvia,Gross Increment,25770
+2007,Lithuania,Fellings,9720
+2008,Lithuania,Fellings,9650
+2009,Lithuania,Fellings,9250
+2010,Lithuania,Fellings,8640
+2011,Lithuania,Fellings,8430
+2012,Lithuania,Fellings,8530
+2013,Lithuania,Fellings,8600
+2014,Lithuania,Fellings,9180
+2015,Lithuania,Fellings,9550
+2016,Lithuania,Fellings,10350
+2017,Lithuania,Fellings,10610
+2007,Lithuania,Natural losses,2900
+2008,Lithuania,Natural losses,3140
+2009,Lithuania,Natural losses,3270
+2010,Lithuania,Natural losses,3330
+2011,Lithuania,Natural losses,3420
+2012,Lithuania,Natural losses,3310
+2013,Lithuania,Natural losses,3260
+2014,Lithuania,Natural losses,3290
+2015,Lithuania,Natural losses,3220
+2016,Lithuania,Natural losses,3100
+2017,Lithuania,Natural losses,3120
+2007,Lithuania,Gross Increment,13770
+2008,Lithuania,Gross Increment,13760
+2009,Lithuania,Gross Increment,14020
+2010,Lithuania,Gross Increment,14360
+2011,Lithuania,Gross Increment,14890
+2012,Lithuania,Gross Increment,15440
+2013,Lithuania,Gross Increment,15750
+2014,Lithuania,Gross Increment,16260
+2015,Lithuania,Gross Increment,16800
+2016,Lithuania,Gross Increment,17220
+2017,Lithuania,Gross Increment,17940
+2012,Belgium,Natural losses,270.151

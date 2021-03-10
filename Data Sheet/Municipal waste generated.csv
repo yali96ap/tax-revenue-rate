@@ -1,0 +1,3289 @@
+Year,Country,Variable,Value
+2000,Australia,Municipal waste generated,13200
+2007,Australia,Municipal waste generated,12798.666
+2008,Australia,Municipal waste generated,13027.542
+2009,Australia,Municipal waste generated,13256.419
+2010,Australia,Municipal waste generated,13515.592
+2011,Australia,Municipal waste generated,13462.519
+2012,Australia,Municipal waste generated,13344.891
+2013,Australia,Municipal waste generated,13227.263
+2014,Australia,Municipal waste generated,13109.635
+2015,Australia,Municipal waste generated,13344.539
+2000,Australia,Waste from households,7660
+2003,Australia,Waste from households,8903
+2015,Australia,Waste from households,12010
+2003,Australia,Municipal waste treated,8903
+2007,Australia,Municipal waste treated,12798.666
+2008,Australia,Municipal waste treated,13027.542
+2009,Australia,Municipal waste treated,13256.419
+2010,Australia,Municipal waste treated,13515.592
+2011,Australia,Municipal waste treated,13462.519
+2012,Australia,Municipal waste treated,13344.891
+2013,Australia,Municipal waste treated,13227.263
+2014,Australia,Municipal waste treated,13109.635
+2015,Australia,Municipal waste treated,13344.539
+2003,Australia,Recycling,2701
+2007,Australia,Recycling,4710.243
+2008,Australia,Recycling,4971.787
+2009,Australia,Recycling,5233.332
+2010,Australia,Recycling,5404.171
+2011,Australia,Recycling,5689.411
+2012,Australia,Recycling,5636.739
+2013,Australia,Recycling,5584.067
+2014,Australia,Recycling,5531.395
+2015,Australia,Recycling,5605.196
+2003,Australia,Landfill,6202
+2007,Australia,Landfill,7206.41
+2008,Australia,Landfill,7163.31
+2009,Australia,Landfill,7120.21
+2010,Australia,Landfill,7039.32
+2011,Australia,Landfill,6546.76
+2012,Australia,Landfill,6365.2
+2013,Australia,Landfill,6183.64
+2014,Australia,Landfill,6002.07
+2015,Australia,Landfill,6486.13
+2000,Austria,Municipal waste generated,4321
+2001,Austria,Municipal waste generated,4309
+2002,Austria,Municipal waste generated,4589
+2003,Austria,Municipal waste generated,4607
+2004,Austria,Municipal waste generated,4686.7
+2005,Austria,Municipal waste generated,4731.7
+2006,Austria,Municipal waste generated,4932.5
+2007,Austria,Municipal waste generated,4951.1
+2008,Austria,Municipal waste generated,4996.9
+2009,Austria,Municipal waste generated,4921
+2010,Austria,Municipal waste generated,4700.8
+2011,Austria,Municipal waste generated,4806.9
+2012,Austria,Municipal waste generated,4883.3
+2013,Austria,Municipal waste generated,4905.2
+2014,Austria,Municipal waste generated,4832.5
+2015,Austria,Municipal waste generated,4836
+2016,Austria,Municipal waste generated,4928.4
+2017,Austria,Municipal waste generated,5017.6
+2000,Austria,Waste from households,3246
+2001,Austria,Waste from households,3234
+2002,Austria,Waste from households,3309
+2003,Austria,Waste from households,3327
+2004,Austria,Waste from households,3418.7
+2005,Austria,Waste from households,3463.7
+2006,Austria,Waste from households,3677.7
+2007,Austria,Waste from households,3728
+2008,Austria,Waste from households,3786
+2009,Austria,Waste from households,3895
+2010,Austria,Waste from households,3788.5
+2011,Austria,Waste from households,3947.2
+2012,Austria,Waste from households,4020.3
+2013,Austria,Waste from households,4031.7
+2014,Austria,Waste from households,4170.2
+2015,Austria,Waste from households,4160
+2016,Austria,Waste from households,4269
+2017,Austria,Waste from households,4322
+2000,Austria,Other municipal waste,1074.8
+2001,Austria,Other municipal waste,1075
+2002,Austria,Other municipal waste,1280
+2003,Austria,Other municipal waste,1280
+2004,Austria,Other municipal waste,1268
+2005,Austria,Other municipal waste,1268
+2006,Austria,Other municipal waste,1254.8
+2007,Austria,Other municipal waste,1223
+2008,Austria,Other municipal waste,1210.9
+2009,Austria,Other municipal waste,1026
+2010,Austria,Other municipal waste,912.3
+2011,Austria,Other municipal waste,859.7
+2012,Austria,Other municipal waste,863
+2013,Austria,Other municipal waste,873.5
+2014,Austria,Other municipal waste,662.3
+2015,Austria,Other municipal waste,676
+2016,Austria,Other municipal waste,659.4
+2017,Austria,Other municipal waste,695.6
+2000,Austria,Municipal waste treated,4744
+2001,Austria,Municipal waste treated,4749
+2002,Austria,Municipal waste treated,4821
+2003,Austria,Municipal waste treated,4950
+2004,Austria,Municipal waste treated,4625
+2005,Austria,Municipal waste treated,4601.3
+2006,Austria,Municipal waste treated,4834.2
+2007,Austria,Municipal waste treated,4859.4
+2008,Austria,Municipal waste treated,4888.7
+2009,Austria,Municipal waste treated,4787.6
+2010,Austria,Municipal waste treated,4581.7
+2011,Austria,Municipal waste treated,4631.7
+2012,Austria,Municipal waste treated,4718.2
+2013,Austria,Municipal waste treated,4743.5
+2014,Austria,Municipal waste treated,4673.2
+2015,Austria,Municipal waste treated,4727.8
+2016,Austria,Municipal waste treated,4825.2
+2017,Austria,Municipal waste treated,4944.1
+2000,Austria,Recycling,1129
+2001,Austria,Recycling,1125
+2002,Austria,Recycling,1115
+2003,Austria,Recycling,1110
+2004,Austria,Recycling,1116
+2005,Austria,Recycling,1179.7
+2006,Austria,Recycling,1258.5
+2007,Austria,Recycling,1318
+2008,Austria,Recycling,1476
+2009,Austria,Recycling,1491.9
+2010,Austria,Recycling,1272.2
+2011,Austria,Recycling,1145.6
+2012,Austria,Recycling,1168
+2013,Austria,Recycling,1202.4
+2014,Austria,Recycling,1231
+2015,Austria,Recycling,1240.5
+2016,Austria,Recycling,1253.8
+2017,Austria,Recycling,1296.4
+2000,Austria,Landfill,1572
+2001,Austria,Landfill,1542
+2002,Austria,Landfill,1512
+2003,Austria,Landfill,1483
+2004,Austria,Landfill,557
+2005,Austria,Landfill,534.8
+2006,Austria,Landfill,484.8
+2007,Austria,Landfill,427.2
+2008,Austria,Landfill,373.1
+2009,Austria,Landfill,302.1
+2010,Austria,Landfill,153.3
+2011,Austria,Landfill,229.9
+2012,Austria,Landfill,207.3
+2013,Austria,Landfill,199
+2014,Austria,Landfill,194.1
+2015,Austria,Landfill,143.6
+2016,Austria,Landfill,132.2
+2017,Austria,Landfill,102.9
+2000,Belgium,Municipal waste generated,4830
+2001,Belgium,Municipal waste generated,4802
+2002,Belgium,Municipal waste generated,4981
+2003,Belgium,Municipal waste generated,4824
+2004,Belgium,Municipal waste generated,5059
+2005,Belgium,Municipal waste generated,5052
+2006,Belgium,Municipal waste generated,5115
+2007,Belgium,Municipal waste generated,5243
+2008,Belgium,Municipal waste generated,5119
+2009,Belgium,Municipal waste generated,5021
+2010,Belgium,Municipal waste generated,4953
+2011,Belgium,Municipal waste generated,5003
+2012,Belgium,Municipal waste generated,4944
+2013,Belgium,Municipal waste generated,4867
+2014,Belgium,Municipal waste generated,4762
+2015,Belgium,Municipal waste generated,4643
+2016,Belgium,Municipal waste generated,4746
+2017,Belgium,Municipal waste generated,4659
+2000,Belgium,Waste from households,3863
+2001,Belgium,Waste from households,3797
+2002,Belgium,Waste from households,3829
+2003,Belgium,Waste from households,3724
+2004,Belgium,Waste from households,3894.7
+2005,Belgium,Waste from households,3863.6
+2006,Belgium,Waste from households,3916.6
+2007,Belgium,Waste from households,4042.3
+2008,Belgium,Waste from households,4031.9
+2009,Belgium,Waste from households,4058.5
+2010,Belgium,Waste from households,3897.29
+2000,Belgium,Other municipal waste,967
+2001,Belgium,Other municipal waste,1005
+2002,Belgium,Other municipal waste,1152
+2003,Belgium,Other municipal waste,1100
+2004,Belgium,Other municipal waste,1164.3
+2005,Belgium,Other municipal waste,1188.4
+2006,Belgium,Other municipal waste,1198.4
+2007,Belgium,Other municipal waste,1200.7
+2008,Belgium,Other municipal waste,1102.1
+2009,Belgium,Other municipal waste,978.5
+2010,Belgium,Other municipal waste,1075.71
+2000,Belgium,Municipal waste treated,4895
+2001,Belgium,Municipal waste treated,4644
+2002,Belgium,Municipal waste treated,4798
+2003,Belgium,Municipal waste treated,4800
+2004,Belgium,Municipal waste treated,5004
+2005,Belgium,Municipal waste treated,5188
+2006,Belgium,Municipal waste treated,4990
+2007,Belgium,Municipal waste treated,5454
+2008,Belgium,Municipal waste treated,4936
+2009,Belgium,Municipal waste treated,4827
+2010,Belgium,Municipal waste treated,4791
+2011,Belgium,Municipal waste treated,4824
+2012,Belgium,Municipal waste treated,4717
+2013,Belgium,Municipal waste treated,4810
+2014,Belgium,Municipal waste treated,4755
+2015,Belgium,Municipal waste treated,4644
+2016,Belgium,Municipal waste treated,4752
+2017,Belgium,Municipal waste treated,4620
+2000,Belgium,Recycling,1245
+2001,Belgium,Recycling,1305
+2002,Belgium,Recycling,1365
+2003,Belgium,Recycling,1336
+2004,Belgium,Recycling,1408
+2005,Belgium,Recycling,1547
+2006,Belgium,Recycling,1601
+2007,Belgium,Recycling,1741
+2008,Belgium,Recycling,1664
+2009,Belgium,Recycling,1697
+2010,Belgium,Recycling,1672
+2011,Belgium,Recycling,1707
+2012,Belgium,Recycling,1600
+2013,Belgium,Recycling,1539
+2014,Belgium,Recycling,1590
+2015,Belgium,Recycling,1584
+2016,Belgium,Recycling,1575
+2017,Belgium,Recycling,1580
+2000,Belgium,Landfill,936
+2001,Belgium,Landfill,760
+2002,Belgium,Landfill,575
+2003,Belgium,Landfill,536
+2004,Belgium,Landfill,590
+2005,Belgium,Landfill,583
+2006,Belgium,Landfill,492
+2007,Belgium,Landfill,499
+2008,Belgium,Landfill,212
+2009,Belgium,Landfill,164
+2010,Belgium,Landfill,87
+2011,Belgium,Landfill,48
+2012,Belgium,Landfill,32
+2013,Belgium,Landfill,42
+2014,Belgium,Landfill,46
+2015,Belgium,Landfill,40
+2016,Belgium,Landfill,38
+2017,Belgium,Landfill,41
+2000,Canada,Waste from households,11242.406
+2002,Canada,Waste from households,11236.435
+2004,Canada,Waste from households,12325.386
+2006,Canada,Waste from households,13471.06
+2008,Canada,Waste from households,13661.379
+2010,Canada,Waste from households,13963.825
+2012,Canada,Waste from households,14355.191
+2014,Canada,Waste from households,14648.268
+2016,Canada,Waste from households,15003.442
+2000,Canada,Municipal waste treated,29307.41
+2002,Canada,Municipal waste treated,30722.92
+2004,Canada,Municipal waste treated,32339.5
+2006,Canada,Municipal waste treated,34043.694
+2008,Canada,Municipal waste treated,34237.047
+2010,Canada,Municipal waste treated,33048.534
+2012,Canada,Municipal waste treated,33146.119
+2014,Canada,Municipal waste treated,33821.621
+2016,Canada,Municipal waste treated,34191.448
+2000,Canada,Recycling,5158.75
+2002,Canada,Recycling,5330.76
+2004,Canada,Recycling,5593.13
+2006,Canada,Recycling,5720.57
+2008,Canada,Recycling,5978.28
+2010,Canada,Recycling,5883.635
+2012,Canada,Recycling,6011.315
+2014,Canada,Recycling,6368.438
+2016,Canada,Recycling,6655.087
+2000,Canada,Landfill,22010.43
+2002,Canada,Landfill,22877.3
+2004,Canada,Landfill,23965.43
+2006,Canada,Landfill,25096.16
+2008,Canada,Landfill,24630.152
+2010,Canada,Landfill,23704.794
+2012,Canada,Landfill,23447.4
+2014,Canada,Landfill,23528.318
+2016,Canada,Landfill,23693.71
+2000,Czech Republic,Municipal waste generated,3434
+2001,Czech Republic,Municipal waste generated,2798
+2002,Czech Republic,Municipal waste generated,2845
+2003,Czech Republic,Municipal waste generated,2857
+2004,Czech Republic,Municipal waste generated,2841
+2005,Czech Republic,Municipal waste generated,2954
+2006,Czech Republic,Municipal waste generated,3039
+2007,Czech Republic,Municipal waste generated,3025
+2008,Czech Republic,Municipal waste generated,3176
+2009,Czech Republic,Municipal waste generated,3310
+2010,Czech Republic,Municipal waste generated,3334
+2011,Czech Republic,Municipal waste generated,3358
+2012,Czech Republic,Municipal waste generated,3233
+2013,Czech Republic,Municipal waste generated,3228.23
+2014,Czech Republic,Municipal waste generated,3260.58
+2015,Czech Republic,Municipal waste generated,3337.34
+2016,Czech Republic,Municipal waste generated,3579.61
+2017,Czech Republic,Municipal waste generated,3642.96
+2002,Czech Republic,Waste from households,1991.55
+2003,Czech Republic,Waste from households,1999.68
+2004,Czech Republic,Waste from households,1989
+2005,Czech Republic,Waste from households,2067.58
+2006,Czech Republic,Waste from households,2127.09
+2007,Czech Republic,Waste from households,2117.35
+2008,Czech Republic,Waste from households,2223.15
+2009,Czech Republic,Waste from households,2316.77
+2010,Czech Republic,Waste from households,2333.97
+2011,Czech Republic,Waste from households,2350.51
+2012,Czech Republic,Waste from households,2262.85
+2013,Czech Republic,Waste from households,2263.31
+2014,Czech Republic,Waste from households,2239.98
+2015,Czech Republic,Waste from households,2242.15
+2016,Czech Republic,Waste from households,2332.97
+2017,Czech Republic,Waste from households,2373.68
+2002,Czech Republic,Other municipal waste,853.52
+2003,Czech Republic,Other municipal waste,857.01
+2004,Czech Republic,Other municipal waste,852.43
+2005,Czech Republic,Other municipal waste,886.1
+2006,Czech Republic,Other municipal waste,911.61
+2007,Czech Republic,Other municipal waste,907.43
+2008,Czech Republic,Other municipal waste,952.78
+2009,Czech Republic,Other municipal waste,992.9
+2010,Czech Republic,Other municipal waste,1000.27
+2011,Czech Republic,Other municipal waste,1007.36
+2012,Czech Republic,Other municipal waste,969.79
+2013,Czech Republic,Other municipal waste,964.93
+2014,Czech Republic,Other municipal waste,1020.6
+2015,Czech Republic,Other municipal waste,1095.19
+2016,Czech Republic,Other municipal waste,1246.65
+2017,Czech Republic,Other municipal waste,1269.28
+2000,Czech Republic,Municipal waste treated,3250
+2001,Czech Republic,Municipal waste treated,2582
+2002,Czech Republic,Municipal waste treated,2523
+2003,Czech Republic,Municipal waste treated,2475
+2004,Czech Republic,Municipal waste treated,2396
+2005,Czech Republic,Municipal waste treated,2495
+2006,Czech Republic,Municipal waste treated,2659.22
+2007,Czech Republic,Municipal waste treated,2817.37
+2008,Czech Republic,Municipal waste treated,2756.66
+2009,Czech Republic,Municipal waste treated,2894.47
+2010,Czech Republic,Municipal waste treated,3186.39
+2011,Czech Republic,Municipal waste treated,3346.34
+2012,Czech Republic,Municipal waste treated,3232.64
+2013,Czech Republic,Municipal waste treated,3228.23
+2014,Czech Republic,Municipal waste treated,3260.58
+2015,Czech Republic,Municipal waste treated,3337.34
+2016,Czech Republic,Municipal waste treated,3579.61
+2017,Czech Republic,Municipal waste treated,3642.96
+2000,Czech Republic,Recycling,19
+2001,Czech Republic,Recycling,15
+2002,Czech Republic,Recycling,16
+2003,Czech Republic,Recycling,16
+2004,Czech Republic,Recycling,138
+2005,Czech Republic,Recycling,166
+2006,Czech Republic,Recycling,200.6
+2007,Czech Republic,Recycling,276.08
+2008,Czech Republic,Recycling,279.85
+2009,Czech Republic,Recycling,352.79
+2010,Czech Republic,Recycling,451.77
+2011,Czech Republic,Recycling,495.7
+2012,Czech Republic,Recycling,665.28
+2013,Czech Republic,Recycling,685.92
+2014,Czech Republic,Recycling,736.02
+2015,Czech Republic,Recycling,850.91
+2016,Czech Republic,Recycling,957.6
+2017,Czech Republic,Recycling,981.93
+2000,Czech Republic,Landfill,2900
+2001,Czech Republic,Landfill,2200
+2002,Czech Republic,Landfill,2097
+2003,Czech Republic,Landfill,2049
+2004,Czech Republic,Landfill,1838
+2005,Czech Republic,Landfill,1934
+2006,Czech Republic,Landfill,2043.29
+2007,Czech Republic,Landfill,2120.53
+2008,Czech Republic,Landfill,2057.43
+2009,Czech Republic,Landfill,2113.89
+2010,Czech Republic,Landfill,2161.8
+2011,Czech Republic,Landfill,2167.04
+2012,Czech Republic,Landfill,1827.87
+2013,Czech Republic,Landfill,1815.1
+2014,Czech Republic,Landfill,1826.97
+2015,Czech Republic,Landfill,1755.44
+2016,Czech Republic,Landfill,1789.37
+2017,Czech Republic,Landfill,1765.36
+2000,Denmark,Municipal waste generated,3546
+2001,Denmark,Municipal waste generated,3519
+2002,Denmark,Municipal waste generated,3568
+2003,Denmark,Municipal waste generated,3618
+2004,Denmark,Municipal waste generated,3757
+2005,Denmark,Municipal waste generated,3990
+2006,Denmark,Municipal waste generated,4021
+2007,Denmark,Municipal waste generated,4313
+2008,Denmark,Municipal waste generated,4560
+2009,Denmark,Municipal waste generated,4206
+2011,Denmark,Municipal waste generated,4349
+2012,Denmark,Municipal waste generated,4421
+2013,Denmark,Municipal waste generated,4437
+2014,Denmark,Municipal waste generated,4450
+2015,Denmark,Municipal waste generated,4485
+2016,Denmark,Municipal waste generated,4484
+2017,Denmark,Municipal waste generated,4503
+2000,Denmark,Waste from households,3084
+2001,Denmark,Waste from households,3083
+2002,Denmark,Waste from households,3121
+2003,Denmark,Waste from households,3009
+2004,Denmark,Waste from households,3163
+2005,Denmark,Waste from households,3337
+2006,Denmark,Waste from households,3363
+2007,Denmark,Waste from households,3607
+2008,Denmark,Waste from households,3814
+2009,Denmark,Waste from households,3437
+2011,Denmark,Waste from households,3038
+2012,Denmark,Waste from households,3204
+2013,Denmark,Waste from households,3228
+2014,Denmark,Waste from households,3275
+2015,Denmark,Waste from households,3236
+2016,Denmark,Waste from households,3323
+2017,Denmark,Waste from households,3278
+2000,Denmark,Other municipal waste,462
+2001,Denmark,Other municipal waste,436
+2002,Denmark,Other municipal waste,447
+2003,Denmark,Other municipal waste,609
+2004,Denmark,Other municipal waste,594
+2005,Denmark,Other municipal waste,653
+2006,Denmark,Other municipal waste,658
+2007,Denmark,Other municipal waste,706
+2008,Denmark,Other municipal waste,746
+2009,Denmark,Other municipal waste,769
+2011,Denmark,Other municipal waste,1311
+2012,Denmark,Other municipal waste,1217
+2013,Denmark,Other municipal waste,1209
+2014,Denmark,Other municipal waste,1175
+2015,Denmark,Other municipal waste,1249
+2016,Denmark,Other municipal waste,1161
+2017,Denmark,Other municipal waste,1225
+2000,Denmark,Municipal waste treated,3546
+2001,Denmark,Municipal waste treated,3519
+2002,Denmark,Municipal waste treated,3568
+2003,Denmark,Municipal waste treated,3618
+2004,Denmark,Municipal waste treated,3757
+2005,Denmark,Municipal waste treated,3990
+2006,Denmark,Municipal waste treated,4021
+2007,Denmark,Municipal waste treated,4313
+2008,Denmark,Municipal waste treated,4560
+2009,Denmark,Municipal waste treated,4206
+2011,Denmark,Municipal waste treated,4348
+2012,Denmark,Municipal waste treated,4421
+2013,Denmark,Municipal waste treated,4437
+2014,Denmark,Municipal waste treated,4450
+2015,Denmark,Municipal waste treated,4485
+2016,Denmark,Municipal waste treated,4484
+2017,Denmark,Municipal waste treated,4503
+2000,Denmark,Recycling,755
+2001,Denmark,Recycling,787
+2002,Denmark,Recycling,796
+2003,Denmark,Recycling,926
+2004,Denmark,Recycling,934
+2005,Denmark,Recycling,977
+2006,Denmark,Recycling,977
+2007,Denmark,Recycling,1149
+2008,Denmark,Recycling,1559
+2009,Denmark,Recycling,1310
+2011,Denmark,Recycling,1187
+2012,Denmark,Recycling,1135
+2013,Denmark,Recycling,1152
+2014,Denmark,Recycling,1198
+2015,Denmark,Recycling,1223
+2016,Denmark,Recycling,1255
+2017,Denmark,Recycling,1228
+2000,Denmark,Landfill,355
+2001,Denmark,Landfill,251
+2002,Denmark,Landfill,218
+2003,Denmark,Landfill,184
+2004,Denmark,Landfill,169
+2005,Denmark,Landfill,207
+2006,Denmark,Landfill,203
+2007,Denmark,Landfill,204
+2008,Denmark,Landfill,175
+2009,Denmark,Landfill,130
+2011,Denmark,Landfill,111
+2012,Denmark,Landfill,107
+2013,Denmark,Landfill,78
+2014,Denmark,Landfill,56
+2015,Denmark,Landfill,51
+2016,Denmark,Landfill,44
+2017,Denmark,Landfill,38
+2000,Finland,Municipal waste generated,2600
+2001,Finland,Municipal waste generated,2412
+2002,Finland,Municipal waste generated,2384.4
+2003,Finland,Municipal waste generated,2427.9
+2004,Finland,Municipal waste generated,2453.4
+2005,Finland,Municipal waste generated,2505.8
+2006,Finland,Municipal waste generated,2600.1
+2007,Finland,Municipal waste generated,2674.9
+2008,Finland,Municipal waste generated,2768
+2009,Finland,Municipal waste generated,2562
+2010,Finland,Municipal waste generated,2519
+2011,Finland,Municipal waste generated,2719
+2012,Finland,Municipal waste generated,2738
+2013,Finland,Municipal waste generated,2681.55
+2014,Finland,Municipal waste generated,2629.88
+2015,Finland,Municipal waste generated,2738.28
+2016,Finland,Municipal waste generated,2767.93
+2017,Finland,Municipal waste generated,2811.59
+2000,Finland,Waste from households,1040
+2001,Finland,Waste from households,964.8
+2002,Finland,Waste from households,953.8
+2003,Finland,Waste from households,1024.4
+2004,Finland,Waste from households,1203
+2005,Finland,Waste from households,1228.6
+2006,Finland,Waste from households,1274.9
+2007,Finland,Waste from households,1500
+2008,Finland,Waste from households,1552.2
+2009,Finland,Waste from households,1436.9
+2010,Finland,Waste from households,1412.6
+2011,Finland,Waste from households,1523
+2012,Finland,Waste from households,1533.33
+2013,Finland,Waste from households,1501.67
+2014,Finland,Waste from households,1472.73
+2015,Finland,Waste from households,1768.93
+2016,Finland,Waste from households,1799.15
+2017,Finland,Waste from households,1827.53
+2000,Finland,Other municipal waste,1560
+2001,Finland,Other municipal waste,1447.2
+2002,Finland,Other municipal waste,1430.7
+2003,Finland,Other municipal waste,1403.5
+2004,Finland,Other municipal waste,1250.5
+2005,Finland,Other municipal waste,1277.2
+2006,Finland,Other municipal waste,1325.2
+2007,Finland,Other municipal waste,1174.9
+2008,Finland,Other municipal waste,1215.8
+2009,Finland,Other municipal waste,1125.1
+2010,Finland,Other municipal waste,1106.4
+2011,Finland,Other municipal waste,1196
+2012,Finland,Other municipal waste,1204.67
+2013,Finland,Other municipal waste,1179.88
+2014,Finland,Other municipal waste,1157.15
+2015,Finland,Other municipal waste,969.35
+2016,Finland,Other municipal waste,968.78
+2017,Finland,Other municipal waste,984.06
+2000,Finland,Municipal waste treated,2723.83
+2001,Finland,Municipal waste treated,2498.65
+2002,Finland,Municipal waste treated,2502.69
+2003,Finland,Municipal waste treated,2517.29
+2004,Finland,Municipal waste treated,2532.47
+2005,Finland,Municipal waste treated,2546.68
+2006,Finland,Municipal waste treated,2600.1
+2007,Finland,Municipal waste treated,2674.92
+2008,Finland,Municipal waste treated,2832.48
+2009,Finland,Municipal waste treated,2562.43
+2010,Finland,Municipal waste treated,2519
+2011,Finland,Municipal waste treated,2718
+2012,Finland,Municipal waste treated,2738
+2013,Finland,Municipal waste treated,2681.54
+2014,Finland,Municipal waste treated,2629.88
+2015,Finland,Municipal waste treated,2738.28
+2016,Finland,Municipal waste treated,2767.93
+2017,Finland,Municipal waste treated,2811.59
+2000,Finland,Recycling,676.85
+2001,Finland,Recycling,627.91
+2002,Finland,Recycling,620.73
+2003,Finland,Recycling,632.04
+2004,Finland,Recycling,638.7
+2005,Finland,Recycling,652
+2006,Finland,Recycling,676.88
+2007,Finland,Recycling,695.24
+2008,Finland,Recycling,714.64
+2009,Finland,Recycling,615.06
+2010,Finland,Recycling,495
+2011,Finland,Recycling,592
+2012,Finland,Recycling,589
+2013,Finland,Recycling,510.41
+2014,Finland,Recycling,474.33
+2015,Finland,Recycling,770.31
+2016,Finland,Recycling,808.31
+2017,Finland,Recycling,770.96
+2000,Finland,Landfill,1580
+2001,Finland,Landfill,1473
+2002,Finland,Landfill,1485
+2003,Finland,Landfill,1445
+2004,Finland,Landfill,1423
+2005,Finland,Landfill,1478
+2006,Finland,Landfill,1503.91
+2007,Finland,Landfill,1411.29
+2008,Finland,Landfill,1406.1
+2009,Finland,Landfill,1179.84
+2010,Finland,Landfill,1136
+2011,Finland,Landfill,1093
+2012,Finland,Landfill,901
+2013,Finland,Landfill,672.4
+2014,Finland,Landfill,457.73
+2015,Finland,Landfill,314.76
+2016,Finland,Landfill,89.54
+2017,Finland,Landfill,25.9
+2000,France,Municipal waste generated,31232
+2001,France,Municipal waste generated,32198
+2002,France,Municipal waste generated,32684
+2003,France,Municipal waste generated,31400
+2004,France,Municipal waste generated,32444
+2005,France,Municipal waste generated,33366
+2006,France,Municipal waste generated,33990
+2007,France,Municipal waste generated,34630
+2008,France,Municipal waste generated,34714
+2009,France,Municipal waste generated,34504
+2010,France,Municipal waste generated,34609
+2011,France,Municipal waste generated,34790
+2012,France,Municipal waste generated,34484
+2013,France,Municipal waste generated,34176
+2014,France,Municipal waste generated,34230
+2015,France,Municipal waste generated,34284
+2016,France,Municipal waste generated,34339
+2017,France,Municipal waste generated,34393
+2000,France,Waste from households,24986
+2001,France,Waste from households,25758
+2002,France,Waste from households,26147
+2003,France,Waste from households,25120
+2004,France,Waste from households,25955
+2005,France,Waste from households,26693
+2006,France,Waste from households,27192
+2007,France,Waste from households,27011
+2008,France,Waste from households,27076
+2009,France,Waste from households,26913
+2010,France,Waste from households,26995
+2011,France,Waste from households,27136
+2012,France,Waste from households,26897
+2013,France,Waste from households,26657
+2014,France,Waste from households,26699
+2015,France,Waste from households,26742
+2016,France,Waste from households,26785
+2017,France,Waste from households,26828
+2000,France,Other municipal waste,6246
+2001,France,Other municipal waste,6440
+2002,France,Other municipal waste,6537
+2003,France,Other municipal waste,6280
+2004,France,Other municipal waste,6489
+2005,France,Other municipal waste,6673
+2006,France,Other municipal waste,6798
+2007,France,Other municipal waste,7619
+2008,France,Other municipal waste,7638
+2009,France,Other municipal waste,7591
+2010,France,Other municipal waste,7614
+2011,France,Other municipal waste,7654
+2012,France,Other municipal waste,7587
+2013,France,Other municipal waste,7519
+2014,France,Other municipal waste,7531
+2015,France,Other municipal waste,7542
+2016,France,Other municipal waste,7554
+2017,France,Other municipal waste,7565
+2000,France,Municipal waste treated,31232
+2001,France,Municipal waste treated,32198
+2002,France,Municipal waste treated,32684
+2003,France,Municipal waste treated,31400
+2004,France,Municipal waste treated,32444
+2005,France,Municipal waste treated,33366
+2006,France,Municipal waste treated,33990
+2007,France,Municipal waste treated,34629
+2008,France,Municipal waste treated,34714
+2009,France,Municipal waste treated,34504
+2010,France,Municipal waste treated,34609
+2011,France,Municipal waste treated,34790
+2012,France,Municipal waste treated,34484
+2013,France,Municipal waste treated,34176
+2014,France,Municipal waste treated,34230
+2015,France,Municipal waste treated,34284
+2016,France,Municipal waste treated,34339
+2017,France,Municipal waste treated,34393
+2000,France,Recycling,4045
+2001,France,Recycling,4410
+2002,France,Recycling,4715
+2003,France,Recycling,4725
+2004,France,Recycling,4970
+2005,France,Recycling,5365
+2006,France,Recycling,5661
+2007,France,Recycling,5964
+2008,France,Recycling,5972
+2009,France,Recycling,6004
+2010,France,Recycling,6937
+2011,France,Recycling,7184
+2012,France,Recycling,7293
+2013,France,Recycling,7402
+2014,France,Recycling,7610
+2015,France,Recycling,7817
+2016,France,Recycling,8025
+2017,France,Recycling,8232
+2000,France,Landfill,13320
+2001,France,Landfill,13117
+2002,France,Landfill,12651
+2003,France,Landfill,11944
+2004,France,Landfill,11767
+2005,France,Landfill,11465
+2006,France,Landfill,12318
+2007,France,Landfill,12372
+2008,France,Landfill,10995
+2009,France,Landfill,10802
+2010,France,Landfill,10078
+2011,France,Landfill,9731
+2012,France,Landfill,9281
+2013,France,Landfill,8830
+2014,France,Landfill,8478
+2015,France,Landfill,8127
+2016,France,Landfill,7775
+2017,France,Landfill,7424
+2000,Germany,Municipal waste generated,52810
+2001,Germany,Municipal waste generated,52075
+2002,Germany,Municipal waste generated,52772
+2003,Germany,Municipal waste generated,49622
+2004,Germany,Municipal waste generated,48434
+2005,Germany,Municipal waste generated,46555
+2006,Germany,Municipal waste generated,46426
+2007,Germany,Municipal waste generated,47887
+2008,Germany,Municipal waste generated,48367
+2009,Germany,Municipal waste generated,48466
+2010,Germany,Municipal waste generated,49237
+2011,Germany,Municipal waste generated,50237
+2012,Germany,Municipal waste generated,49759
+2013,Germany,Municipal waste generated,49570
+2014,Germany,Municipal waste generated,51102
+2015,Germany,Municipal waste generated,51625
+2016,Germany,Municipal waste generated,52133
+2017,Germany,Municipal waste generated,52342
+2000,Germany,Waste from households,40345
+2001,Germany,Waste from households,38963
+2002,Germany,Waste from households,46660
+2003,Germany,Waste from households,43931
+2004,Germany,Waste from households,43149
+2005,Germany,Waste from households,41412
+2006,Germany,Waste from households,40827
+2007,Germany,Waste from households,41750
+2008,Germany,Waste from households,43215
+2009,Germany,Waste from households,43230
+2010,Germany,Waste from households,43556
+2011,Germany,Waste from households,44045
+2012,Germany,Waste from households,36472
+2013,Germany,Waste from households,36624
+2014,Germany,Waste from households,36888
+2015,Germany,Waste from households,37376
+2016,Germany,Waste from households,37410
+2017,Germany,Waste from households,38274
+2000,Germany,Other municipal waste,12465
+2001,Germany,Other municipal waste,13112
+2002,Germany,Other municipal waste,6112
+2003,Germany,Other municipal waste,5691
+2004,Germany,Other municipal waste,5284
+2005,Germany,Other municipal waste,5143
+2006,Germany,Other municipal waste,5598
+2007,Germany,Other municipal waste,6138
+2008,Germany,Other municipal waste,5152
+2009,Germany,Other municipal waste,5236
+2010,Germany,Other municipal waste,5681
+2011,Germany,Other municipal waste,6193
+2012,Germany,Other municipal waste,13287
+2013,Germany,Other municipal waste,12946
+2014,Germany,Other municipal waste,14214
+2015,Germany,Other municipal waste,14249
+2016,Germany,Other municipal waste,14723
+2017,Germany,Other municipal waste,14068
+2000,Germany,Municipal waste treated,52810
+2001,Germany,Municipal waste treated,52075
+2002,Germany,Municipal waste treated,52771
+2003,Germany,Municipal waste treated,49622
+2004,Germany,Municipal waste treated,48434
+2005,Germany,Municipal waste treated,46555
+2006,Germany,Municipal waste treated,46426
+2007,Germany,Municipal waste treated,47887
+2008,Germany,Municipal waste treated,48367
+2009,Germany,Municipal waste treated,48466
+2010,Germany,Municipal waste treated,49235
+2011,Germany,Municipal waste treated,50237
+2012,Germany,Municipal waste treated,49759
+2013,Germany,Municipal waste treated,49570
+2014,Germany,Municipal waste treated,51102
+2015,Germany,Municipal waste treated,51626
+2016,Germany,Municipal waste treated,52133
+2017,Germany,Municipal waste treated,52342
+2000,Germany,Recycling,20143.95
+2001,Germany,Recycling,19631.95
+2002,Germany,Recycling,22015
+2003,Germany,Recycling,21425
+2004,Germany,Recycling,19587
+2005,Germany,Recycling,20734
+2006,Germany,Recycling,21195
+2007,Germany,Recycling,22555
+2008,Germany,Recycling,22752
+2009,Germany,Recycling,22204
+2010,Germany,Recycling,22476
+2011,Germany,Recycling,23135
+2012,Germany,Recycling,23596
+2013,Germany,Recycling,23094
+2014,Germany,Recycling,24302
+2015,Germany,Recycling,25155
+2016,Germany,Recycling,25435
+2017,Germany,Recycling,25715
+2000,Germany,Landfill,13692.31
+2001,Germany,Landfill,13298.31
+2002,Germany,Landfill,11266
+2003,Germany,Landfill,9530
+2004,Germany,Landfill,8578
+2005,Germany,Landfill,3980
+2006,Germany,Landfill,307
+2007,Germany,Landfill,299
+2008,Germany,Landfill,286
+2009,Germany,Landfill,176
+2010,Germany,Landfill,206
+2011,Germany,Landfill,247
+2012,Germany,Landfill,107
+2013,Germany,Landfill,135
+2014,Germany,Landfill,123
+2015,Germany,Landfill,104
+2016,Germany,Landfill,122
+2017,Germany,Landfill,122
+2000,Greece,Municipal waste generated,4447
+2001,Greece,Municipal waste generated,4559
+2002,Greece,Municipal waste generated,4640.1
+2003,Greece,Municipal waste generated,4710.3
+2004,Greece,Municipal waste generated,4781.5
+2005,Greece,Municipal waste generated,4853
+2006,Greece,Municipal waste generated,4927.1
+2007,Greece,Municipal waste generated,5001.6
+2008,Greece,Municipal waste generated,5077
+2009,Greece,Municipal waste generated,5154
+2010,Greece,Municipal waste generated,5917
+2011,Greece,Municipal waste generated,5586
+2012,Greece,Municipal waste generated,5463
+2013,Greece,Municipal waste generated,5284
+2014,Greece,Municipal waste generated,5315
+2015,Greece,Municipal waste generated,5277
+2016,Greece,Municipal waste generated,5367
+2017,Greece,Municipal waste generated,5415
+2000,Greece,Municipal waste treated,4447
+2001,Greece,Municipal waste treated,4559
+2002,Greece,Municipal waste treated,4640
+2003,Greece,Municipal waste treated,4710.25
+2004,Greece,Municipal waste treated,4781.47
+2005,Greece,Municipal waste treated,4867.25
+2006,Greece,Municipal waste treated,4927.14
+2007,Greece,Municipal waste treated,5001.63
+2008,Greece,Municipal waste treated,5077.92
+2009,Greece,Municipal waste treated,5154
+2010,Greece,Municipal waste treated,5917
+2011,Greece,Municipal waste treated,5586
+2012,Greece,Municipal waste treated,5463
+2013,Greece,Municipal waste treated,5284
+2014,Greece,Municipal waste treated,5315
+2015,Greece,Municipal waste treated,5277
+2016,Greece,Municipal waste treated,5367
+2017,Greece,Municipal waste treated,5415
+2000,Greece,Recycling,359
+2001,Greece,Recycling,370
+2002,Greece,Recycling,375
+2003,Greece,Recycling,382
+2004,Greece,Recycling,481.01
+2005,Greece,Recycling,543.24
+2006,Greece,Recycling,551
+2007,Greece,Recycling,904.62
+2008,Greece,Recycling,796.98
+2009,Greece,Recycling,936
+2010,Greece,Recycling,872
+2011,Greece,Recycling,832
+2012,Greece,Recycling,747
+2013,Greece,Recycling,647
+2014,Greece,Recycling,652
+2015,Greece,Recycling,698
+2016,Greece,Recycling,743
+2017,Greece,Recycling,798
+2000,Greece,Landfill,4056
+2001,Greece,Landfill,4157
+2002,Greece,Landfill,4233
+2003,Greece,Landfill,4328.25
+2004,Greece,Landfill,4298.25
+2005,Greece,Landfill,4294.54
+2006,Greece,Landfill,4295.06
+2007,Greece,Landfill,3999.32
+2008,Greece,Landfill,4180.94
+2009,Greece,Landfill,4181
+2010,Greece,Landfill,4903
+2011,Greece,Landfill,4578
+2012,Greece,Landfill,4507
+2013,Greece,Landfill,4421
+2014,Greece,Landfill,4470
+2015,Greece,Landfill,4426
+2016,Greece,Landfill,4415
+2017,Greece,Landfill,4335
+2000,Hungary,Municipal waste generated,4552
+2001,Hungary,Municipal waste generated,4603
+2002,Hungary,Municipal waste generated,4646
+2003,Hungary,Municipal waste generated,4700
+2004,Hungary,Municipal waste generated,4591.6
+2005,Hungary,Municipal waste generated,4646
+2006,Hungary,Municipal waste generated,4711
+2007,Hungary,Municipal waste generated,4593.5
+2008,Hungary,Municipal waste generated,4553
+2009,Hungary,Municipal waste generated,4312
+2010,Hungary,Municipal waste generated,4033
+2011,Hungary,Municipal waste generated,3809
+2012,Hungary,Municipal waste generated,3988
+2013,Hungary,Municipal waste generated,3738
+2014,Hungary,Municipal waste generated,3795
+2015,Hungary,Municipal waste generated,3712
+2016,Hungary,Municipal waste generated,3721
+2017,Hungary,Municipal waste generated,3768
+2000,Hungary,Waste from households,2674
+2001,Hungary,Waste from households,2652
+2002,Hungary,Waste from households,2685
+2003,Hungary,Waste from households,2779.29
+2004,Hungary,Waste from households,2654
+2005,Hungary,Waste from households,2961.7
+2006,Hungary,Waste from households,2978
+2007,Hungary,Waste from households,2911
+2008,Hungary,Waste from households,3444
+2009,Hungary,Waste from households,3239
+2010,Hungary,Waste from households,2844
+2011,Hungary,Waste from households,2796
+2012,Hungary,Waste from households,2744
+2013,Hungary,Waste from households,2717
+2014,Hungary,Waste from households,3136
+2015,Hungary,Waste from households,3099
+2016,Hungary,Waste from households,3209
+2017,Hungary,Waste from households,2922
+2000,Hungary,Other municipal waste,1410
+2001,Hungary,Other municipal waste,1537.4
+2002,Hungary,Other municipal waste,1604.7
+2003,Hungary,Other municipal waste,1510.9
+2004,Hungary,Other municipal waste,1636.2
+2005,Hungary,Other municipal waste,1684.3
+2006,Hungary,Other municipal waste,1733
+2007,Hungary,Other municipal waste,1682.5
+2008,Hungary,Other municipal waste,1108
+2009,Hungary,Other municipal waste,1073
+2010,Hungary,Other municipal waste,1190
+2011,Hungary,Other municipal waste,1012
+2012,Hungary,Other municipal waste,1243
+2013,Hungary,Other municipal waste,1021
+2014,Hungary,Other municipal waste,659
+2015,Hungary,Other municipal waste,613
+2016,Hungary,Other municipal waste,512
+2017,Hungary,Other municipal waste,846
+2000,Hungary,Municipal waste treated,4157.13
+2001,Hungary,Municipal waste treated,4123.09
+2002,Hungary,Municipal waste treated,4243.17
+2003,Hungary,Municipal waste treated,4376.03
+2004,Hungary,Municipal waste treated,4552
+2005,Hungary,Municipal waste treated,4606
+2006,Hungary,Municipal waste treated,4671
+2007,Hungary,Municipal waste treated,4365
+2008,Hungary,Municipal waste treated,4426
+2009,Hungary,Municipal waste treated,4284
+2010,Hungary,Municipal waste treated,4033
+2011,Hungary,Municipal waste treated,3809
+2012,Hungary,Municipal waste treated,3988
+2013,Hungary,Municipal waste treated,3738
+2014,Hungary,Municipal waste treated,3713
+2015,Hungary,Municipal waste treated,3710
+2016,Hungary,Municipal waste treated,3734
+2017,Hungary,Municipal waste treated,3752
+2000,Hungary,Recycling,56.29
+2001,Hungary,Recycling,56.92
+2002,Hungary,Recycling,67.29
+2003,Hungary,Recycling,116.99
+2004,Hungary,Recycling,501
+2005,Hungary,Recycling,403
+2006,Hungary,Recycling,432
+2007,Hungary,Recycling,490
+2008,Hungary,Recycling,607
+2009,Hungary,Recycling,576
+2010,Hungary,Recycling,641
+2011,Hungary,Recycling,654
+2012,Hungary,Recycling,832
+2013,Hungary,Recycling,799
+2014,Hungary,Recycling,923
+2015,Hungary,Recycling,963
+2016,Hungary,Recycling,998
+2017,Hungary,Recycling,1010
+2000,Hungary,Landfill,3736
+2001,Hungary,Landfill,3695.74
+2002,Hungary,Landfill,3840.81
+2003,Hungary,Landfill,3967.72
+2004,Hungary,Landfill,3857
+2005,Hungary,Landfill,3859
+2006,Hungary,Landfill,3792
+2007,Hungary,Landfill,3429
+2008,Hungary,Landfill,3341
+2009,Hungary,Landfill,3212
+2010,Hungary,Landfill,2838
+2011,Hungary,Landfill,2563
+2012,Hungary,Landfill,2609
+2013,Hungary,Landfill,2415
+2014,Hungary,Landfill,2181
+2015,Hungary,Landfill,1991
+2016,Hungary,Landfill,1888
+2017,Hungary,Landfill,1825
+2000,Iceland,Municipal waste generated,130
+2001,Iceland,Municipal waste generated,133
+2002,Iceland,Municipal waste generated,137
+2003,Iceland,Municipal waste generated,140
+2004,Iceland,Municipal waste generated,147
+2005,Iceland,Municipal waste generated,153
+2006,Iceland,Municipal waste generated,171
+2007,Iceland,Municipal waste generated,174
+2008,Iceland,Municipal waste generated,208
+2009,Iceland,Municipal waste generated,132
+2010,Iceland,Municipal waste generated,154
+2011,Iceland,Municipal waste generated,158
+2012,Iceland,Municipal waste generated,164
+2013,Iceland,Municipal waste generated,167
+2014,Iceland,Municipal waste generated,175
+2015,Iceland,Municipal waste generated,194.6
+2016,Iceland,Municipal waste generated,219.9
+2000,Iceland,Municipal waste treated,134.5
+2001,Iceland,Municipal waste treated,131.75
+2002,Iceland,Municipal waste treated,134.75
+2003,Iceland,Municipal waste treated,139
+2008,Iceland,Municipal waste treated,208
+2009,Iceland,Municipal waste treated,132
+2010,Iceland,Municipal waste treated,154
+2011,Iceland,Municipal waste treated,158
+2012,Iceland,Municipal waste treated,165
+2013,Iceland,Municipal waste treated,166
+2014,Iceland,Municipal waste treated,175
+2015,Iceland,Municipal waste treated,194.6
+2016,Iceland,Municipal waste treated,219.9
+2000,Iceland,Recycling,17
+2001,Iceland,Recycling,18
+2002,Iceland,Recycling,19
+2003,Iceland,Recycling,20
+2004,Iceland,Recycling,23
+2008,Iceland,Recycling,36
+2009,Iceland,Recycling,21
+2010,Iceland,Recycling,24
+2011,Iceland,Recycling,32
+2012,Iceland,Recycling,39
+2013,Iceland,Recycling,42
+2014,Iceland,Recycling,37
+2015,Iceland,Recycling,40.3
+2016,Iceland,Recycling,56.1
+2000,Iceland,Landfill,98
+2001,Iceland,Landfill,100
+2002,Iceland,Landfill,103
+2003,Iceland,Landfill,105
+2004,Iceland,Landfill,106
+2005,Iceland,Landfill,108
+2006,Iceland,Landfill,117
+2007,Iceland,Landfill,117
+2008,Iceland,Landfill,155
+2009,Iceland,Landfill,94
+2010,Iceland,Landfill,110
+2011,Iceland,Landfill,108
+2012,Iceland,Landfill,110
+2013,Iceland,Landfill,110
+2014,Iceland,Landfill,116
+2015,Iceland,Landfill,113
+2016,Iceland,Landfill,125.9
+2000,Ireland,Municipal waste generated,2278.7
+2001,Ireland,Municipal waste generated,2704
+2002,Ireland,Municipal waste generated,2720.4
+2003,Ireland,Municipal waste generated,2917.9
+2004,Ireland,Municipal waste generated,3000.6
+2005,Ireland,Municipal waste generated,3040.7
+2006,Ireland,Municipal waste generated,3384.6
+2007,Ireland,Municipal waste generated,3397.7
+2008,Ireland,Municipal waste generated,3224.28
+2009,Ireland,Municipal waste generated,2952.98
+2010,Ireland,Municipal waste generated,2846
+2011,Ireland,Municipal waste generated,2823
+2012,Ireland,Municipal waste generated,2692.5
+2014,Ireland,Municipal waste generated,2619.02
+2016,Ireland,Municipal waste generated,2763.17
+2000,Ireland,Waste from households,1333.4
+2001,Ireland,Waste from households,1468.8
+2002,Ireland,Waste from households,1679.1
+2003,Ireland,Waste from households,1704.8
+2004,Ireland,Waste from households,1728.2
+2005,Ireland,Waste from households,1746.4
+2006,Ireland,Waste from households,1979
+2007,Ireland,Waste from households,1761
+2008,Ireland,Waste from households,1677
+2009,Ireland,Waste from households,1626
+2010,Ireland,Waste from households,1686.387
+2011,Ireland,Waste from households,1683.241
+2012,Ireland,Waste from households,1577.1
+2014,Ireland,Waste from households,1437.47
+2016,Ireland,Waste from households,1483.64
+2000,Ireland,Other municipal waste,945.3
+2001,Ireland,Other municipal waste,1235.2
+2002,Ireland,Other municipal waste,1041.3
+2003,Ireland,Other municipal waste,1213
+2004,Ireland,Other municipal waste,1272.5
+2005,Ireland,Other municipal waste,1303.6
+2006,Ireland,Other municipal waste,1406
+2007,Ireland,Other municipal waste,1636
+2008,Ireland,Other municipal waste,1547
+2009,Ireland,Other municipal waste,1327
+2010,Ireland,Other municipal waste,1159.728
+2011,Ireland,Other municipal waste,1140.001
+2012,Ireland,Other municipal waste,1115.4
+2014,Ireland,Other municipal waste,1181.55
+2016,Ireland,Other municipal waste,1279.52
+2000,Ireland,Municipal waste treated,2363.9
+2001,Ireland,Municipal waste treated,2376.07
+2002,Ireland,Municipal waste treated,2464.34
+2003,Ireland,Municipal waste treated,2594.4
+2004,Ireland,Municipal waste treated,2703.61
+2005,Ireland,Municipal waste treated,2779.1
+2006,Ireland,Municipal waste treated,3100.31
+2007,Ireland,Municipal waste treated,3174.57
+2008,Ireland,Municipal waste treated,3103.87
+2009,Ireland,Municipal waste treated,2825.01
+2010,Ireland,Municipal waste treated,2621.57
+2011,Ireland,Municipal waste treated,2558
+2012,Ireland,Municipal waste treated,2439.45
+2014,Ireland,Municipal waste treated,2575.22
+2016,Ireland,Municipal waste treated,2718.3
+2000,Ireland,Recycling,253.8
+2001,Ireland,Recycling,283.55
+2002,Ireland,Recycling,462.91
+2003,Ireland,Recycling,650
+2004,Ireland,Recycling,835.49
+2005,Ireland,Recycling,898
+2006,Ireland,Recycling,1064.34
+2007,Ireland,Recycling,1081.15
+2008,Ireland,Recycling,976.86
+2009,Ireland,Recycling,902.17
+2010,Ireland,Recycling,910
+2011,Ireland,Recycling,861
+2012,Ireland,Recycling,828.5
+2014,Ireland,Recycling,863.17
+2016,Ireland,Recycling,935.25
+2000,Ireland,Landfill,2093
+2001,Ireland,Landfill,2070.52
+2002,Ireland,Landfill,1967.44
+2003,Ireland,Landfill,1904.4
+2004,Ireland,Landfill,1818.54
+2005,Ireland,Landfill,1833.33
+2006,Ireland,Landfill,1980.62
+2007,Ireland,Landfill,2014.8
+2008,Ireland,Landfill,1938.71
+2009,Ireland,Landfill,1723.71
+2010,Ireland,Landfill,1495.565
+2011,Ireland,Landfill,1344
+2012,Ireland,Landfill,1027.6
+2014,Ireland,Landfill,536.53
+2016,Ireland,Landfill,710.81
+2000,Italy,Municipal waste generated,28959
+2001,Italy,Municipal waste generated,29409
+2002,Italy,Municipal waste generated,29864
+2003,Italy,Municipal waste generated,30035
+2004,Italy,Municipal waste generated,31150
+2005,Italy,Municipal waste generated,31668
+2006,Italy,Municipal waste generated,32516
+2007,Italy,Municipal waste generated,32536
+2008,Italy,Municipal waste generated,32461
+2009,Italy,Municipal waste generated,32107
+2010,Italy,Municipal waste generated,32440
+2011,Italy,Municipal waste generated,31386
+2012,Italy,Municipal waste generated,29994
+2013,Italy,Municipal waste generated,29573
+2014,Italy,Municipal waste generated,29652
+2015,Italy,Municipal waste generated,29524
+2016,Italy,Municipal waste generated,30112
+2017,Italy,Municipal waste generated,29583
+2000,Italy,Municipal waste treated,28279
+2001,Italy,Municipal waste treated,27668
+2002,Italy,Municipal waste treated,25840
+2003,Italy,Municipal waste treated,25956
+2004,Italy,Municipal waste treated,26626
+2005,Italy,Municipal waste treated,26810
+2006,Italy,Municipal waste treated,27829
+2007,Italy,Municipal waste treated,29076
+2008,Italy,Municipal waste treated,28178
+2009,Italy,Municipal waste treated,29840
+2010,Italy,Municipal waste treated,30505
+2011,Italy,Municipal waste treated,29928
+2012,Italy,Municipal waste treated,28765
+2013,Italy,Municipal waste treated,28538
+2014,Italy,Municipal waste treated,27537
+2015,Italy,Municipal waste treated,27193
+2016,Italy,Municipal waste treated,27374
+2017,Italy,Municipal waste treated,26948
+2000,Italy,Recycling,2888
+2001,Italy,Recycling,3513
+2002,Italy,Recycling,2727
+2003,Italy,Recycling,3108
+2004,Italy,Recycling,3509
+2005,Italy,Recycling,3683
+2006,Italy,Recycling,3813
+2007,Italy,Recycling,5536
+2008,Italy,Recycling,4631
+2009,Italy,Recycling,6042
+2010,Italy,Recycling,6107
+2011,Italy,Recycling,7149
+2012,Italy,Recycling,7177
+2013,Italy,Recycling,7335
+2014,Italy,Recycling,7472
+2015,Italy,Recycling,7864
+2016,Italy,Recycling,8093
+2017,Italy,Recycling,8218
+2000,Italy,Landfill,21917
+2001,Italy,Landfill,19912
+2002,Italy,Landfill,18745
+2003,Italy,Landfill,17883
+2004,Italy,Landfill,17641
+2005,Italy,Landfill,17117
+2006,Italy,Landfill,17462
+2007,Italy,Landfill,16912
+2008,Italy,Landfill,16069
+2009,Italy,Landfill,15538
+2010,Italy,Landfill,15015
+2011,Italy,Landfill,13206
+2012,Italy,Landfill,11720
+2013,Italy,Landfill,10914
+2014,Italy,Landfill,9332
+2015,Italy,Landfill,7819
+2016,Italy,Landfill,7432
+2017,Italy,Landfill,6927
+2000,Japan,Municipal waste generated,54833
+2001,Japan,Municipal waste generated,54681
+2002,Japan,Municipal waste generated,54199
+2003,Japan,Municipal waste generated,54271
+2004,Japan,Municipal waste generated,53376
+2005,Japan,Municipal waste generated,52720
+2006,Japan,Municipal waste generated,52024
+2007,Japan,Municipal waste generated,50816
+2008,Japan,Municipal waste generated,48106
+2009,Japan,Municipal waste generated,46252
+2010,Japan,Municipal waste generated,45359
+2011,Japan,Municipal waste generated,45430
+2012,Japan,Municipal waste generated,45234
+2013,Japan,Municipal waste generated,44874
+2014,Japan,Municipal waste generated,44317
+2015,Japan,Municipal waste generated,43981
+2016,Japan,Municipal waste generated,43170
+2000,Japan,Waste from households,36844
+2005,Japan,Waste from households,36471
+2006,Japan,Waste from households,36220
+2007,Japan,Waste from households,35724
+2008,Japan,Waste from households,34104
+2009,Japan,Waste from households,32974
+2010,Japan,Waste from households,32385
+2011,Japan,Waste from households,32385
+2012,Japan,Waste from households,32137
+2013,Japan,Waste from households,31757
+2014,Japan,Waste from households,31242
+2015,Japan,Waste from households,30935
+2016,Japan,Waste from households,30182
+2000,Japan,Other municipal waste,17990
+2005,Japan,Other municipal waste,16249
+2006,Japan,Other municipal waste,15804
+2007,Japan,Other municipal waste,15092
+2008,Japan,Other municipal waste,14003
+2009,Japan,Other municipal waste,13278
+2010,Japan,Other municipal waste,12974
+2011,Japan,Other municipal waste,13045
+2012,Japan,Other municipal waste,13097
+2013,Japan,Other municipal waste,13117
+2014,Japan,Other municipal waste,13075
+2015,Japan,Other municipal waste,13046
+2016,Japan,Other municipal waste,12988
+2000,Japan,Municipal waste treated,54855
+2001,Japan,Municipal waste treated,54798
+2002,Japan,Municipal waste treated,54253
+2003,Japan,Municipal waste treated,54367
+2004,Japan,Municipal waste treated,53432
+2005,Japan,Municipal waste treated,52750
+2006,Japan,Municipal waste treated,52072
+2007,Japan,Municipal waste treated,50774
+2008,Japan,Municipal waste treated,50597
+2009,Japan,Municipal waste treated,50397
+2010,Japan,Municipal waste treated,49529
+2011,Japan,Municipal waste treated,45015
+2012,Japan,Municipal waste treated,45047
+2013,Japan,Municipal waste treated,44645
+2014,Japan,Municipal waste treated,43677
+2015,Japan,Municipal waste treated,43382
+2016,Japan,Municipal waste treated,42870
+2000,Japan,Recycling,7860
+2001,Japan,Recycling,8247
+2002,Japan,Recycling,8638
+2003,Japan,Recycling,9157
+2004,Japan,Recycling,9400
+2005,Japan,Recycling,10026
+2006,Japan,Recycling,10204
+2007,Japan,Recycling,10304
+2008,Japan,Recycling,9776
+2009,Japan,Recycling,9502
+2010,Japan,Recycling,9446
+2011,Japan,Recycling,9156
+2012,Japan,Recycling,9127
+2013,Japan,Recycling,9117
+2014,Japan,Recycling,8972
+2015,Japan,Recycling,8843
+2016,Japan,Recycling,8619
+2000,Japan,Landfill,3084
+2001,Japan,Landfill,2745
+2002,Japan,Landfill,2227
+2003,Japan,Landfill,1863
+2004,Japan,Landfill,1774
+2005,Japan,Landfill,1444
+2006,Japan,Landfill,1201
+2007,Japan,Landfill,1180
+2008,Japan,Landfill,821
+2009,Japan,Landfill,717
+2010,Japan,Landfill,662
+2011,Japan,Landfill,593
+2012,Japan,Landfill,567
+2013,Japan,Landfill,574
+2014,Japan,Landfill,525
+2015,Japan,Landfill,468
+2016,Japan,Landfill,426
+2000,Korea,Municipal waste generated,16949.9
+2001,Korea,Municipal waste generated,17702.1
+2002,Korea,Municipal waste generated,18214.2
+2003,Korea,Municipal waste generated,18518.9
+2004,Korea,Municipal waste generated,18252
+2005,Korea,Municipal waste generated,17665
+2006,Korea,Municipal waste generated,17828
+2007,Korea,Municipal waste generated,18376
+2008,Korea,Municipal waste generated,19006
+2009,Korea,Municipal waste generated,18581
+2010,Korea,Municipal waste generated,17943
+2011,Korea,Municipal waste generated,17861
+2012,Korea,Municipal waste generated,17881
+2013,Korea,Municipal waste generated,17786
+2014,Korea,Municipal waste generated,18219
+2015,Korea,Municipal waste generated,18705
+2016,Korea,Municipal waste generated,19627
+2000,Korea,Waste from households,14375
+2002,Korea,Waste from households,15616
+2004,Korea,Waste from households,15175
+2005,Korea,Waste from households,14807
+2006,Korea,Waste from households,14944
+2007,Korea,Waste from households,15538
+2008,Korea,Waste from households,15428
+2009,Korea,Waste from households,15361
+2010,Korea,Waste from households,14936
+2011,Korea,Waste from households,14944
+2012,Korea,Waste from households,15200
+2013,Korea,Waste from households,14798
+2014,Korea,Waste from households,15460
+2015,Korea,Waste from households,15845
+2016,Korea,Waste from households,16593
+2000,Korea,Other municipal waste,2575
+2002,Korea,Other municipal waste,2598
+2004,Korea,Other municipal waste,3077
+2005,Korea,Other municipal waste,2858
+2006,Korea,Other municipal waste,2884
+2007,Korea,Other municipal waste,2838
+2008,Korea,Other municipal waste,3578
+2009,Korea,Other municipal waste,3220
+2010,Korea,Other municipal waste,3007
+2011,Korea,Other municipal waste,2917
+2012,Korea,Other municipal waste,2681
+2013,Korea,Other municipal waste,2988
+2014,Korea,Other municipal waste,2759
+2015,Korea,Other municipal waste,2860
+2016,Korea,Other municipal waste,3034
+2000,Korea,Municipal waste treated,16950
+2001,Korea,Municipal waste treated,17702.14
+2002,Korea,Municipal waste treated,18214
+2003,Korea,Municipal waste treated,18518.64
+2004,Korea,Municipal waste treated,18253
+2005,Korea,Municipal waste treated,17666
+2008,Korea,Municipal waste treated,19006
+2009,Korea,Municipal waste treated,18581
+2010,Korea,Municipal waste treated,17943
+2011,Korea,Municipal waste treated,17861
+2012,Korea,Municipal waste treated,17881
+2013,Korea,Municipal waste treated,17786
+2014,Korea,Municipal waste treated,18219
+2015,Korea,Municipal waste treated,18705
+2016,Korea,Municipal waste treated,19627
+2000,Korea,Recycling,6996
+2001,Korea,Recycling,7636.53
+2002,Korea,Recycling,8011
+2003,Korea,Recycling,8372.37
+2004,Korea,Recycling,8975
+2005,Korea,Recycling,9944
+2008,Korea,Recycling,11096
+2009,Korea,Recycling,11112
+2010,Korea,Recycling,10753
+2011,Korea,Recycling,10412
+2012,Korea,Recycling,10436
+2013,Korea,Recycling,10432
+2014,Korea,Recycling,10586
+2015,Korea,Recycling,10927
+2016,Korea,Recycling,11615
+2000,Korea,Landfill,7968
+2001,Korea,Landfill,7665
+2002,Korea,Landfill,7564
+2003,Korea,Landfill,7464.25
+2004,Korea,Landfill,6641
+2005,Korea,Landfill,4892
+2008,Korea,Landfill,3864
+2009,Korea,Landfill,3457
+2010,Korea,Landfill,3211
+2011,Korea,Landfill,3063
+2012,Korea,Landfill,2839
+2013,Korea,Landfill,2779
+2014,Korea,Landfill,2852
+2015,Korea,Landfill,2817
+2016,Korea,Landfill,2887
+2000,Luxembourg,Municipal waste generated,285.26
+2001,Luxembourg,Municipal waste generated,285.21
+2002,Luxembourg,Municipal waste generated,291.29
+2003,Luxembourg,Municipal waste generated,306.43
+2004,Luxembourg,Municipal waste generated,310.89
+2005,Luxembourg,Municipal waste generated,312.76
+2006,Luxembourg,Municipal waste generated,322.65
+2007,Luxembourg,Municipal waste generated,333.37
+2008,Luxembourg,Municipal waste generated,340.69
+2009,Luxembourg,Municipal waste generated,338.14
+2010,Luxembourg,Municipal waste generated,344.26
+2011,Luxembourg,Municipal waste generated,345.33
+2012,Luxembourg,Municipal waste generated,346.09
+2013,Luxembourg,Municipal waste generated,334.72
+2014,Luxembourg,Municipal waste generated,348.15
+2015,Luxembourg,Municipal waste generated,345.95
+2016,Luxembourg,Municipal waste generated,354.62
+2017,Luxembourg,Municipal waste generated,361.89
+2000,Luxembourg,Waste from households,238.85
+2001,Luxembourg,Waste from households,239.98
+2002,Luxembourg,Waste from households,244.75
+2003,Luxembourg,Waste from households,261.29
+2004,Luxembourg,Waste from households,265.93
+2005,Luxembourg,Waste from households,268.81
+2006,Luxembourg,Waste from households,275.94
+2007,Luxembourg,Waste from households,287.67
+2008,Luxembourg,Waste from households,295.15
+2009,Luxembourg,Waste from households,293.8
+2010,Luxembourg,Waste from households,300.01
+2011,Luxembourg,Waste from households,300.99
+2012,Luxembourg,Waste from households,304.11
+2013,Luxembourg,Waste from households,293.29
+2014,Luxembourg,Waste from households,306.14
+2015,Luxembourg,Waste from households,305.59
+2016,Luxembourg,Waste from households,310.89
+2017,Luxembourg,Waste from households,317.27
+2000,Luxembourg,Other municipal waste,46.41
+2001,Luxembourg,Other municipal waste,45.23
+2002,Luxembourg,Other municipal waste,46.54
+2003,Luxembourg,Other municipal waste,45.14
+2004,Luxembourg,Other municipal waste,44.96
+2005,Luxembourg,Other municipal waste,43.95
+2006,Luxembourg,Other municipal waste,46.71
+2007,Luxembourg,Other municipal waste,45.7
+2008,Luxembourg,Other municipal waste,45.54
+2009,Luxembourg,Other municipal waste,44.34
+2010,Luxembourg,Other municipal waste,44.24
+2011,Luxembourg,Other municipal waste,44.33
+2012,Luxembourg,Other municipal waste,41.98
+2013,Luxembourg,Other municipal waste,41.44
+2014,Luxembourg,Other municipal waste,42.01
+2015,Luxembourg,Other municipal waste,40.36
+2016,Luxembourg,Other municipal waste,43.72
+2017,Luxembourg,Other municipal waste,44.62
+2000,Luxembourg,Municipal waste treated,285.26
+2001,Luxembourg,Municipal waste treated,285.21
+2002,Luxembourg,Municipal waste treated,291.29
+2003,Luxembourg,Municipal waste treated,306.43
+2004,Luxembourg,Municipal waste treated,310.89
+2005,Luxembourg,Municipal waste treated,312.76
+2006,Luxembourg,Municipal waste treated,322.65
+2007,Luxembourg,Municipal waste treated,333.37
+2008,Luxembourg,Municipal waste treated,340.68
+2009,Luxembourg,Municipal waste treated,338.14
+2010,Luxembourg,Municipal waste treated,344.26
+2011,Luxembourg,Municipal waste treated,345.33
+2012,Luxembourg,Municipal waste treated,346.09
+2013,Luxembourg,Municipal waste treated,334.72
+2014,Luxembourg,Municipal waste treated,348.15
+2015,Luxembourg,Municipal waste treated,345.95
+2016,Luxembourg,Municipal waste treated,354.62
+2017,Luxembourg,Municipal waste treated,361.89
+2000,Luxembourg,Recycling,61.62
+2001,Luxembourg,Recycling,66.39
+2002,Luxembourg,Recycling,66.43
+2003,Luxembourg,Recycling,70.58
+2004,Luxembourg,Recycling,72.15
+2005,Luxembourg,Recycling,80.1
+2006,Luxembourg,Recycling,83.99
+2007,Luxembourg,Recycling,86.02
+2008,Luxembourg,Recycling,88.97
+2009,Luxembourg,Recycling,89.3
+2010,Luxembourg,Recycling,92.72
+2011,Luxembourg,Recycling,97.59
+2012,Luxembourg,Recycling,96.41
+2013,Luxembourg,Recycling,94.56
+2014,Luxembourg,Recycling,99.06
+2015,Luxembourg,Recycling,100.88
+2016,Luxembourg,Recycling,98.43
+2017,Luxembourg,Recycling,100.4
+2000,Luxembourg,Landfill,59.99
+2001,Luxembourg,Landfill,57.72
+2002,Luxembourg,Landfill,57.43
+2003,Luxembourg,Landfill,57.02
+2004,Luxembourg,Landfill,51.97
+2005,Luxembourg,Landfill,58.45
+2006,Luxembourg,Landfill,56.09
+2007,Luxembourg,Landfill,55.56
+2008,Luxembourg,Landfill,52.78
+2009,Luxembourg,Landfill,50.94
+2010,Luxembourg,Landfill,54.53
+2011,Luxembourg,Landfill,50.44
+2012,Luxembourg,Landfill,49.52
+2013,Luxembourg,Landfill,47.62
+2014,Luxembourg,Landfill,49.79
+2015,Luxembourg,Landfill,25.53
+2016,Luxembourg,Landfill,22.37
+2017,Luxembourg,Landfill,25.27
+2000,Mexico,Municipal waste generated,30733
+2001,Mexico,Municipal waste generated,31488.6
+2002,Mexico,Municipal waste generated,32173.6
+2003,Mexico,Municipal waste generated,32915.7
+2004,Mexico,Municipal waste generated,34604
+2005,Mexico,Municipal waste generated,35404.9
+2006,Mexico,Municipal waste generated,36135
+2007,Mexico,Municipal waste generated,36865
+2008,Mexico,Municipal waste generated,37595
+2009,Mexico,Municipal waste generated,38325
+2010,Mexico,Municipal waste generated,40058.75
+2011,Mexico,Municipal waste generated,41062.5
+2012,Mexico,Municipal waste generated,42102.75
+2000,Mexico,Waste from households,23641
+2001,Mexico,Waste from households,24233
+2002,Mexico,Waste from households,24760
+2003,Mexico,Waste from households,25331
+2004,Mexico,Waste from households,26630
+2005,Mexico,Waste from households,27242
+2006,Mexico,Waste from households,27809
+2007,Mexico,Waste from households,28370.8
+2008,Mexico,Waste from households,28950
+2009,Mexico,Waste from households,29512.1
+2010,Mexico,Waste from households,30845.24
+2011,Mexico,Waste from households,31618.13
+2012,Mexico,Waste from households,32419.118
+2000,Mexico,Other municipal waste,7092
+2001,Mexico,Other municipal waste,7255.6
+2002,Mexico,Other municipal waste,7413.6
+2003,Mexico,Other municipal waste,7584.7
+2004,Mexico,Other municipal waste,7974
+2005,Mexico,Other municipal waste,8162.9
+2006,Mexico,Other municipal waste,8326
+2007,Mexico,Other municipal waste,8494.2
+2008,Mexico,Other municipal waste,8645
+2009,Mexico,Other municipal waste,8812.9
+2010,Mexico,Other municipal waste,9213.51
+2011,Mexico,Other municipal waste,9444.38
+2012,Mexico,Other municipal waste,9683.633
+2000,Mexico,Municipal waste treated,30733.1
+2001,Mexico,Municipal waste treated,31488.59
+2002,Mexico,Municipal waste treated,32173.67
+2003,Mexico,Municipal waste treated,32915.6
+2004,Mexico,Municipal waste treated,34604
+2005,Mexico,Municipal waste treated,35405
+2006,Mexico,Municipal waste treated,36135
+2007,Mexico,Municipal waste treated,36865
+2008,Mexico,Municipal waste treated,37594.6
+2009,Mexico,Municipal waste treated,38325
+2010,Mexico,Municipal waste treated,40058.75
+2011,Mexico,Municipal waste treated,41062.5
+2012,Mexico,Municipal waste treated,42102.75
+2000,Mexico,Recycling,724.3
+2001,Mexico,Recycling,742.1
+2002,Mexico,Recycling,780.47
+2003,Mexico,Recycling,820.5
+2004,Mexico,Recycling,895
+2005,Mexico,Recycling,1150
+2006,Mexico,Recycling,1176
+2007,Mexico,Recycling,1202.2
+2008,Mexico,Recycling,1346.8
+2009,Mexico,Recycling,1500
+2010,Mexico,Recycling,1695
+2011,Mexico,Recycling,1980
+2012,Mexico,Recycling,2100
+2000,Mexico,Landfill,30008.8
+2001,Mexico,Landfill,30746.49
+2002,Mexico,Landfill,31393.2
+2003,Mexico,Landfill,32095.1
+2004,Mexico,Landfill,33709.04
+2005,Mexico,Landfill,34255
+2006,Mexico,Landfill,34959
+2007,Mexico,Landfill,35663
+2008,Mexico,Landfill,36247.8
+2009,Mexico,Landfill,36825
+2010,Mexico,Landfill,38363.75
+2011,Mexico,Landfill,39082.5
+2012,Mexico,Landfill,40002.75
+2000,Netherlands,Municipal waste generated,9529
+2001,Netherlands,Municipal waste generated,9550
+2002,Netherlands,Municipal waste generated,9684
+2003,Netherlands,Municipal waste generated,9504
+2004,Netherlands,Municipal waste generated,9746
+2005,Netherlands,Municipal waste generated,9769
+2006,Netherlands,Municipal waste generated,9761
+2007,Netherlands,Municipal waste generated,9922
+2008,Netherlands,Municipal waste generated,9868
+2009,Netherlands,Municipal waste generated,9738
+2010,Netherlands,Municipal waste generated,9484
+2011,Netherlands,Municipal waste generated,9479
+2012,Netherlands,Municipal waste generated,9203
+2013,Netherlands,Municipal waste generated,8840
+2014,Netherlands,Municipal waste generated,8894
+2015,Netherlands,Municipal waste generated,8866
+2016,Netherlands,Municipal waste generated,8858
+2017,Netherlands,Municipal waste generated,8787
+2000,Netherlands,Waste from households,8361
+2001,Netherlands,Waste from households,8373
+2002,Netherlands,Waste from households,8460
+2003,Netherlands,Waste from households,8343
+2004,Netherlands,Waste from households,8577
+2005,Netherlands,Waste from households,8612
+2006,Netherlands,Waste from households,8637
+2007,Netherlands,Waste from households,8771
+2008,Netherlands,Waste from households,8722
+2009,Netherlands,Waste from households,8569
+2010,Netherlands,Waste from households,8373
+2011,Netherlands,Waste from households,8325
+2012,Netherlands,Waste from households,8132
+2013,Netherlands,Waste from households,7786
+2014,Netherlands,Waste from households,7851
+2015,Netherlands,Waste from households,7826
+2016,Netherlands,Waste from households,7846
+2017,Netherlands,Waste from households,7836
+2000,Netherlands,Other municipal waste,1168
+2001,Netherlands,Other municipal waste,1177
+2002,Netherlands,Other municipal waste,1224
+2003,Netherlands,Other municipal waste,1161
+2004,Netherlands,Other municipal waste,1169
+2005,Netherlands,Other municipal waste,1157
+2006,Netherlands,Other municipal waste,1124
+2007,Netherlands,Other municipal waste,1150
+2008,Netherlands,Other municipal waste,1147
+2009,Netherlands,Other municipal waste,1169
+2010,Netherlands,Other municipal waste,1111
+2011,Netherlands,Other municipal waste,1154
+2012,Netherlands,Other municipal waste,1071
+2013,Netherlands,Other municipal waste,1054
+2014,Netherlands,Other municipal waste,1043
+2015,Netherlands,Other municipal waste,1040
+2016,Netherlands,Other municipal waste,1010
+2017,Netherlands,Other municipal waste,951
+2000,Netherlands,Municipal waste treated,8121
+2001,Netherlands,Municipal waste treated,8141
+2002,Netherlands,Municipal waste treated,8313
+2003,Netherlands,Municipal waste treated,7778
+2004,Netherlands,Municipal waste treated,8009
+2005,Netherlands,Municipal waste treated,8034
+2006,Netherlands,Municipal waste treated,8049
+2007,Netherlands,Municipal waste treated,8254
+2008,Netherlands,Municipal waste treated,9868
+2009,Netherlands,Municipal waste treated,9738
+2010,Netherlands,Municipal waste treated,9484
+2011,Netherlands,Municipal waste treated,9479
+2012,Netherlands,Municipal waste treated,9203
+2013,Netherlands,Municipal waste treated,8840
+2014,Netherlands,Municipal waste treated,8894
+2015,Netherlands,Municipal waste treated,8867
+2016,Netherlands,Municipal waste treated,8859
+2017,Netherlands,Municipal waste treated,8786
+2000,Netherlands,Recycling,1899
+2001,Netherlands,Recycling,1917
+2002,Netherlands,Recycling,2022
+2003,Netherlands,Recycling,2039
+2004,Netherlands,Recycling,2183
+2005,Netherlands,Recycling,2142
+2006,Netherlands,Recycling,2247
+2007,Netherlands,Recycling,2388
+2008,Netherlands,Recycling,2450
+2009,Netherlands,Recycling,2384
+2010,Netherlands,Recycling,2354
+2011,Netherlands,Recycling,2291
+2012,Netherlands,Recycling,2196
+2013,Netherlands,Recycling,2112
+2014,Netherlands,Recycling,2112
+2015,Netherlands,Recycling,2176
+2016,Netherlands,Recycling,2242
+2017,Netherlands,Recycling,2279
+2000,Netherlands,Landfill,900
+2001,Netherlands,Landfill,783
+2002,Netherlands,Landfill,800
+2003,Netherlands,Landfill,252
+2004,Netherlands,Landfill,159
+2005,Netherlands,Landfill,168
+2006,Netherlands,Landfill,232
+2007,Netherlands,Landfill,199
+2008,Netherlands,Landfill,154
+2009,Netherlands,Landfill,152
+2010,Netherlands,Landfill,145
+2011,Netherlands,Landfill,151
+2012,Netherlands,Landfill,138
+2013,Netherlands,Landfill,131
+2014,Netherlands,Landfill,128
+2015,Netherlands,Landfill,126
+2016,Netherlands,Landfill,127
+2017,Netherlands,Landfill,124
+2002,New Zealand,Municipal waste generated,3022
+2003,New Zealand,Municipal waste generated,3075
+2004,New Zealand,Municipal waste generated,3186
+2006,New Zealand,Municipal waste generated,3156
+2010,New Zealand,Municipal waste generated,2532
+2011,New Zealand,Municipal waste generated,2512
+2012,New Zealand,Municipal waste generated,2514
+2013,New Zealand,Municipal waste generated,2684
+2014,New Zealand,Municipal waste generated,2931
+2015,New Zealand,Municipal waste generated,3221
+2016,New Zealand,Municipal waste generated,3405
+2017,New Zealand,Municipal waste generated,3481
+2002,New Zealand,Landfill,3022
+2003,New Zealand,Landfill,3075
+2004,New Zealand,Landfill,3186
+2006,New Zealand,Landfill,3156
+2010,New Zealand,Landfill,2532
+2011,New Zealand,Landfill,2512
+2012,New Zealand,Landfill,2514
+2013,New Zealand,Landfill,2684
+2014,New Zealand,Landfill,2931
+2015,New Zealand,Landfill,3221
+2016,New Zealand,Landfill,3405
+2017,New Zealand,Landfill,3481
+2000,Norway,Municipal waste generated,2755
+2001,Norway,Municipal waste generated,1629
+2002,Norway,Municipal waste generated,1780
+2003,Norway,Municipal waste generated,1836
+2004,Norway,Municipal waste generated,1903
+2005,Norway,Municipal waste generated,1968
+2006,Norway,Municipal waste generated,2140
+2007,Norway,Municipal waste generated,2312
+2008,Norway,Municipal waste generated,2324
+2009,Norway,Municipal waste generated,2269
+2010,Norway,Municipal waste generated,2295
+2011,Norway,Municipal waste generated,2403
+2012,Norway,Municipal waste generated,2392
+2013,Norway,Municipal waste generated,2517.96
+2014,Norway,Municipal waste generated,2175.44
+2015,Norway,Municipal waste generated,2187.22
+2016,Norway,Municipal waste generated,3946.17
+2017,Norway,Municipal waste generated,3949.21
+2000,Norway,Waste from households,1451.6
+2001,Norway,Waste from households,1506.7
+2002,Norway,Waste from households,1612.7
+2003,Norway,Waste from households,1670.6
+2004,Norway,Waste from households,1746.4
+2005,Norway,Waste from households,1843.7
+2006,Norway,Waste from households,1939.8
+2007,Norway,Waste from households,2034
+2008,Norway,Waste from households,2079
+2009,Norway,Waste from households,2039
+2010,Norway,Waste from households,2088
+2011,Norway,Waste from households,2183
+2012,Norway,Waste from households,2172
+2013,Norway,Waste from households,2255
+2014,Norway,Waste from households,1989.41
+2015,Norway,Waste from households,2004.98
+2016,Norway,Waste from households,1993.24
+2017,Norway,Waste from households,1971.84
+2000,Norway,Other municipal waste,1303.4
+2001,Norway,Other municipal waste,122.3
+2002,Norway,Other municipal waste,167.3
+2003,Norway,Other municipal waste,165.4
+2004,Norway,Other municipal waste,156.6
+2005,Norway,Other municipal waste,124.3
+2006,Norway,Other municipal waste,200.2
+2007,Norway,Other municipal waste,278
+2008,Norway,Other municipal waste,245
+2009,Norway,Other municipal waste,230
+2010,Norway,Other municipal waste,207
+2011,Norway,Other municipal waste,220
+2012,Norway,Other municipal waste,219
+2013,Norway,Other municipal waste,262.96
+2014,Norway,Other municipal waste,186.03
+2015,Norway,Other municipal waste,182.23
+2016,Norway,Other municipal waste,1952.93
+2017,Norway,Other municipal waste,1977.38
+2000,Norway,Municipal waste treated,2755
+2001,Norway,Municipal waste treated,1628.97
+2002,Norway,Municipal waste treated,1779.708
+2003,Norway,Municipal waste treated,1836.213
+2004,Norway,Municipal waste treated,1902.374
+2005,Norway,Municipal waste treated,1968.372
+2006,Norway,Municipal waste treated,2139.398
+2007,Norway,Municipal waste treated,2311.488
+2008,Norway,Municipal waste treated,2323.562
+2009,Norway,Municipal waste treated,2268.802
+2010,Norway,Municipal waste treated,2295.239
+2011,Norway,Municipal waste treated,2403
+2012,Norway,Municipal waste treated,2392
+2013,Norway,Municipal waste treated,2517.96
+2014,Norway,Municipal waste treated,2175.44
+2015,Norway,Municipal waste treated,2187.22
+2016,Norway,Municipal waste treated,3946.17
+2017,Norway,Municipal waste treated,3949.21
+2000,Norway,Recycling,606
+2001,Norway,Recycling,496.34
+2002,Norway,Recycling,559.69
+2003,Norway,Recycling,575.89
+2004,Norway,Recycling,475
+2005,Norway,Recycling,519
+2006,Norway,Recycling,574
+2007,Norway,Recycling,642
+2008,Norway,Recycling,669.51
+2009,Norway,Recycling,619.82
+2010,Norway,Recycling,608.76
+2011,Norway,Recycling,598
+2012,Norway,Recycling,620
+2013,Norway,Recycling,589.68
+2014,Norway,Recycling,566.97
+2015,Norway,Recycling,571.5
+2016,Norway,Recycling,1104.9
+2017,Norway,Recycling,1137.61
+2000,Norway,Landfill,1507
+2001,Norway,Landfill,413.49
+2002,Norway,Landfill,424.12
+2003,Norway,Landfill,392.61
+2004,Norway,Landfill,375.38
+2005,Norway,Landfill,355.12
+2006,Norway,Landfill,389.86
+2007,Norway,Landfill,431.53
+2008,Norway,Landfill,415.3
+2009,Norway,Landfill,323.54
+2010,Norway,Landfill,136.78
+2011,Norway,Landfill,55.71
+2012,Norway,Landfill,44
+2013,Norway,Landfill,52.43
+2014,Norway,Landfill,60.02
+2015,Norway,Landfill,74.06
+2016,Norway,Landfill,166.55
+2017,Norway,Landfill,137.14
+2000,Poland,Municipal waste generated,12226
+2001,Poland,Municipal waste generated,11109
+2002,Poland,Municipal waste generated,10509
+2003,Poland,Municipal waste generated,9925
+2004,Poland,Municipal waste generated,9759
+2005,Poland,Municipal waste generated,12169
+2006,Poland,Municipal waste generated,12235
+2007,Poland,Municipal waste generated,12264
+2008,Poland,Municipal waste generated,12194
+2009,Poland,Municipal waste generated,12053
+2010,Poland,Municipal waste generated,12032
+2011,Poland,Municipal waste generated,12129
+2012,Poland,Municipal waste generated,12084
+2013,Poland,Municipal waste generated,11295
+2014,Poland,Municipal waste generated,10330
+2015,Poland,Municipal waste generated,10863
+2016,Poland,Municipal waste generated,11654
+2017,Poland,Municipal waste generated,11969
+2000,Poland,Waste from households,8480
+2001,Poland,Waste from households,8048
+2002,Poland,Waste from households,7617
+2003,Poland,Waste from households,6979
+2004,Poland,Waste from households,6768
+2005,Poland,Waste from households,8439
+2006,Poland,Waste from households,8485
+2007,Poland,Waste from households,9222
+2008,Poland,Waste from households,9170
+2009,Poland,Waste from households,9063
+2014,Poland,Waste from households,8240
+2015,Poland,Waste from households,8889
+2016,Poland,Waste from households,9564
+2017,Poland,Waste from households,9971
+2000,Poland,Other municipal waste,3746
+2001,Poland,Other municipal waste,3061
+2002,Poland,Other municipal waste,2892
+2003,Poland,Other municipal waste,2946
+2004,Poland,Other municipal waste,2991
+2005,Poland,Other municipal waste,2856
+2006,Poland,Other municipal waste,2991
+2014,Poland,Other municipal waste,2091
+2015,Poland,Other municipal waste,1975
+2016,Poland,Other municipal waste,2090
+2017,Poland,Other municipal waste,1997
+2000,Poland,Municipal waste treated,12226
+2001,Poland,Municipal waste treated,11108
+2002,Poland,Municipal waste treated,10509
+2003,Poland,Municipal waste treated,9925
+2004,Poland,Municipal waste treated,9715
+2005,Poland,Municipal waste treated,9352
+2006,Poland,Municipal waste treated,9877
+2007,Poland,Municipal waste treated,10083
+2008,Poland,Municipal waste treated,10036
+2009,Poland,Municipal waste treated,10053
+2010,Poland,Municipal waste treated,10040
+2011,Poland,Municipal waste treated,9828
+2012,Poland,Municipal waste treated,9581
+2013,Poland,Municipal waste treated,9474
+2014,Poland,Municipal waste treated,10330
+2015,Poland,Municipal waste treated,10863
+2016,Poland,Municipal waste treated,11654
+2017,Poland,Municipal waste treated,11969
+2000,Poland,Recycling,13
+2001,Poland,Recycling,147
+2002,Poland,Recycling,116
+2003,Poland,Recycling,145
+2004,Poland,Recycling,243
+2005,Poland,Recycling,367
+2006,Poland,Recycling,487
+2007,Poland,Recycling,580
+2008,Poland,Recycling,895
+2009,Poland,Recycling,1421
+2010,Poland,Recycling,1783
+2011,Poland,Recycling,1173
+2012,Poland,Recycling,1244
+2013,Poland,Recycling,1499
+2014,Poland,Recycling,2180
+2015,Poland,Recycling,2867
+2016,Poland,Recycling,3243
+2017,Poland,Recycling,3199
+2000,Poland,Landfill,11965
+2001,Poland,Landfill,10638
+2002,Poland,Landfill,10142
+2003,Poland,Landfill,9609
+2004,Poland,Landfill,9194
+2005,Poland,Landfill,8623
+2006,Poland,Landfill,8987
+2007,Poland,Landfill,9098
+2008,Poland,Landfill,8716
+2009,Poland,Landfill,8423
+2010,Poland,Landfill,8037
+2011,Poland,Landfill,8400
+2012,Poland,Landfill,8085
+2013,Poland,Landfill,6997
+2014,Poland,Landfill,6031
+2015,Poland,Landfill,5897
+2016,Poland,Landfill,5331
+2017,Poland,Landfill,5000
+2000,Portugal,Municipal waste generated,4531.2
+2001,Portugal,Municipal waste generated,4500.7
+2002,Portugal,Municipal waste generated,4595.15
+2003,Portugal,Municipal waste generated,4692.78
+2004,Portugal,Municipal waste generated,4665.19
+2005,Portugal,Municipal waste generated,4745.18
+2006,Portugal,Municipal waste generated,4898.08
+2007,Portugal,Municipal waste generated,4967.27
+2008,Portugal,Municipal waste generated,5471.84
+2009,Portugal,Municipal waste generated,5496.27
+2010,Portugal,Municipal waste generated,5457.14
+2011,Portugal,Municipal waste generated,5177.78
+2012,Portugal,Municipal waste generated,4765.92
+2013,Portugal,Municipal waste generated,4597.94
+2014,Portugal,Municipal waste generated,4710.46
+2015,Portugal,Municipal waste generated,4768.81
+2016,Portugal,Municipal waste generated,4897.26
+2017,Portugal,Municipal waste generated,5012.38
+2000,Portugal,Municipal waste treated,4704.56
+2001,Portugal,Municipal waste treated,4709.17
+2002,Portugal,Municipal waste treated,4595.15
+2003,Portugal,Municipal waste treated,4692.78
+2004,Portugal,Municipal waste treated,4665.19
+2005,Portugal,Municipal waste treated,4745.18
+2006,Portugal,Municipal waste treated,4898.08
+2007,Portugal,Municipal waste treated,4967.27
+2008,Portugal,Municipal waste treated,5471.84
+2009,Portugal,Municipal waste treated,5496.27
+2010,Portugal,Municipal waste treated,5457.14
+2011,Portugal,Municipal waste treated,5177.78
+2012,Portugal,Municipal waste treated,4765.92
+2013,Portugal,Municipal waste treated,4597.94
+2014,Portugal,Municipal waste treated,4710.46
+2015,Portugal,Municipal waste treated,4585.77
+2016,Portugal,Municipal waste treated,4648.31
+2017,Portugal,Municipal waste treated,4777.98
+2000,Portugal,Recycling,157.29
+2001,Portugal,Recycling,189.56
+2002,Portugal,Recycling,212.66
+2003,Portugal,Recycling,226.94
+2004,Portugal,Recycling,319.57
+2005,Portugal,Recycling,405.78
+2006,Portugal,Recycling,475.35
+2007,Portugal,Recycling,527.9
+2008,Portugal,Recycling,566.65
+2009,Portugal,Recycling,648.21
+2010,Portugal,Recycling,619.35
+2011,Portugal,Recycling,594.79
+2012,Portugal,Recycling,549.48
+2013,Portugal,Recycling,594.12
+2014,Portugal,Recycling,764.67
+2015,Portugal,Recycling,677.77
+2016,Portugal,Recycling,700.1
+2017,Portugal,Recycling,575.51
+2000,Portugal,Landfill,3223.51
+2001,Portugal,Landfill,3176.38
+2002,Portugal,Landfill,3290.13
+2003,Portugal,Landfill,3177.61
+2004,Portugal,Landfill,3044.04
+2005,Portugal,Landfill,2969.27
+2006,Portugal,Landfill,3142.77
+2007,Portugal,Landfill,3170.43
+2008,Portugal,Landfill,3530.22
+2009,Portugal,Landfill,3341.71
+2010,Portugal,Landfill,3380.82
+2011,Portugal,Landfill,3048.13
+2012,Portugal,Landfill,2592.8
+2013,Portugal,Landfill,2320.19
+2014,Portugal,Landfill,2307.17
+2015,Portugal,Landfill,2221.19
+2016,Portugal,Landfill,2184.91
+2017,Portugal,Landfill,2368.81
+2000,Slovak Republic,Municipal waste generated,1706.722
+2002,Slovak Republic,Municipal waste generated,1449.114
+2003,Slovak Republic,Municipal waste generated,1511.241
+2004,Slovak Republic,Municipal waste generated,1400.032
+2005,Slovak Republic,Municipal waste generated,1467.766
+2006,Slovak Republic,Municipal waste generated,1523.988
+2007,Slovak Republic,Municipal waste generated,1579.061
+2008,Slovak Republic,Municipal waste generated,1685.533
+2009,Slovak Republic,Municipal waste generated,1654.347
+2010,Slovak Republic,Municipal waste generated,1719.01
+2011,Slovak Republic,Municipal waste generated,1678.92
+2012,Slovak Republic,Municipal waste generated,1656.57
+2013,Slovak Republic,Municipal waste generated,1644.64
+2014,Slovak Republic,Municipal waste generated,1732.99
+2015,Slovak Republic,Municipal waste generated,1784.18
+2016,Slovak Republic,Municipal waste generated,1889.53
+2017,Slovak Republic,Municipal waste generated,2057.62
+2000,Slovak Republic,Waste from households,953.11
+2003,Slovak Republic,Waste from households,1261.36
+2004,Slovak Republic,Waste from households,1219.071
+2005,Slovak Republic,Waste from households,1248.383
+2006,Slovak Republic,Waste from households,1294.178
+2007,Slovak Republic,Waste from households,1328.483
+2008,Slovak Republic,Waste from households,1427.531
+2009,Slovak Republic,Waste from households,1400.747
+2010,Slovak Republic,Waste from households,1418.88
+2011,Slovak Republic,Waste from households,1394.44
+2012,Slovak Republic,Waste from households,1349.79
+2013,Slovak Republic,Waste from households,1336.03
+2014,Slovak Republic,Waste from households,1358.24
+2015,Slovak Republic,Waste from households,1386.67
+2016,Slovak Republic,Waste from households,1378.72
+2017,Slovak Republic,Waste from households,1374.52
+2000,Slovak Republic,Other municipal waste,753.6
+2003,Slovak Republic,Other municipal waste,249.881
+2004,Slovak Republic,Other municipal waste,180.96
+2005,Slovak Republic,Other municipal waste,219.382
+2006,Slovak Republic,Other municipal waste,229.81
+2007,Slovak Republic,Other municipal waste,250.578
+2008,Slovak Republic,Other municipal waste,272.432
+2009,Slovak Republic,Other municipal waste,253.6
+2010,Slovak Republic,Other municipal waste,300.13
+2011,Slovak Republic,Other municipal waste,284.48
+2012,Slovak Republic,Other municipal waste,306.78
+2013,Slovak Republic,Other municipal waste,308.61
+2014,Slovak Republic,Other municipal waste,374.74
+2015,Slovak Republic,Other municipal waste,397.51
+2016,Slovak Republic,Other municipal waste,510.81
+2017,Slovak Republic,Other municipal waste,683.1
+2000,Slovak Republic,Municipal waste treated,1706.72
+2002,Slovak Republic,Municipal waste treated,1449.11
+2003,Slovak Republic,Municipal waste treated,1511.24
+2004,Slovak Republic,Municipal waste treated,1400.03
+2005,Slovak Republic,Municipal waste treated,1380.85
+2006,Slovak Republic,Municipal waste treated,1440.76
+2007,Slovak Republic,Municipal waste treated,1520.93
+2008,Slovak Republic,Municipal waste treated,1593.79
+2009,Slovak Republic,Municipal waste treated,1613.67
+2010,Slovak Republic,Municipal waste treated,1709.64
+2011,Slovak Republic,Municipal waste treated,1669.32
+2012,Slovak Republic,Municipal waste treated,1655.25
+2013,Slovak Republic,Municipal waste treated,1618.39
+2014,Slovak Republic,Municipal waste treated,1702.43
+2015,Slovak Republic,Municipal waste treated,1776.06
+2016,Slovak Republic,Municipal waste treated,1874.81
+2017,Slovak Republic,Municipal waste treated,2057.31
+2000,Slovak Republic,Recycling,36.2
+2002,Slovak Republic,Recycling,34.84
+2003,Slovak Republic,Recycling,47.11
+2004,Slovak Republic,Recycling,45.55
+2005,Slovak Republic,Recycling,13.79
+2006,Slovak Republic,Recycling,13.57
+2007,Slovak Republic,Recycling,38.9
+2008,Slovak Republic,Recycling,59.65
+2009,Slovak Republic,Recycling,72.45
+2010,Slovak Republic,Recycling,98.15
+2011,Slovak Republic,Recycling,103.9
+2012,Slovak Republic,Recycling,139.5
+2013,Slovak Republic,Recycling,107.89
+2014,Slovak Republic,Recycling,88.42
+2015,Slovak Republic,Recycling,136.23
+2016,Slovak Republic,Recycling,291.07
+2017,Slovak Republic,Recycling,433.31
+2000,Slovak Republic,Landfill,1055.93
+2002,Slovak Republic,Landfill,1124.1
+2003,Slovak Republic,Landfill,1172.54
+2004,Slovak Republic,Landfill,1123.4
+2005,Slovak Republic,Landfill,1143.81
+2006,Slovak Republic,Landfill,1169.44
+2007,Slovak Republic,Landfill,1209.83
+2008,Slovak Republic,Landfill,1276.27
+2009,Slovak Republic,Landfill,1264.01
+2010,Slovak Republic,Landfill,1325.02
+2011,Slovak Republic,Landfill,1240.13
+2012,Slovak Republic,Landfill,1211.4
+2013,Slovak Republic,Landfill,1151.89
+2014,Slovak Republic,Landfill,1158.33
+2015,Slovak Republic,Landfill,1226
+2016,Slovak Republic,Landfill,1236.34
+2017,Slovak Republic,Landfill,1246.13
+2000,Spain,Municipal waste generated,26505
+2001,Spain,Municipal waste generated,26616
+2002,Spain,Municipal waste generated,26404
+2003,Spain,Municipal waste generated,27270
+2004,Spain,Municipal waste generated,25746
+2005,Spain,Municipal waste generated,25683
+2006,Spain,Municipal waste generated,26209.19
+2007,Spain,Municipal waste generated,26153.99
+2008,Spain,Municipal waste generated,25316.94
+2009,Spain,Municipal waste generated,25107.98
+2010,Spain,Municipal waste generated,23774.42
+2011,Spain,Municipal waste generated,22672.41
+2012,Spain,Municipal waste generated,21896.34
+2013,Spain,Municipal waste generated,21184.2
+2014,Spain,Municipal waste generated,20836.4
+2015,Spain,Municipal waste generated,21157.8
+2016,Spain,Municipal waste generated,21541.8
+2017,Spain,Municipal waste generated,21529.5
+2008,Spain,Municipal waste treated,25316.94
+2009,Spain,Municipal waste treated,25107.98
+2010,Spain,Municipal waste treated,23774.42
+2011,Spain,Municipal waste treated,22672.41
+2012,Spain,Municipal waste treated,21896.34
+2013,Spain,Municipal waste treated,21184.2
+2014,Spain,Municipal waste treated,20836.4
+2015,Spain,Municipal waste treated,21157.8
+2016,Spain,Municipal waste treated,21541.8
+2017,Spain,Municipal waste treated,21529.5
+2008,Spain,Recycling,3898.39
+2009,Spain,Recycling,3810.97
+2010,Spain,Recycling,4174.67
+2011,Spain,Recycling,3782.46
+2012,Spain,Recycling,4277.34
+2013,Spain,Recycling,3284.3
+2014,Spain,Recycling,3525.5
+2015,Spain,Recycling,3892
+2016,Spain,Recycling,3944.8
+2017,Spain,Recycling,3899.9
+2008,Spain,Landfill,13091.44
+2009,Spain,Landfill,14539.91
+2010,Spain,Landfill,14788.89
+2011,Spain,Landfill,14276.2
+2012,Spain,Landfill,13262.64
+2013,Spain,Landfill,11800.9
+2014,Spain,Landfill,12022.6
+2015,Spain,Landfill,12128.6
+2016,Spain,Landfill,11657.9
+2017,Spain,Landfill,11537.2
+2000,Sweden,Municipal waste generated,3793
+2001,Sweden,Municipal waste generated,3907.2
+2002,Sweden,Municipal waste generated,4149
+2003,Sweden,Municipal waste generated,4155.6
+2004,Sweden,Municipal waste generated,4134.45
+2005,Sweden,Municipal waste generated,4305.75
+2006,Sweden,Municipal waste generated,4446.68
+2007,Sweden,Municipal waste generated,4442.47
+2008,Sweden,Municipal waste generated,4454.59
+2009,Sweden,Municipal waste generated,4365.72
+2010,Sweden,Municipal waste generated,4115.09
+2011,Sweden,Municipal waste generated,4246.24
+2012,Sweden,Municipal waste generated,4285.09
+2013,Sweden,Municipal waste generated,4326.07
+2014,Sweden,Municipal waste generated,4246.28
+2015,Sweden,Municipal waste generated,4376.53
+2016,Sweden,Municipal waste generated,4392.51
+2017,Sweden,Municipal waste generated,4551
+2000,Sweden,Municipal waste treated,3773
+2001,Sweden,Municipal waste treated,3907.2
+2002,Sweden,Municipal waste treated,4149
+2003,Sweden,Municipal waste treated,4159.55
+2004,Sweden,Municipal waste treated,4142.59
+2005,Sweden,Municipal waste treated,4320.84
+2006,Sweden,Municipal waste treated,4461.4
+2007,Sweden,Municipal waste treated,4459.97
+2008,Sweden,Municipal waste treated,4476
+2009,Sweden,Municipal waste treated,4390.48
+2010,Sweden,Municipal waste treated,4140.44
+2011,Sweden,Municipal waste treated,4278.55
+2012,Sweden,Municipal waste treated,4324.14
+2013,Sweden,Municipal waste treated,4371.75
+2014,Sweden,Municipal waste treated,4295.49
+2015,Sweden,Municipal waste treated,4420.87
+2016,Sweden,Municipal waste treated,4440.28
+2017,Sweden,Municipal waste treated,4550
+2000,Sweden,Recycling,1091
+2001,Sweden,Recycling,1135.2
+2002,Sweden,Recycling,1294.82
+2003,Sweden,Recycling,1313.76
+2004,Sweden,Recycling,1384.76
+2005,Sweden,Recycling,1474.28
+2006,Sweden,Recycling,1657.52
+2007,Sweden,Recycling,1591.18
+2008,Sweden,Recycling,1520.47
+2009,Sweden,Recycling,1604.4
+2010,Sweden,Recycling,1414.41
+2011,Sweden,Recycling,1408
+2012,Sweden,Recycling,1405
+2013,Sweden,Recycling,1445
+2014,Sweden,Recycling,1420
+2015,Sweden,Recycling,1418
+2016,Sweden,Recycling,1435
+2017,Sweden,Recycling,1426
+2000,Sweden,Landfill,865
+2001,Sweden,Landfill,880
+2002,Sweden,Landfill,825
+2003,Sweden,Landfill,575
+2004,Sweden,Landfill,380
+2005,Sweden,Landfill,210.11
+2006,Sweden,Landfill,226
+2007,Sweden,Landfill,186.49
+2008,Sweden,Landfill,140.25
+2009,Sweden,Landfill,58.4
+2010,Sweden,Landfill,37.63
+2011,Sweden,Landfill,32.75
+2012,Sweden,Landfill,26.76
+2013,Sweden,Landfill,28
+2014,Sweden,Landfill,27.1
+2015,Sweden,Landfill,34.8
+2016,Sweden,Landfill,27.7
+2017,Sweden,Landfill,20
+2000,Switzerland,Municipal waste generated,4731
+2001,Switzerland,Municipal waste generated,4794
+2002,Switzerland,Municipal waste generated,4936
+2003,Switzerland,Municipal waste generated,4916
+2004,Switzerland,Municipal waste generated,4900
+2005,Switzerland,Municipal waste generated,4940
+2006,Switzerland,Municipal waste generated,5330
+2007,Switzerland,Municipal waste generated,5465
+2008,Switzerland,Municipal waste generated,5653
+2009,Switzerland,Municipal waste generated,5461
+2010,Switzerland,Municipal waste generated,5565
+2011,Switzerland,Municipal waste generated,5478
+2012,Switzerland,Municipal waste generated,5576
+2013,Switzerland,Municipal waste generated,5708
+2014,Switzerland,Municipal waste generated,6006
+2015,Switzerland,Municipal waste generated,6030
+2016,Switzerland,Municipal waste generated,6056
+2017,Switzerland,Municipal waste generated,5992
+2000,Switzerland,Waste from households,2791
+2001,Switzerland,Waste from households,2828
+2002,Switzerland,Waste from households,2912
+2003,Switzerland,Waste from households,2900
+2004,Switzerland,Waste from households,2891
+2005,Switzerland,Waste from households,2915
+2006,Switzerland,Waste from households,3145
+2007,Switzerland,Waste from households,3224
+2008,Switzerland,Waste from households,3335
+2009,Switzerland,Waste from households,3222
+2010,Switzerland,Waste from households,3283
+2011,Switzerland,Waste from households,3232
+2012,Switzerland,Waste from households,3178
+2013,Switzerland,Waste from households,3196
+2014,Switzerland,Waste from households,3363
+2015,Switzerland,Waste from households,3376
+2016,Switzerland,Waste from households,3391
+2017,Switzerland,Waste from households,3356
+2000,Switzerland,Other municipal waste,1940
+2001,Switzerland,Other municipal waste,1966
+2002,Switzerland,Other municipal waste,2024
+2003,Switzerland,Other municipal waste,2016
+2004,Switzerland,Other municipal waste,2009
+2005,Switzerland,Other municipal waste,2025
+2006,Switzerland,Other municipal waste,2185
+2007,Switzerland,Other municipal waste,2241
+2008,Switzerland,Other municipal waste,2318
+2009,Switzerland,Other municipal waste,2239
+2010,Switzerland,Other municipal waste,2282
+2011,Switzerland,Other municipal waste,2246
+2012,Switzerland,Other municipal waste,2398
+2013,Switzerland,Other municipal waste,2512
+2014,Switzerland,Other municipal waste,2643
+2015,Switzerland,Other municipal waste,2654
+2016,Switzerland,Other municipal waste,2665
+2017,Switzerland,Other municipal waste,2636
+2000,Switzerland,Municipal waste treated,4731
+2001,Switzerland,Municipal waste treated,4794
+2002,Switzerland,Municipal waste treated,4936
+2003,Switzerland,Municipal waste treated,4916
+2004,Switzerland,Municipal waste treated,4899
+2005,Switzerland,Municipal waste treated,4940
+2006,Switzerland,Municipal waste treated,5330
+2007,Switzerland,Municipal waste treated,5465
+2008,Switzerland,Municipal waste treated,5653
+2009,Switzerland,Municipal waste treated,5461
+2010,Switzerland,Municipal waste treated,5565
+2011,Switzerland,Municipal waste treated,5478
+2012,Switzerland,Municipal waste treated,5576
+2013,Switzerland,Municipal waste treated,5708
+2014,Switzerland,Municipal waste treated,6006
+2015,Switzerland,Municipal waste treated,6030
+2016,Switzerland,Municipal waste treated,6060
+2017,Switzerland,Municipal waste treated,5992
+2000,Switzerland,Recycling,1500
+2001,Switzerland,Recycling,1584
+2002,Switzerland,Recycling,1578
+2003,Switzerland,Recycling,1596
+2004,Switzerland,Recycling,1640
+2005,Switzerland,Recycling,1730
+2006,Switzerland,Recycling,1785
+2007,Switzerland,Recycling,1855
+2008,Switzerland,Recycling,1893
+2009,Switzerland,Recycling,1871
+2010,Switzerland,Recycling,1878
+2011,Switzerland,Recycling,1895
+2012,Switzerland,Recycling,1939
+2013,Switzerland,Recycling,1919
+2014,Switzerland,Recycling,1960
+2015,Switzerland,Recycling,1924
+2016,Switzerland,Recycling,1880
+2017,Switzerland,Recycling,1846
+2000,Switzerland,Landfill,391
+2001,Switzerland,Landfill,203
+2002,Switzerland,Landfill,80
+2003,Switzerland,Landfill,70
+2004,Switzerland,Landfill,0
+2005,Switzerland,Landfill,0
+2006,Switzerland,Landfill,0
+2007,Switzerland,Landfill,0
+2008,Switzerland,Landfill,0
+2009,Switzerland,Landfill,0
+2010,Switzerland,Landfill,0
+2011,Switzerland,Landfill,0
+2012,Switzerland,Landfill,0
+2013,Switzerland,Landfill,0
+2014,Switzerland,Landfill,0
+2015,Switzerland,Landfill,0
+2016,Switzerland,Landfill,0
+2017,Switzerland,Landfill,0
+2000,Turkey,Municipal waste generated,30617
+2001,Turkey,Municipal waste generated,31030.87
+2002,Turkey,Municipal waste generated,30999.26
+2003,Turkey,Municipal waste generated,31081.37
+2004,Turkey,Municipal waste generated,29736.19
+2005,Turkey,Municipal waste generated,31351.87
+2006,Turkey,Municipal waste generated,30081.82
+2007,Turkey,Municipal waste generated,30365.59
+2008,Turkey,Municipal waste generated,28454
+2009,Turkey,Municipal waste generated,30196
+2010,Turkey,Municipal waste generated,29733
+2011,Turkey,Municipal waste generated,30862
+2012,Turkey,Municipal waste generated,30786
+2013,Turkey,Municipal waste generated,30920
+2014,Turkey,Municipal waste generated,31230
+2015,Turkey,Municipal waste generated,31283
+2016,Turkey,Municipal waste generated,33763
+2017,Turkey,Municipal waste generated,34173
+2000,Turkey,Municipal waste treated,24696.07
+2001,Turkey,Municipal waste treated,25134.17
+2002,Turkey,Municipal waste treated,25373.76
+2003,Turkey,Municipal waste treated,26117.52
+2004,Turkey,Municipal waste treated,25015.26
+2005,Turkey,Municipal waste treated,26617.17
+2006,Turkey,Municipal waste treated,25280.6
+2007,Turkey,Municipal waste treated,26066
+2008,Turkey,Municipal waste treated,24360.74
+2009,Turkey,Municipal waste treated,26218
+2010,Turkey,Municipal waste treated,25276
+2011,Turkey,Municipal waste treated,26780
+2012,Turkey,Municipal waste treated,25845
+2013,Turkey,Municipal waste treated,25563
+2014,Turkey,Municipal waste treated,28010
+2015,Turkey,Municipal waste treated,27584
+2016,Turkey,Municipal waste treated,31584
+2017,Turkey,Municipal waste treated,31968
+2000,Turkey,Landfill,23894.07
+2001,Turkey,Landfill,24471.09
+2002,Turkey,Landfill,24572.64
+2003,Turkey,Landfill,25304.58
+2004,Turkey,Landfill,24407.52
+2005,Turkey,Landfill,25947.4
+2006,Turkey,Landfill,24708.67
+2007,Turkey,Landfill,25484.35
+2008,Turkey,Landfill,23798
+2009,Turkey,Landfill,25700
+2010,Turkey,Landfill,24904
+2011,Turkey,Landfill,26319
+2012,Turkey,Landfill,25552
+2013,Turkey,Landfill,25267
+2014,Turkey,Landfill,27864
+2015,Turkey,Landfill,27415
+2016,Turkey,Landfill,28491
+2017,Turkey,Landfill,28837
+2000,United Kingdom,Municipal waste generated,33954
+2001,United Kingdom,Municipal waste generated,34945
+2002,United Kingdom,Municipal waste generated,35532
+2003,United Kingdom,Municipal waste generated,35279
+2004,United Kingdom,Municipal waste generated,36121
+2005,United Kingdom,Municipal waste generated,35121
+2006,United Kingdom,Municipal waste generated,35479
+2007,United Kingdom,Municipal waste generated,34780
+2008,United Kingdom,Municipal waste generated,33424
+2009,United Kingdom,Municipal waste generated,32507.45
+2010,United Kingdom,Municipal waste generated,31954.51
+2011,United Kingdom,Municipal waste generated,31066.06
+2012,United Kingdom,Municipal waste generated,30412.98
+2013,United Kingdom,Municipal waste generated,30890.41
+2014,United Kingdom,Municipal waste generated,31129.42
+2015,United Kingdom,Municipal waste generated,31475.01
+2016,United Kingdom,Municipal waste generated,31709.99
+2017,United Kingdom,Municipal waste generated,30910.82
+2000,United Kingdom,Waste from households,29911
+2001,United Kingdom,Waste from households,30513
+2002,United Kingdom,Waste from households,30909
+2003,United Kingdom,Waste from households,30857.3
+2004,United Kingdom,Waste from households,30990
+2005,United Kingdom,Waste from households,30467.5
+2006,United Kingdom,Waste from households,30749.8
+2007,United Kingdom,Waste from households,30759
+2008,United Kingdom,Waste from households,29559.8
+2009,United Kingdom,Waste from households,28831
+2010,United Kingdom,Waste from households,22216.03
+2011,United Kingdom,Waste from households,22287.94
+2012,United Kingdom,Waste from households,26158.81
+2013,United Kingdom,Waste from households,26482.06
+2014,United Kingdom,Waste from households,26787.46
+2015,United Kingdom,Waste from households,27152.7
+2016,United Kingdom,Waste from households,27445.85
+2017,United Kingdom,Waste from households,26854.55
+2000,United Kingdom,Other municipal waste,4043
+2001,United Kingdom,Other municipal waste,4432
+2002,United Kingdom,Other municipal waste,4623
+2003,United Kingdom,Other municipal waste,4421.74
+2004,United Kingdom,Other municipal waste,5131
+2005,United Kingdom,Other municipal waste,4653.47
+2006,United Kingdom,Other municipal waste,4729.17
+2007,United Kingdom,Other municipal waste,4021
+2008,United Kingdom,Other municipal waste,3864.23
+2009,United Kingdom,Other municipal waste,3758.27
+2010,United Kingdom,Other municipal waste,9738.49
+2011,United Kingdom,Other municipal waste,8778.12
+2012,United Kingdom,Other municipal waste,4254.17
+2013,United Kingdom,Other municipal waste,4408.35
+2014,United Kingdom,Other municipal waste,4342.96
+2015,United Kingdom,Other municipal waste,4322.31
+2016,United Kingdom,Other municipal waste,4264.14
+2017,United Kingdom,Other municipal waste,4057.27
+2000,United Kingdom,Municipal waste treated,33954
+2001,United Kingdom,Municipal waste treated,34942
+2002,United Kingdom,Municipal waste treated,35534
+2003,United Kingdom,Municipal waste treated,35244.59
+2004,United Kingdom,Municipal waste treated,36090.11
+2005,United Kingdom,Municipal waste treated,35097
+2006,United Kingdom,Municipal waste treated,35370
+2007,United Kingdom,Municipal waste treated,34626
+2008,United Kingdom,Municipal waste treated,33215
+2009,United Kingdom,Municipal waste treated,32507.75
+2010,United Kingdom,Municipal waste treated,31954.77
+2011,United Kingdom,Municipal waste treated,31066.09
+2012,United Kingdom,Municipal waste treated,30472.53
+2013,United Kingdom,Municipal waste treated,30987.96
+2014,United Kingdom,Municipal waste treated,31175.88
+2015,United Kingdom,Municipal waste treated,31527.15
+2016,United Kingdom,Municipal waste treated,31786.21
+2017,United Kingdom,Municipal waste treated,30998.41
+2000,United Kingdom,Recycling,2836
+2001,United Kingdom,Recycling,3181
+2002,United Kingdom,Recycling,3733
+2003,United Kingdom,Recycling,4698
+2004,United Kingdom,Recycling,5657
+2005,United Kingdom,Recycling,6362
+2006,United Kingdom,Recycling,7107
+2007,United Kingdom,Recycling,7680
+2008,United Kingdom,Recycling,7775
+2009,United Kingdom,Recycling,7890.34
+2010,United Kingdom,Recycling,8068.62
+2011,United Kingdom,Recycling,8134.03
+2012,United Kingdom,Recycling,8173.1
+2013,United Kingdom,Recycling,8459.58
+2014,United Kingdom,Recycling,8466
+2015,United Kingdom,Recycling,8557.79
+2016,United Kingdom,Recycling,8639.75
+2017,United Kingdom,Recycling,8324.17
+2000,United Kingdom,Landfill,27563
+2001,United Kingdom,Landfill,27948
+2002,United Kingdom,Landfill,27546
+2003,United Kingdom,Landfill,26144
+2004,United Kingdom,Landfill,25006
+2005,United Kingdom,Landfill,22569
+2006,United Kingdom,Landfill,21335
+2007,United Kingdom,Landfill,19685
+2008,United Kingdom,Landfill,17590
+2009,United Kingdom,Landfill,16020.3
+2010,United Kingdom,Landfill,14685.53
+2011,United Kingdom,Landfill,12573.8
+2012,United Kingdom,Landfill,11280.9
+2013,United Kingdom,Landfill,10532.85
+2014,United Kingdom,Landfill,8706.09
+2015,United Kingdom,Landfill,7217.26
+2016,United Kingdom,Landfill,6267.48
+2017,United Kingdom,Landfill,5227.92
+2000,United States,Municipal waste generated,220854
+2001,United States,Municipal waste generated,218450
+2002,United States,Municipal waste generated,222560
+2003,United States,Municipal waste generated,223548
+2004,United States,Municipal waste generated,230534
+2005,United States,Municipal waste generated,230180
+2006,United States,Municipal waste generated,233237
+2007,United States,Municipal waste generated,232693
+2008,United States,Municipal waste generated,229200
+2009,United States,Municipal waste generated,222188
+2010,United States,Municipal waste generated,227749
+2011,United States,Municipal waste generated,227876
+2012,United States,Municipal waste generated,228465
+2013,United States,Municipal waste generated,231350
+2014,United States,Municipal waste generated,234471
+2015,United States,Municipal waste generated,238045.28
+2000,United States,Waste from households,132512
+2001,United States,Waste from households,131070
+2002,United States,Waste from households,133536
+2003,United States,Waste from households,134129
+2004,United States,Waste from households,138320
+2005,United States,Waste from households,138108
+2006,United States,Waste from households,139942
+2007,United States,Waste from households,139616
+2008,United States,Waste from households,137520
+2009,United States,Waste from households,133313
+2010,United States,Waste from households,136649
+2000,United States,Other municipal waste,88342
+2001,United States,Other municipal waste,87380
+2002,United States,Other municipal waste,89024
+2003,United States,Other municipal waste,89419
+2004,United States,Other municipal waste,92214
+2005,United States,Other municipal waste,92072
+2006,United States,Other municipal waste,93295
+2007,United States,Other municipal waste,93077
+2008,United States,Other municipal waste,91680
+2009,United States,Other municipal waste,88875
+2010,United States,Other municipal waste,91100
+2000,United States,Municipal waste treated,220854
+2001,United States,Municipal waste treated,218450
+2002,United States,Municipal waste treated,222560.12
+2003,United States,Municipal waste treated,223549
+2004,United States,Municipal waste treated,230533
+2005,United States,Municipal waste treated,230180
+2006,United States,Municipal waste treated,233237
+2007,United States,Municipal waste treated,232693
+2008,United States,Municipal waste treated,229201
+2009,United States,Municipal waste treated,222188
+2010,United States,Municipal waste treated,227749
+2011,United States,Municipal waste treated,227876
+2012,United States,Municipal waste treated,228466
+2013,United States,Municipal waste treated,231350
+2014,United States,Municipal waste treated,234471
+2015,United States,Municipal waste treated,238045.28
+2000,United States,Recycling,48090
+2001,United States,Recycling,48199
+2002,United States,Recycling,49197
+2003,United States,Recycling,50839
+2004,United States,Recycling,52707
+2005,United States,Recycling,53742
+2006,United States,Recycling,56118
+2007,United States,Recycling,57243
+2008,United States,Recycling,56209
+2009,United States,Recycling,56273
+2010,United States,Recycling,59203
+2011,United States,Recycling,60500
+2012,United States,Recycling,59475
+2013,United States,Recycling,59076
+2014,United States,Recycling,60219
+2015,United States,Recycling,61507.13
+2000,United States,Landfill,127242
+2001,United States,Landfill,124756
+2002,United States,Landfill,127922
+2003,United States,Landfill,125373
+2004,United States,Landfill,130671
+2005,United States,Landfill,129083
+2006,United States,Landfill,129283
+2007,United States,Landfill,126752
+2008,United States,Landfill,124321
+2009,United States,Landfill,120774
+2010,United States,Landfill,123658
+2011,United States,Landfill,119721
+2012,United States,Landfill,120157
+2013,United States,Landfill,121835
+2014,United States,Landfill,123305
+2015,United States,Landfill,124919.34
+2000,Brazil,Municipal waste generated,57563
+2001,Brazil,Municipal waste generated,55677
+2002,Brazil,Municipal waste generated,56524
+2003,Brazil,Municipal waste generated,57587
+2004,Brazil,Municipal waste generated,59214
+2005,Brazil,Municipal waste generated,60142
+2007,Brazil,Municipal waste generated,51432
+2009,Brazil,Municipal waste generated,53000
+2010,Brazil,Municipal waste generated,53000
+2011,Brazil,Municipal waste generated,53000
+2012,Brazil,Municipal waste generated,57900
+2000,Brazil,Municipal waste treated,57563
+2000,Brazil,Recycling,821
+2000,Brazil,Landfill,36094
+2010,Brazil,Landfill,19294
+2011,Brazil,Landfill,25463
+2012,Brazil,Landfill,30081
+2000,Chile,Municipal waste generated,4520.3
+2001,Chile,Municipal waste generated,4514.7
+2002,Chile,Municipal waste generated,4647.1
+2003,Chile,Municipal waste generated,4802.3
+2004,Chile,Municipal waste generated,4964.1
+2005,Chile,Municipal waste generated,5113.7
+2006,Chile,Municipal waste generated,5310.9
+2007,Chile,Municipal waste generated,5492.9
+2008,Chile,Municipal waste generated,5608
+2009,Chile,Municipal waste generated,5779.5
+2010,Chile,Municipal waste generated,5935.7
+2011,Chile,Municipal waste generated,6142.4
+2014,Chile,Municipal waste generated,7242.19
+2015,Chile,Municipal waste generated,7453.171
+2016,Chile,Municipal waste generated,7495.539
+2000,Chile,Municipal waste treated,4520.3
+2001,Chile,Municipal waste treated,4514.7
+2002,Chile,Municipal waste treated,4647.1
+2003,Chile,Municipal waste treated,4802.3
+2004,Chile,Municipal waste treated,4964.1
+2005,Chile,Municipal waste treated,5113.7
+2006,Chile,Municipal waste treated,5310.9
+2007,Chile,Municipal waste treated,5492.9
+2008,Chile,Municipal waste treated,5608
+2009,Chile,Municipal waste treated,5779.5
+2010,Chile,Municipal waste treated,5935.7
+2011,Chile,Municipal waste treated,6142.4
+2014,Chile,Municipal waste treated,7242.19
+2015,Chile,Municipal waste treated,7453.171
+2016,Chile,Municipal waste treated,7495.539
+2000,Chile,Landfill,4520.3
+2001,Chile,Landfill,4514.7
+2002,Chile,Landfill,4647.1
+2003,Chile,Landfill,4802.3
+2004,Chile,Landfill,4964.1
+2005,Chile,Landfill,5113.7
+2007,Chile,Landfill,5492.9
+2008,Chile,Landfill,5608
+2009,Chile,Landfill,5779.5
+2010,Chile,Landfill,5935.7
+2011,Chile,Landfill,6142.4
+2014,Chile,Landfill,7242.19
+2015,Chile,Landfill,7453.171
+2016,Chile,Landfill,7495.539
+2000,China (People's Republic of),Municipal waste generated,118190
+2001,China (People's Republic of),Municipal waste generated,134700
+2002,China (People's Republic of),Municipal waste generated,136500
+2003,China (People's Republic of),Municipal waste generated,148570
+2004,China (People's Republic of),Municipal waste generated,155090
+2005,China (People's Republic of),Municipal waste generated,155770
+2006,China (People's Republic of),Municipal waste generated,148410
+2007,China (People's Republic of),Municipal waste generated,152150
+2008,China (People's Republic of),Municipal waste generated,154380
+2009,China (People's Republic of),Municipal waste generated,157340
+2010,China (People's Republic of),Municipal waste generated,158048
+2011,China (People's Republic of),Municipal waste generated,163953
+2012,China (People's Republic of),Municipal waste generated,170809
+2000,China (People's Republic of),Municipal waste treated,72550
+2001,China (People's Republic of),Municipal waste treated,78400
+2002,China (People's Republic of),Municipal waste treated,74040
+2003,China (People's Republic of),Municipal waste treated,75450
+2004,China (People's Republic of),Municipal waste treated,80890
+2005,China (People's Republic of),Municipal waste treated,80510
+2006,China (People's Republic of),Municipal waste treated,78730
+2007,China (People's Republic of),Municipal waste treated,94377
+2008,China (People's Republic of),Municipal waste treated,103066
+2009,China (People's Republic of),Municipal waste treated,112323
+2010,China (People's Republic of),Municipal waste treated,123178
+2011,China (People's Republic of),Municipal waste treated,130896
+2012,China (People's Republic of),Municipal waste treated,144895
+2001,China (People's Republic of),Landfill,69765
+2002,China (People's Republic of),Landfill,66120
+2003,China (People's Republic of),Landfill,64040
+2004,China (People's Republic of),Landfill,68889
+2005,China (People's Republic of),Landfill,68571
+2006,China (People's Republic of),Landfill,64082
+2007,China (People's Republic of),Landfill,76327
+2008,China (People's Republic of),Landfill,84240
+2009,China (People's Republic of),Landfill,88986
+2010,China (People's Republic of),Landfill,95983
+2011,China (People's Republic of),Landfill,100637
+2012,China (People's Republic of),Landfill,105125
+2000,Estonia,Municipal waste generated,633
+2001,Estonia,Municipal waste generated,508.53
+2002,Estonia,Municipal waste generated,553.24
+2003,Estonia,Municipal waste generated,566.8
+2004,Estonia,Municipal waste generated,606.2
+2005,Estonia,Municipal waste generated,587.19
+2006,Estonia,Municipal waste generated,536
+2007,Estonia,Municipal waste generated,602
+2008,Estonia,Municipal waste generated,524
+2009,Estonia,Municipal waste generated,452
+2010,Estonia,Municipal waste generated,406
+2011,Estonia,Municipal waste generated,399
+2012,Estonia,Municipal waste generated,371
+2013,Estonia,Municipal waste generated,386.29
+2014,Estonia,Municipal waste generated,469.55
+2015,Estonia,Municipal waste generated,472.55
+2016,Estonia,Municipal waste generated,494.36
+2017,Estonia,Municipal waste generated,513.64
+2004,Estonia,Waste from households,210.84
+2005,Estonia,Waste from households,186.73
+2006,Estonia,Waste from households,186.66
+2007,Estonia,Waste from households,219.9
+2008,Estonia,Waste from households,223.71
+2009,Estonia,Waste from households,208.44
+2010,Estonia,Waste from households,203.01
+2011,Estonia,Waste from households,204.27
+2012,Estonia,Waste from households,201.49
+2013,Estonia,Waste from households,176.18
+2014,Estonia,Waste from households,194
+2015,Estonia,Waste from households,246
+2016,Estonia,Waste from households,265
+2017,Estonia,Waste from households,282.33
+2004,Estonia,Other municipal waste,395.36
+2005,Estonia,Other municipal waste,400.46
+2006,Estonia,Other municipal waste,349.34
+2007,Estonia,Other municipal waste,382.1
+2008,Estonia,Other municipal waste,300.29
+2009,Estonia,Other municipal waste,243.56
+2010,Estonia,Other municipal waste,202.99
+2011,Estonia,Other municipal waste,194.73
+2012,Estonia,Other municipal waste,169.51
+2013,Estonia,Other municipal waste,210.12
+2014,Estonia,Other municipal waste,275.55
+2015,Estonia,Other municipal waste,226.55
+2016,Estonia,Other municipal waste,229.36
+2017,Estonia,Other municipal waste,231.31
+2000,Estonia,Municipal waste treated,615.51
+2001,Estonia,Municipal waste treated,429.82
+2002,Estonia,Municipal waste treated,434.28
+2003,Estonia,Municipal waste treated,456.22
+2004,Estonia,Municipal waste treated,533.62
+2005,Estonia,Municipal waste treated,502.47
+2006,Estonia,Municipal waste treated,467.39
+2007,Estonia,Municipal waste treated,530.85
+2008,Estonia,Municipal waste treated,439.52
+2009,Estonia,Municipal waste treated,382.58
+2010,Estonia,Municipal waste treated,340.28
+2011,Estonia,Municipal waste treated,339.5
+2012,Estonia,Municipal waste treated,284.25
+2013,Estonia,Municipal waste treated,355.66
+2014,Estonia,Municipal waste treated,426.74
+2015,Estonia,Municipal waste treated,434.25
+2016,Estonia,Municipal waste treated,452.52
+2017,Estonia,Municipal waste treated,491.96
+2000,Estonia,Recycling,12.8
+2001,Estonia,Recycling,15.31
+2002,Estonia,Recycling,10.61
+2003,Estonia,Recycling,76.82
+2004,Estonia,Recycling,142.25
+2005,Estonia,Recycling,121.46
+2006,Estonia,Recycling,70.27
+2007,Estonia,Recycling,122.35
+2008,Estonia,Recycling,77.51
+2009,Estonia,Recycling,51.83
+2010,Estonia,Recycling,40.66
+2011,Estonia,Recycling,58.17
+2012,Estonia,Recycling,52.39
+2013,Estonia,Recycling,48.86
+2014,Estonia,Recycling,124.6
+2015,Estonia,Recycling,117.39
+2016,Estonia,Recycling,124.59
+2017,Estonia,Recycling,126.53
+2000,Estonia,Landfill,601.06
+2001,Estonia,Landfill,402.96
+2002,Estonia,Landfill,419.25
+2003,Estonia,Landfill,371.31
+2004,Estonia,Landfill,383
+2005,Estonia,Landfill,369.4
+2006,Estonia,Landfill,373.27
+2007,Estonia,Landfill,390.12
+2008,Estonia,Landfill,333
+2009,Estonia,Landfill,287
+2010,Estonia,Landfill,267
+2011,Estonia,Landfill,239.01
+2012,Estonia,Landfill,129
+2013,Estonia,Landfill,52.73
+2014,Estonia,Landfill,30.33
+2015,Estonia,Landfill,34.54
+2016,Estonia,Landfill,50.64
+2017,Estonia,Landfill,98.43
+2001,Indonesia,Municipal waste generated,4726.108
+2002,Indonesia,Municipal waste generated,4859.61
+2003,Indonesia,Municipal waste generated,5470.788
+2004,Indonesia,Municipal waste generated,6044.45
+2005,Indonesia,Municipal waste generated,6044.45
+2006,Indonesia,Municipal waste generated,5256.52
+2007,Indonesia,Municipal waste generated,7576.772
+2008,Indonesia,Municipal waste generated,7576.772
+2009,Indonesia,Municipal waste generated,6866.198
+2010,Indonesia,Municipal waste generated,7245.246
+2011,Indonesia,Municipal waste generated,7742.343
+2012,Indonesia,Municipal waste generated,7650.389
+2000,Israel,Municipal waste generated,3967.58
+2001,Israel,Municipal waste generated,3590.481
+2002,Israel,Municipal waste generated,3855.364
+2003,Israel,Municipal waste generated,3846.939
+2004,Israel,Municipal waste generated,3978
+2005,Israel,Municipal waste generated,4086
+2006,Israel,Municipal waste generated,4227
+2007,Israel,Municipal waste generated,4304
+2008,Israel,Municipal waste generated,4434
+2009,Israel,Municipal waste generated,4550.8
+2010,Israel,Municipal waste generated,4623.18
+2011,Israel,Municipal waste generated,4745.8
+2012,Israel,Municipal waste generated,4837.4
+2013,Israel,Municipal waste generated,4861.886
+2014,Israel,Municipal waste generated,4955.262
+2015,Israel,Municipal waste generated,5081.651
+2016,Israel,Municipal waste generated,5261.411
+2017,Israel,Municipal waste generated,5434.653
+2004,Israel,Municipal waste treated,3978
+2005,Israel,Municipal waste treated,4086
+2006,Israel,Municipal waste treated,4227
+2007,Israel,Municipal waste treated,4304
+2008,Israel,Municipal waste treated,4434
+2009,Israel,Municipal waste treated,4550.8
+2010,Israel,Municipal waste treated,4623.18
+2011,Israel,Municipal waste treated,4745.8
+2012,Israel,Municipal waste treated,4837.4
+2013,Israel,Municipal waste treated,4861.886
+2014,Israel,Municipal waste treated,4955.262
+2015,Israel,Municipal waste treated,5081.651
+2016,Israel,Municipal waste treated,5261.411
+2017,Israel,Municipal waste treated,5434.653
+2004,Israel,Landfill,3500.64
+2005,Israel,Landfill,3636.54
+2006,Israel,Landfill,3719.76
+2007,Israel,Landfill,3787.52
+2008,Israel,Landfill,3857.58
+2009,Israel,Landfill,3959.2
+2010,Israel,Landfill,4114.63
+2011,Israel,Landfill,4128.835
+2012,Israel,Landfill,3981.7
+2013,Israel,Landfill,3982.432
+2014,Israel,Landfill,4054.054
+2015,Israel,Landfill,4112.908
+2016,Israel,Landfill,4188.841
+2017,Israel,Landfill,4217.051
+2000,Russia,Municipal waste generated,51828.63
+2001,Russia,Municipal waste generated,51115.2
+2002,Russia,Municipal waste generated,54010.5
+2003,Russia,Municipal waste generated,55068.43
+2004,Russia,Municipal waste generated,57822.48
+2005,Russia,Municipal waste generated,57695.05
+2006,Russia,Municipal waste generated,60847.25
+2007,Russia,Municipal waste generated,62868.18
+2008,Russia,Municipal waste generated,64605.13
+2009,Russia,Municipal waste generated,66871.68
+2010,Russia,Municipal waste generated,69256.63
+2011,Russia,Municipal waste generated,69198.28
+2012,Russia,Municipal waste generated,80564.33
+2000,Slovenia,Municipal waste generated,1020
+2001,Slovenia,Municipal waste generated,952.68
+2002,Slovenia,Municipal waste generated,812.06
+2003,Slovenia,Municipal waste generated,834.02
+2004,Slovenia,Municipal waste generated,969.21
+2005,Slovenia,Municipal waste generated,988.73
+2006,Slovenia,Municipal waste generated,1036.47
+2007,Slovenia,Municipal waste generated,1060.09
+2008,Slovenia,Municipal waste generated,1094.76
+2009,Slovenia,Municipal waste generated,1069.35
+2010,Slovenia,Municipal waste generated,1003.9
+2011,Slovenia,Municipal waste generated,852.12
+2012,Slovenia,Municipal waste generated,744.01
+2013,Slovenia,Municipal waste generated,853.39
+2014,Slovenia,Municipal waste generated,891.71
+2015,Slovenia,Municipal waste generated,925.94
+2016,Slovenia,Municipal waste generated,942.84
+2017,Slovenia,Municipal waste generated,974.1
+2002,Slovenia,Waste from households,552.7
+2003,Slovenia,Waste from households,565.9
+2004,Slovenia,Waste from households,587.7
+2005,Slovenia,Waste from households,608.5
+2006,Slovenia,Waste from households,623.2
+2007,Slovenia,Waste from households,653.1
+2008,Slovenia,Waste from households,643.4
+2009,Slovenia,Waste from households,637.8
+2010,Slovenia,Waste from households,796.41
+2011,Slovenia,Waste from households,721.72
+2012,Slovenia,Waste from households,671.84
+2013,Slovenia,Waste from households,535.74
+2014,Slovenia,Waste from households,542.03
+2015,Slovenia,Waste from households,547.47
+2016,Slovenia,Waste from households,549.19
+2017,Slovenia,Waste from households,580.1
+2002,Slovenia,Other municipal waste,259.4
+2003,Slovenia,Other municipal waste,268.1
+2004,Slovenia,Other municipal waste,381.5
+2005,Slovenia,Other municipal waste,380.2
+2006,Slovenia,Other municipal waste,413.3
+2007,Slovenia,Other municipal waste,407
+2008,Slovenia,Other municipal waste,451.4
+2009,Slovenia,Other municipal waste,431.6
+2010,Slovenia,Other municipal waste,207.49
+2011,Slovenia,Other municipal waste,130.4
+2012,Slovenia,Other municipal waste,72.17
+2013,Slovenia,Other municipal waste,317.66
+2014,Slovenia,Other municipal waste,349.68
+2015,Slovenia,Other municipal waste,378.47
+2016,Slovenia,Other municipal waste,393.64
+2017,Slovenia,Other municipal waste,393.99
+2000,Slovenia,Municipal waste treated,860.94
+2001,Slovenia,Municipal waste treated,738.02
+2002,Slovenia,Municipal waste treated,791.07
+2003,Slovenia,Municipal waste treated,803.72
+2004,Slovenia,Municipal waste treated,837.89
+2005,Slovenia,Municipal waste treated,843.75
+2006,Slovenia,Municipal waste treated,886.21
+2007,Slovenia,Municipal waste treated,919.97
+2008,Slovenia,Municipal waste treated,904.97
+2009,Slovenia,Municipal waste treated,851.1
+2010,Slovenia,Municipal waste treated,948.13
+2011,Slovenia,Municipal waste treated,838.72
+2012,Slovenia,Municipal waste treated,713.76
+2013,Slovenia,Municipal waste treated,830.35
+2014,Slovenia,Municipal waste treated,863.69
+2015,Slovenia,Municipal waste treated,868.66
+2016,Slovenia,Municipal waste treated,789.86
+2017,Slovenia,Municipal waste treated,772.54
+2000,Slovenia,Recycling,46.94
+2001,Slovenia,Recycling,13.95
+2002,Slovenia,Recycling,62.17
+2003,Slovenia,Recycling,92.08
+2004,Slovenia,Recycling,182.65
+2005,Slovenia,Recycling,168.63
+2006,Slovenia,Recycling,145.46
+2007,Slovenia,Recycling,216.9
+2008,Slovenia,Recycling,189.87
+2009,Slovenia,Recycling,189.14
+2010,Slovenia,Recycling,203.21
+2011,Slovenia,Recycling,258.3
+2012,Slovenia,Recycling,270.24
+2013,Slovenia,Recycling,239.05
+2014,Slovenia,Recycling,258.82
+2015,Slovenia,Recycling,430.04
+2016,Slovenia,Recycling,379.72
+2017,Slovenia,Recycling,411.74
+2000,Slovenia,Landfill,800
+2001,Slovenia,Landfill,712.3
+2002,Slovenia,Landfill,712.83
+2003,Slovenia,Landfill,693.53
+2004,Slovenia,Landfill,624.92
+2005,Slovenia,Landfill,658.57
+2006,Slovenia,Landfill,725.23
+2007,Slovenia,Landfill,687.61
+2008,Slovenia,Landfill,684.72
+2009,Slovenia,Landfill,627.69
+2010,Slovenia,Landfill,571.28
+2011,Slovenia,Landfill,481.19
+2012,Slovenia,Landfill,316.41
+2013,Slovenia,Landfill,224
+2014,Slovenia,Landfill,207.68
+2015,Slovenia,Landfill,209.77
+2016,Slovenia,Landfill,78.46
+2017,Slovenia,Landfill,99.19
+2013,Israel,Recycling,353.621
+2014,Israel,Recycling,379.852
+2015,Israel,Recycling,368.307
+2016,Israel,Recycling,368.982
+2017,Israel,Recycling,393.589
+2000,OECD - Total,Municipal waste generated,645742.938
+2001,OECD - Total,Municipal waste generated,644231.813
+2002,OECD - Total,Municipal waste generated,652542.5
+2003,OECD - Total,Municipal waste generated,651249.563
+2004,OECD - Total,Municipal waste generated,659091.25
+2005,OECD - Total,Municipal waste generated,662512.438
+2006,OECD - Total,Municipal waste generated,669256.75
+2007,OECD - Total,Municipal waste generated,672020.438
+2008,OECD - Total,Municipal waste generated,664991.188
+2009,OECD - Total,Municipal waste generated,655200.25
+2010,OECD - Total,Municipal waste generated,660072
+2011,OECD - Total,Municipal waste generated,660653.313
+2012,OECD - Total,Municipal waste generated,657994.688
+2013,OECD - Total,Municipal waste generated,658551.13
+2014,OECD - Total,Municipal waste generated,663402.44
+2015,OECD - Total,Municipal waste generated,666755.81
+2016,OECD - Total,Municipal waste generated,675209.88
+2017,OECD - Total,Municipal waste generated,675760
+2000,OECD - Europe,Municipal waste generated,277343.813
+2001,OECD - Europe,Municipal waste generated,276948.281
+2002,OECD - Europe,Municipal waste generated,279713.125
+2003,OECD - Europe,Municipal waste generated,275759.938
+2004,OECD - Europe,Municipal waste generated,275323.469
+2005,OECD - Europe,Municipal waste generated,278927.813
+2006,OECD - Europe,Municipal waste generated,281918.906
+2007,OECD - Europe,Municipal waste generated,284888.156
+2008,OECD - Europe,Municipal waste generated,282150.438
+2009,OECD - Europe,Municipal waste generated,280314.719
+2010,OECD - Europe,Municipal waste generated,278835.781
+2011,OECD - Europe,Municipal waste generated,277873.688
+2012,OECD - Europe,Municipal waste generated,273270.563
+2013,OECD - Europe,Municipal waste generated,270765.156
+2014,OECD - Europe,Municipal waste generated,271819.625
+2015,OECD - Europe,Municipal waste generated,273980.406
+2016,OECD - Europe,Municipal waste generated,281735.625
+2017,OECD - Europe,Municipal waste generated,282036.5
+2000,Turkey,Recycling,0
+2001,Turkey,Recycling,0
+2002,Turkey,Recycling,0
+2003,Turkey,Recycling,0
+2004,Turkey,Recycling,0
+2005,Turkey,Recycling,0
+2006,Turkey,Recycling,0
+2007,Turkey,Recycling,0
+2008,Turkey,Recycling,0
+2009,Turkey,Recycling,0
+2010,Turkey,Recycling,0
+2011,Turkey,Recycling,0
+2012,Turkey,Recycling,0
+2013,Turkey,Recycling,0
+2014,Turkey,Recycling,0
+2016,Turkey,Recycling,2946
+2017,Turkey,Recycling,2982
+2003,Colombia,Municipal waste generated,5289
+2004,Colombia,Municipal waste generated,6128
+2005,Colombia,Municipal waste generated,7567
+2006,Colombia,Municipal waste generated,7580
+2007,Colombia,Municipal waste generated,9192
+2008,Colombia,Municipal waste generated,11273
+2009,Colombia,Municipal waste generated,8980
+2010,Colombia,Municipal waste generated,9686
+2011,Colombia,Municipal waste generated,8975
+2015,Colombia,Municipal waste generated,11189
+2005,Colombia,Municipal waste treated,7567.05
+2006,Colombia,Municipal waste treated,7580.46
+2007,Colombia,Municipal waste treated,9191.97
+2008,Colombia,Municipal waste treated,11273.44
+2009,Colombia,Municipal waste treated,8980.2
+2010,Colombia,Municipal waste treated,9686.01
+2011,Colombia,Municipal waste treated,8974
+2015,Colombia,Municipal waste treated,11189.69
+2005,Colombia,Landfill,5468.14
+2006,Colombia,Landfill,6088.6
+2007,Colombia,Landfill,8142.24
+2008,Colombia,Landfill,10095.17
+2009,Colombia,Landfill,8274.04
+2010,Colombia,Landfill,9088.87
+2011,Colombia,Landfill,8318
+2012,Colombia,Landfill,7991.63
+2013,Colombia,Landfill,8174.04
+2014,Colombia,Landfill,8174.17
+2015,Colombia,Landfill,9663.19
+2000,Latvia,Municipal waste generated,642
+2001,Latvia,Municipal waste generated,713
+2002,Latvia,Municipal waste generated,793
+2003,Latvia,Municipal waste generated,695
+2004,Latvia,Municipal waste generated,720.38
+2005,Latvia,Municipal waste generated,716
+2006,Latvia,Municipal waste generated,760
+2007,Latvia,Municipal waste generated,860.92
+2008,Latvia,Municipal waste generated,751.92
+2009,Latvia,Municipal waste generated,752.96
+2010,Latvia,Municipal waste generated,680.14
+2011,Latvia,Municipal waste generated,720.64
+2012,Latvia,Municipal waste generated,657.61
+2013,Latvia,Municipal waste generated,704
+2014,Latvia,Municipal waste generated,726
+2015,Latvia,Municipal waste generated,798.06
+2016,Latvia,Municipal waste generated,802.47
+2017,Latvia,Municipal waste generated,850.68
+2000,Latvia,Municipal waste treated,597.32
+2001,Latvia,Municipal waste treated,640
+2002,Latvia,Municipal waste treated,673.27
+2003,Latvia,Municipal waste treated,605.79
+2004,Latvia,Municipal waste treated,647.08
+2005,Latvia,Municipal waste treated,595.56
+2006,Latvia,Municipal waste treated,708.87
+2007,Latvia,Municipal waste treated,781.99
+2008,Latvia,Municipal waste treated,756.23
+2009,Latvia,Municipal waste treated,752.96
+2010,Latvia,Municipal waste treated,680.1
+2011,Latvia,Municipal waste treated,601.21
+2012,Latvia,Municipal waste treated,615.14
+2013,Latvia,Municipal waste treated,715.11
+2014,Latvia,Municipal waste treated,721.79
+2015,Latvia,Municipal waste treated,738.37
+2016,Latvia,Municipal waste treated,736.85
+2017,Latvia,Municipal waste treated,737.35
+2000,Latvia,Recycling,0
+2001,Latvia,Recycling,0
+2002,Latvia,Recycling,3.12
+2003,Latvia,Recycling,13.65
+2004,Latvia,Recycling,24.68
+2005,Latvia,Recycling,26.29
+2006,Latvia,Recycling,28.99
+2007,Latvia,Recycling,38.35
+2008,Latvia,Recycling,42.75
+2009,Latvia,Recycling,55.53
+2010,Latvia,Recycling,59.63
+2011,Latvia,Recycling,62.15
+2012,Latvia,Recycling,83.53
+2013,Latvia,Recycling,142
+2014,Latvia,Recycling,170
+2015,Latvia,Recycling,182
+2016,Latvia,Recycling,120.85
+2017,Latvia,Recycling,141.33
+2000,Latvia,Landfill,597.32
+2001,Latvia,Landfill,627.66
+2002,Latvia,Landfill,657.48
+2003,Latvia,Landfill,578.86
+2004,Latvia,Landfill,600.6
+2005,Latvia,Landfill,561
+2006,Latvia,Landfill,670
+2007,Latvia,Landfill,735.06
+2008,Latvia,Landfill,704.75
+2009,Latvia,Landfill,694.14
+2010,Latvia,Landfill,616.55
+2011,Latvia,Landfill,530.96
+2012,Latvia,Landfill,515.94
+2013,Latvia,Landfill,521
+2014,Latvia,Landfill,515
+2015,Latvia,Landfill,494
+2016,Latvia,Landfill,353.86
+2017,Latvia,Landfill,230.62
+2010,Costa Rica,Municipal waste generated,1506
+2011,Costa Rica,Municipal waste generated,1659
+2012,Costa Rica,Municipal waste generated,1698
+2013,Costa Rica,Municipal waste generated,1752
+2014,Costa Rica,Municipal waste generated,1788
+2015,Costa Rica,Municipal waste generated,1877
+2016,Costa Rica,Municipal waste generated,1218
+2017,Costa Rica,Municipal waste generated,1267
+2010,Costa Rica,Municipal waste treated,915
+2011,Costa Rica,Municipal waste treated,1002
+2012,Costa Rica,Municipal waste treated,1123
+2013,Costa Rica,Municipal waste treated,1174
+2014,Costa Rica,Municipal waste treated,1240
+2015,Costa Rica,Municipal waste treated,1869.7
+2016,Costa Rica,Municipal waste treated,1061.4
+2017,Costa Rica,Municipal waste treated,1267
+2010,Costa Rica,Landfill,686
+2011,Costa Rica,Landfill,748
+2012,Costa Rica,Landfill,860
+2013,Costa Rica,Landfill,903
+2014,Costa Rica,Landfill,949
+2015,Costa Rica,Landfill,1813
+2016,Costa Rica,Landfill,988.4
+2017,Costa Rica,Landfill,1043.5
+2012,India,Waste from households,31875.532
+2012,India,Landfill,21394.077
+2000,Lithuania,Municipal waste generated,1275.92
+2001,Lithuania,Municipal waste generated,1313.45
+2002,Lithuania,Municipal waste generated,1395.1
+2003,Lithuania,Municipal waste generated,1327.61
+2004,Lithuania,Municipal waste generated,1260.12
+2005,Lithuania,Municipal waste generated,1287.37
+2006,Lithuania,Municipal waste generated,1325.72
+2007,Lithuania,Municipal waste generated,1353.61
+2008,Lithuania,Municipal waste generated,1368.98
+2009,Lithuania,Municipal waste generated,1205.53
+2010,Lithuania,Municipal waste generated,1252.62
+2011,Lithuania,Municipal waste generated,1339.28
+2012,Lithuania,Municipal waste generated,1330.16
+2013,Lithuania,Municipal waste generated,1280.05
+2014,Lithuania,Municipal waste generated,1270.25
+2015,Lithuania,Municipal waste generated,1300
+2016,Lithuania,Municipal waste generated,1272.06
+2017,Lithuania,Municipal waste generated,1286.43
+2000,Lithuania,Waste from households,893.144
+2001,Lithuania,Waste from households,919.415
+2002,Lithuania,Waste from households,976.57
+2003,Lithuania,Waste from households,929.327
+2004,Lithuania,Waste from households,882.084
+2005,Lithuania,Waste from households,901.159
+2006,Lithuania,Waste from households,928.004
+2007,Lithuania,Waste from households,947.527
+2008,Lithuania,Waste from households,958.286
+2009,Lithuania,Waste from households,843.871
+2010,Lithuania,Waste from households,876.832
+2011,Lithuania,Waste from households,937.496
+2012,Lithuania,Waste from households,931.114
+2013,Lithuania,Waste from households,896.034
+2014,Lithuania,Waste from households,889.171
+2015,Lithuania,Waste from households,909.999
+2016,Lithuania,Waste from households,890.44
+2017,Lithuania,Waste from households,900.5
+2000,Lithuania,Other municipal waste,382.776
+2001,Lithuania,Other municipal waste,394.035
+2002,Lithuania,Other municipal waste,418.53
+2003,Lithuania,Other municipal waste,398.283
+2004,Lithuania,Other municipal waste,378.036
+2005,Lithuania,Other municipal waste,386.211
+2006,Lithuania,Other municipal waste,397.716
+2007,Lithuania,Other municipal waste,406.083
+2008,Lithuania,Other municipal waste,410.694
+2009,Lithuania,Other municipal waste,361.659
+2010,Lithuania,Other municipal waste,375.785
+2011,Lithuania,Other municipal waste,401.784
+2012,Lithuania,Other municipal waste,399.049
+2013,Lithuania,Other municipal waste,384.014
+2014,Lithuania,Other municipal waste,381.073
+2015,Lithuania,Other municipal waste,389.999
+2016,Lithuania,Other municipal waste,381.62
+2017,Lithuania,Other municipal waste,385.93
+2000,Lithuania,Municipal waste treated,1209
+2001,Lithuania,Municipal waste treated,1169
+2002,Lithuania,Municipal waste treated,1119
+2003,Lithuania,Municipal waste treated,1136
+2004,Lithuania,Municipal waste treated,1176.52
+2005,Lithuania,Municipal waste treated,1198.22
+2006,Lithuania,Municipal waste treated,1236.69
+2007,Lithuania,Municipal waste treated,1346.87
+2008,Lithuania,Municipal waste treated,1352.53
+2009,Lithuania,Municipal waste treated,1195.59
+2010,Lithuania,Municipal waste treated,1142.5
+2011,Lithuania,Municipal waste treated,1308.51
+2012,Lithuania,Municipal waste treated,1283.02
+2013,Lithuania,Municipal waste treated,1245.92
+2014,Lithuania,Municipal waste treated,1247.29
+2015,Lithuania,Municipal waste treated,1282.13
+2016,Lithuania,Municipal waste treated,1211.02
+2017,Lithuania,Municipal waste treated,1275.33
+2000,Lithuania,Recycling,0
+2001,Lithuania,Recycling,0
+2002,Lithuania,Recycling,0
+2003,Lithuania,Recycling,0
+2004,Lithuania,Recycling,13.68
+2005,Lithuania,Recycling,13.98
+2006,Lithuania,Recycling,14.4
+2007,Lithuania,Recycling,79.56
+2008,Lithuania,Recycling,100.59
+2009,Lithuania,Recycling,86.62
+2010,Lithuania,Recycling,43.37
+2011,Lithuania,Recycling,244.12
+2012,Lithuania,Recycling,261.209
+2013,Lithuania,Recycling,261.311
+2014,Lithuania,Recycling,267.886
+2015,Lithuania,Recycling,298.172
+2016,Lithuania,Recycling,312.27
+2017,Lithuania,Recycling,310.81
+2000,Lithuania,Landfill,1209
+2001,Lithuania,Landfill,1169
+2002,Lithuania,Landfill,1119
+2003,Lithuania,Landfill,1136
+2004,Lithuania,Landfill,1152.57
+2005,Lithuania,Landfill,1173.58
+2006,Lithuania,Landfill,1211.35
+2007,Lithuania,Landfill,1245.09
+2008,Lithuania,Landfill,1236.87
+2009,Lithuania,Landfill,1092.78
+2010,Lithuania,Landfill,1078.706
+2011,Lithuania,Landfill,1033.58
+2012,Lithuania,Landfill,970.559
+2013,Lithuania,Landfill,798.328
+2014,Lithuania,Landfill,747.521
+2015,Lithuania,Landfill,702.127
+2016,Lithuania,Landfill,379.27
+2017,Lithuania,Landfill,420.68
+2015,Costa Rica,Recycling,17.6
+2016,Costa Rica,Recycling,40
+2017,Costa Rica,Recycling,100.2
+2015,Australia,Other municipal waste,1335
+2000,OECD Asia Oceania,Municipal waste generated,92016.805
+2001,OECD Asia Oceania,Municipal waste generated,92159.57
+2002,OECD Asia Oceania,Municipal waste generated,92374.633
+2003,OECD Asia Oceania,Municipal waste generated,92738.32
+2004,OECD Asia Oceania,Municipal waste generated,91761.148
+2005,OECD Asia Oceania,Municipal waste generated,90554.039
+2006,OECD Asia Oceania,Municipal waste generated,90090.242
+2007,OECD Asia Oceania,Municipal waste generated,89281.555
+2008,OECD Asia Oceania,Municipal waste generated,87400.375
+2009,OECD Asia Oceania,Municipal waste generated,85315.578
+2010,OECD Asia Oceania,Municipal waste generated,83972.773
+2011,OECD Asia Oceania,Municipal waste generated,84011.32
+2012,OECD Asia Oceania,Municipal waste generated,83811.289
+2013,OECD Asia Oceania,Municipal waste generated,83433.148
+2014,OECD Asia Oceania,Municipal waste generated,83531.898
+2015,OECD Asia Oceania,Municipal waste generated,84333.188
+2016,OECD Asia Oceania,Municipal waste generated,84807.953
+2017,OECD Asia Oceania,Municipal waste generated,85057.195
+2000,OECD America,Municipal waste generated,276382.313
+2001,OECD America,Municipal waste generated,275123.969
+2002,OECD America,Municipal waste generated,280454.719
+2003,OECD America,Municipal waste generated,282751.281
+2004,OECD America,Municipal waste generated,292006.656
+2005,OECD America,Municipal waste generated,293030.594
+2006,OECD America,Municipal waste generated,297247.594
+2007,OECD America,Municipal waste generated,297850.719
+2008,OECD America,Municipal waste generated,295440.406
+2009,OECD America,Municipal waste generated,289569.938
+2010,OECD America,Municipal waste generated,297263.438
+2011,OECD America,Municipal waste generated,298768.313
+2012,OECD America,Municipal waste generated,300912.813
+2013,OECD America,Municipal waste generated,304164.031
+2014,OECD America,Municipal waste generated,307671.938
+2015,OECD America,Municipal waste generated,307882.906
+2016,OECD America,Municipal waste generated,307925.281
+2017,OECD America,Municipal waste generated,307925.281
+2016,Costa Rica,Waste from households,1147
+2017,Costa Rica,Waste from households,898
+2016,Costa Rica,Other municipal waste,71
+2017,Costa Rica,Other municipal waste,369
+2014,Turkey,Waste from households,22605
+2016,Turkey,Waste from households,23811
+2017,Turkey,Waste from households,24100
+2014,Turkey,Other municipal waste,8625
+2016,Turkey,Other municipal waste,9952
+2017,Turkey,Other municipal waste,10073

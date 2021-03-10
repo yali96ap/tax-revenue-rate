@@ -1,0 +1,3814 @@
+Year,Country,Pollutant,Value
+2000,Australia,Sulphur Oxides,2343.287
+2001,Australia,Sulphur Oxides,2585.104
+2002,Australia,Sulphur Oxides,2775.525
+2003,Australia,Sulphur Oxides,2775.016
+2004,Australia,Sulphur Oxides,2512.628
+2005,Australia,Sulphur Oxides,2520.313
+2006,Australia,Sulphur Oxides,2482.62
+2007,Australia,Sulphur Oxides,2444.895
+2008,Australia,Sulphur Oxides,2512.441
+2009,Australia,Sulphur Oxides,2599.968
+2010,Australia,Sulphur Oxides,2380.047
+2011,Australia,Sulphur Oxides,2507.875
+2012,Australia,Sulphur Oxides,2519.087
+2013,Australia,Sulphur Oxides,2414.101
+2014,Australia,Sulphur Oxides,2499.419
+2015,Australia,Sulphur Oxides,2385.87
+2016,Australia,Sulphur Oxides,2464.911
+2017,Australia,Sulphur Oxides,2288.491
+2000,Australia,Nitrogen Oxides,1875.864
+2001,Australia,Nitrogen Oxides,1959.907
+2002,Australia,Nitrogen Oxides,2039.96
+2003,Australia,Nitrogen Oxides,2121.206
+2004,Australia,Nitrogen Oxides,2174.572
+2005,Australia,Nitrogen Oxides,2194.335
+2006,Australia,Nitrogen Oxides,2204.751
+2007,Australia,Nitrogen Oxides,2223.923
+2008,Australia,Nitrogen Oxides,2277.338
+2009,Australia,Nitrogen Oxides,2247.099
+2010,Australia,Nitrogen Oxides,2335.617
+2011,Australia,Nitrogen Oxides,2282.374
+2012,Australia,Nitrogen Oxides,2433.314
+2013,Australia,Nitrogen Oxides,2503.427
+2014,Australia,Nitrogen Oxides,2523.771
+2015,Australia,Nitrogen Oxides,2540.814
+2016,Australia,Nitrogen Oxides,2596.175
+2017,Australia,Nitrogen Oxides,2665.386
+2000,Australia,Carbon Monoxide,5387.306
+2001,Australia,Carbon Monoxide,5121.711
+2002,Australia,Carbon Monoxide,4985.813
+2003,Australia,Carbon Monoxide,4499.161
+2004,Australia,Carbon Monoxide,4593.24
+2005,Australia,Carbon Monoxide,3973.013
+2006,Australia,Carbon Monoxide,3944.595
+2007,Australia,Carbon Monoxide,3382.893
+2008,Australia,Carbon Monoxide,3226.74
+2009,Australia,Carbon Monoxide,3158.219
+2010,Australia,Carbon Monoxide,2994.791
+2011,Australia,Carbon Monoxide,2939.839
+2012,Australia,Carbon Monoxide,2902.792
+2013,Australia,Carbon Monoxide,2838.238
+2014,Australia,Carbon Monoxide,2768.896
+2015,Australia,Carbon Monoxide,2721.381
+2016,Australia,Carbon Monoxide,2648.313
+2017,Australia,Carbon Monoxide,2815.042
+2000,Australia,Non-methane Volatile Organic Compounds,1264.924
+2001,Australia,Non-methane Volatile Organic Compounds,1247.596
+2002,Australia,Non-methane Volatile Organic Compounds,1269.871
+2003,Australia,Non-methane Volatile Organic Compounds,1245.552
+2004,Australia,Non-methane Volatile Organic Compounds,1253.829
+2005,Australia,Non-methane Volatile Organic Compounds,1232.662
+2006,Australia,Non-methane Volatile Organic Compounds,1242.832
+2007,Australia,Non-methane Volatile Organic Compounds,1216.514
+2008,Australia,Non-methane Volatile Organic Compounds,1217.135
+2009,Australia,Non-methane Volatile Organic Compounds,1229.026
+2010,Australia,Non-methane Volatile Organic Compounds,1232.184
+2011,Australia,Non-methane Volatile Organic Compounds,1232.324
+2012,Australia,Non-methane Volatile Organic Compounds,1241.5
+2013,Australia,Non-methane Volatile Organic Compounds,1259.873
+2014,Australia,Non-methane Volatile Organic Compounds,1293.856
+2015,Australia,Non-methane Volatile Organic Compounds,1307.687
+2016,Australia,Non-methane Volatile Organic Compounds,1308.345
+2017,Australia,Non-methane Volatile Organic Compounds,1333.871
+2000,Austria,Sulphur Oxides,31.577
+2001,Austria,Sulphur Oxides,32.481
+2002,Austria,Sulphur Oxides,31.497
+2003,Austria,Sulphur Oxides,31.387
+2004,Austria,Sulphur Oxides,26.904
+2005,Austria,Sulphur Oxides,25.372
+2006,Austria,Sulphur Oxides,26.203
+2007,Austria,Sulphur Oxides,22.918
+2008,Austria,Sulphur Oxides,19.878
+2009,Austria,Sulphur Oxides,14.526
+2010,Austria,Sulphur Oxides,15.764
+2011,Austria,Sulphur Oxides,14.979
+2012,Austria,Sulphur Oxides,14.476
+2013,Austria,Sulphur Oxides,14.372
+2014,Austria,Sulphur Oxides,14.521
+2015,Austria,Sulphur Oxides,13.858
+2016,Austria,Sulphur Oxides,13.43
+2017,Austria,Sulphur Oxides,12.713
+2000,Austria,Nitrogen Oxides,212.758
+2001,Austria,Nitrogen Oxides,222.702
+2002,Austria,Nitrogen Oxides,228.554
+2003,Austria,Nitrogen Oxides,237.41
+2004,Austria,Nitrogen Oxides,234.303
+2005,Austria,Nitrogen Oxides,236.079
+2006,Austria,Nitrogen Oxides,222.909
+2007,Austria,Nitrogen Oxides,212.614
+2008,Austria,Nitrogen Oxides,196.78
+2009,Austria,Nitrogen Oxides,182.022
+2010,Austria,Nitrogen Oxides,181.491
+2011,Austria,Nitrogen Oxides,171.711
+2012,Austria,Nitrogen Oxides,166.319
+2013,Austria,Nitrogen Oxides,167.027
+2014,Austria,Nitrogen Oxides,158.415
+2015,Austria,Nitrogen Oxides,154.582
+2016,Austria,Nitrogen Oxides,149.461
+2017,Austria,Nitrogen Oxides,142.834
+2000,Austria,Particulates (PM10),38.213
+2001,Austria,Particulates (PM10),38.219
+2002,Austria,Particulates (PM10),37.163
+2003,Austria,Particulates (PM10),36.99
+2004,Austria,Particulates (PM10),36.708
+2005,Austria,Particulates (PM10),35.061
+2006,Austria,Particulates (PM10),33.776
+2007,Austria,Particulates (PM10),32.58
+2008,Austria,Particulates (PM10),32.29
+2009,Austria,Particulates (PM10),30.607
+2010,Austria,Particulates (PM10),31.23
+2011,Austria,Particulates (PM10),30.326
+2012,Austria,Particulates (PM10),29.612
+2013,Austria,Particulates (PM10),30.234
+2014,Austria,Particulates (PM10),28.46
+2015,Austria,Particulates (PM10),28.226
+2016,Austria,Particulates (PM10),27.852
+2017,Austria,Particulates (PM10),27.804
+2000,Austria,Particulates (PM2.5),24.428
+2001,Austria,Particulates (PM2.5),24.713
+2002,Austria,Particulates (PM2.5),23.886
+2003,Austria,Particulates (PM2.5),23.778
+2004,Austria,Particulates (PM2.5),23.273
+2005,Austria,Particulates (PM2.5),21.979
+2006,Austria,Particulates (PM2.5),21.199
+2007,Austria,Particulates (PM2.5),20.176
+2008,Austria,Particulates (PM2.5),19.49
+2009,Austria,Particulates (PM2.5),18.396
+2010,Austria,Particulates (PM2.5),19.037
+2011,Austria,Particulates (PM2.5),17.876
+2012,Austria,Particulates (PM2.5),17.385
+2013,Austria,Particulates (PM2.5),17.976
+2014,Austria,Particulates (PM2.5),16.143
+2015,Austria,Particulates (PM2.5),16.086
+2016,Austria,Particulates (PM2.5),15.733
+2017,Austria,Particulates (PM2.5),15.474
+2000,Austria,Carbon Monoxide,728.242
+2001,Austria,Carbon Monoxide,708.173
+2002,Austria,Carbon Monoxide,683.222
+2003,Austria,Carbon Monoxide,691.091
+2004,Austria,Carbon Monoxide,680.747
+2005,Austria,Carbon Monoxide,616.616
+2006,Austria,Carbon Monoxide,608.234
+2007,Austria,Carbon Monoxide,577.364
+2008,Austria,Carbon Monoxide,555.574
+2009,Austria,Carbon Monoxide,536.446
+2010,Austria,Carbon Monoxide,551.322
+2011,Austria,Carbon Monoxide,522.927
+2012,Austria,Carbon Monoxide,523.556
+2013,Austria,Carbon Monoxide,564.124
+2014,Austria,Carbon Monoxide,520.08
+2015,Austria,Carbon Monoxide,537.598
+2016,Austria,Carbon Monoxide,533.332
+2017,Austria,Carbon Monoxide,527.241
+2000,Austria,Non-methane Volatile Organic Compounds,179.14
+2001,Austria,Non-methane Volatile Organic Compounds,174.262
+2002,Austria,Non-methane Volatile Organic Compounds,169.613
+2003,Austria,Non-methane Volatile Organic Compounds,167.559
+2004,Austria,Non-methane Volatile Organic Compounds,155.129
+2005,Austria,Non-methane Volatile Organic Compounds,155.603
+2006,Austria,Non-methane Volatile Organic Compounds,158.247
+2007,Austria,Non-methane Volatile Organic Compounds,153.86
+2008,Austria,Non-methane Volatile Organic Compounds,148.783
+2009,Austria,Non-methane Volatile Organic Compounds,135.513
+2010,Austria,Non-methane Volatile Organic Compounds,136.692
+2011,Austria,Non-methane Volatile Organic Compounds,130.814
+2012,Austria,Non-methane Volatile Organic Compounds,128.122
+2013,Austria,Non-methane Volatile Organic Compounds,132.795
+2014,Austria,Non-methane Volatile Organic Compounds,119.901
+2015,Austria,Non-methane Volatile Organic Compounds,123.597
+2016,Austria,Non-methane Volatile Organic Compounds,122.087
+2017,Austria,Non-methane Volatile Organic Compounds,119.978
+2000,Belgium,Sulphur Oxides,171.106
+2001,Belgium,Sulphur Oxides,165.689
+2002,Belgium,Sulphur Oxides,156.466
+2003,Belgium,Sulphur Oxides,151.025
+2004,Belgium,Sulphur Oxides,154.122
+2005,Belgium,Sulphur Oxides,141.478
+2006,Belgium,Sulphur Oxides,132.608
+2007,Belgium,Sulphur Oxides,122.784
+2008,Belgium,Sulphur Oxides,94.638
+2009,Belgium,Sulphur Oxides,72.937
+2010,Belgium,Sulphur Oxides,59.438
+2011,Belgium,Sulphur Oxides,52.308
+2012,Belgium,Sulphur Oxides,46.928
+2013,Belgium,Sulphur Oxides,42.666
+2014,Belgium,Sulphur Oxides,40.088
+2015,Belgium,Sulphur Oxides,40.49
+2016,Belgium,Sulphur Oxides,39.051
+2017,Belgium,Sulphur Oxides,37.354
+2000,Belgium,Nitrogen Oxides,339.641
+2001,Belgium,Nitrogen Oxides,330.187
+2002,Belgium,Nitrogen Oxides,318.404
+2003,Belgium,Nitrogen Oxides,316.462
+2004,Belgium,Nitrogen Oxides,328.547
+2005,Belgium,Nitrogen Oxides,314.184
+2006,Belgium,Nitrogen Oxides,300.109
+2007,Belgium,Nitrogen Oxides,290.794
+2008,Belgium,Nitrogen Oxides,263.98
+2009,Belgium,Nitrogen Oxides,237.21
+2010,Belgium,Nitrogen Oxides,241.099
+2011,Belgium,Nitrogen Oxides,224.085
+2012,Belgium,Nitrogen Oxides,210.864
+2013,Belgium,Nitrogen Oxides,202.899
+2014,Belgium,Nitrogen Oxides,193.571
+2015,Belgium,Nitrogen Oxides,193.136
+2016,Belgium,Nitrogen Oxides,181.931
+2017,Belgium,Nitrogen Oxides,171.573
+2000,Belgium,Particulates (PM10),55.248
+2001,Belgium,Particulates (PM10),52.928
+2002,Belgium,Particulates (PM10),50.974
+2003,Belgium,Particulates (PM10),51.46
+2004,Belgium,Particulates (PM10),50.815
+2005,Belgium,Particulates (PM10),46.856
+2006,Belgium,Particulates (PM10),47.774
+2007,Belgium,Particulates (PM10),45.126
+2008,Belgium,Particulates (PM10),44.215
+2009,Belgium,Particulates (PM10),39.21
+2010,Belgium,Particulates (PM10),42.058
+2011,Belgium,Particulates (PM10),34.889
+2012,Belgium,Particulates (PM10),36.503
+2013,Belgium,Particulates (PM10),38.394
+2014,Belgium,Particulates (PM10),31.602
+2015,Belgium,Particulates (PM10),33.853
+2016,Belgium,Particulates (PM10),34.971
+2017,Belgium,Particulates (PM10),33.314
+2000,Belgium,Particulates (PM2.5),40.462
+2001,Belgium,Particulates (PM2.5),38.406
+2002,Belgium,Particulates (PM2.5),37.083
+2003,Belgium,Particulates (PM2.5),37.269
+2004,Belgium,Particulates (PM2.5),37.127
+2005,Belgium,Particulates (PM2.5),34.875
+2006,Belgium,Particulates (PM2.5),35.988
+2007,Belgium,Particulates (PM2.5),34.363
+2008,Belgium,Particulates (PM2.5),33.614
+2009,Belgium,Particulates (PM2.5),29.99
+2010,Belgium,Particulates (PM2.5),32.54
+2011,Belgium,Particulates (PM2.5),25.794
+2012,Belgium,Particulates (PM2.5),27.291
+2013,Belgium,Particulates (PM2.5),28.805
+2014,Belgium,Particulates (PM2.5),22.336
+2015,Belgium,Particulates (PM2.5),24.35
+2016,Belgium,Particulates (PM2.5),24.968
+2017,Belgium,Particulates (PM2.5),23.002
+2000,Belgium,Carbon Monoxide,925.599
+2001,Belgium,Carbon Monoxide,877.621
+2002,Belgium,Carbon Monoxide,863.111
+2003,Belgium,Carbon Monoxide,837.382
+2004,Belgium,Carbon Monoxide,798.857
+2005,Belgium,Carbon Monoxide,752.186
+2006,Belgium,Carbon Monoxide,697.352
+2007,Belgium,Carbon Monoxide,652.335
+2008,Belgium,Carbon Monoxide,653.068
+2009,Belgium,Carbon Monoxide,426.566
+2010,Belgium,Carbon Monoxide,496.185
+2011,Belgium,Carbon Monoxide,393.632
+2012,Belgium,Carbon Monoxide,343.257
+2013,Belgium,Carbon Monoxide,518.376
+2014,Belgium,Carbon Monoxide,318.81
+2015,Belgium,Carbon Monoxide,371.318
+2016,Belgium,Carbon Monoxide,359.299
+2017,Belgium,Carbon Monoxide,291.693
+2000,Belgium,Non-methane Volatile Organic Compounds,212.082
+2001,Belgium,Non-methane Volatile Organic Compounds,208.108
+2002,Belgium,Non-methane Volatile Organic Compounds,193.919
+2003,Belgium,Non-methane Volatile Organic Compounds,185.573
+2004,Belgium,Non-methane Volatile Organic Compounds,175.437
+2005,Belgium,Non-methane Volatile Organic Compounds,171.56
+2006,Belgium,Non-methane Volatile Organic Compounds,166.486
+2007,Belgium,Non-methane Volatile Organic Compounds,157.64
+2008,Belgium,Non-methane Volatile Organic Compounds,150.221
+2009,Belgium,Non-methane Volatile Organic Compounds,138.247
+2010,Belgium,Non-methane Volatile Organic Compounds,138.086
+2011,Belgium,Non-methane Volatile Organic Compounds,126.197
+2012,Belgium,Non-methane Volatile Organic Compounds,123.213
+2013,Belgium,Non-methane Volatile Organic Compounds,120.187
+2014,Belgium,Non-methane Volatile Organic Compounds,113.34
+2015,Belgium,Non-methane Volatile Organic Compounds,110.938
+2016,Belgium,Non-methane Volatile Organic Compounds,110.315
+2017,Belgium,Non-methane Volatile Organic Compounds,108.859
+2000,Canada,Sulphur Oxides,2397.202
+2001,Canada,Sulphur Oxides,2376.277
+2002,Canada,Sulphur Oxides,2325.438
+2003,Canada,Sulphur Oxides,2257.642
+2004,Canada,Sulphur Oxides,2269.361
+2005,Canada,Sulphur Oxides,2152.892
+2006,Canada,Sulphur Oxides,1950.223
+2007,Canada,Sulphur Oxides,1899.942
+2008,Canada,Sulphur Oxides,1719.818
+2009,Canada,Sulphur Oxides,1465.024
+2010,Canada,Sulphur Oxides,1351.987
+2011,Canada,Sulphur Oxides,1265.502
+2012,Canada,Sulphur Oxides,1252.06
+2013,Canada,Sulphur Oxides,1239.862
+2014,Canada,Sulphur Oxides,1194.543
+2015,Canada,Sulphur Oxides,1060.376
+2016,Canada,Sulphur Oxides,1043.361
+2017,Canada,Sulphur Oxides,949.403
+2000,Canada,Nitrogen Oxides,2877.367
+2001,Canada,Nitrogen Oxides,2746.197
+2002,Canada,Nitrogen Oxides,2688.191
+2003,Canada,Nitrogen Oxides,2647.764
+2004,Canada,Nitrogen Oxides,2512.644
+2005,Canada,Nitrogen Oxides,2418.145
+2006,Canada,Nitrogen Oxides,2276.217
+2007,Canada,Nitrogen Oxides,2269.79
+2008,Canada,Nitrogen Oxides,2198.401
+2009,Canada,Nitrogen Oxides,2074.083
+2010,Canada,Nitrogen Oxides,2087.083
+2011,Canada,Nitrogen Oxides,2033.729
+2012,Canada,Nitrogen Oxides,1926.671
+2013,Canada,Nitrogen Oxides,1878.971
+2014,Canada,Nitrogen Oxides,1836.004
+2015,Canada,Nitrogen Oxides,1767.375
+2016,Canada,Nitrogen Oxides,1710.236
+2017,Canada,Nitrogen Oxides,1727.59
+2000,Canada,Particulates (PM10),6236.78
+2001,Canada,Particulates (PM10),6243.27
+2002,Canada,Particulates (PM10),6059.074
+2003,Canada,Particulates (PM10),6036.287
+2004,Canada,Particulates (PM10),5975.454
+2005,Canada,Particulates (PM10),5980.241
+2006,Canada,Particulates (PM10),6144.312
+2007,Canada,Particulates (PM10),6506.966
+2008,Canada,Particulates (PM10),6857.526
+2009,Canada,Particulates (PM10),6276.582
+2010,Canada,Particulates (PM10),6725.29
+2011,Canada,Particulates (PM10),6923.382
+2012,Canada,Particulates (PM10),7426.188
+2013,Canada,Particulates (PM10),7400.078
+2014,Canada,Particulates (PM10),7432.798
+2015,Canada,Particulates (PM10),7441.422
+2016,Canada,Particulates (PM10),7455.478
+2017,Canada,Particulates (PM10),7499.258
+2000,Canada,Particulates (PM2.5),1679.626
+2001,Canada,Particulates (PM2.5),1634.344
+2002,Canada,Particulates (PM2.5),1588.935
+2003,Canada,Particulates (PM2.5),1556.617
+2004,Canada,Particulates (PM2.5),1514.51
+2005,Canada,Particulates (PM2.5),1495.447
+2006,Canada,Particulates (PM2.5),1492.973
+2007,Canada,Particulates (PM2.5),1550.216
+2008,Canada,Particulates (PM2.5),1614.469
+2009,Canada,Particulates (PM2.5),1478.966
+2010,Canada,Particulates (PM2.5),1565.619
+2011,Canada,Particulates (PM2.5),1592.1
+2012,Canada,Particulates (PM2.5),1685.584
+2013,Canada,Particulates (PM2.5),1677.897
+2014,Canada,Particulates (PM2.5),1685.691
+2015,Canada,Particulates (PM2.5),1674.439
+2016,Canada,Particulates (PM2.5),1670.445
+2017,Canada,Particulates (PM2.5),1673.524
+2000,Canada,Carbon Monoxide,10850.05
+2001,Canada,Carbon Monoxide,10008.69
+2002,Canada,Carbon Monoxide,9819.604
+2003,Canada,Carbon Monoxide,9500.119
+2004,Canada,Carbon Monoxide,8945.681
+2005,Canada,Carbon Monoxide,7963.997
+2006,Canada,Carbon Monoxide,7462.758
+2007,Canada,Carbon Monoxide,7296.66
+2008,Canada,Carbon Monoxide,7102.399
+2009,Canada,Carbon Monoxide,6741.941
+2010,Canada,Carbon Monoxide,6665.003
+2011,Canada,Carbon Monoxide,6231.994
+2012,Canada,Carbon Monoxide,6020.714
+2013,Canada,Carbon Monoxide,5916.666
+2014,Canada,Carbon Monoxide,5809.794
+2015,Canada,Carbon Monoxide,5717.083
+2016,Canada,Carbon Monoxide,5668.635
+2017,Canada,Carbon Monoxide,5655.203
+2000,Canada,Non-methane Volatile Organic Compounds,2838.468
+2001,Canada,Non-methane Volatile Organic Compounds,2608.223
+2002,Canada,Non-methane Volatile Organic Compounds,2610.098
+2003,Canada,Non-methane Volatile Organic Compounds,2520.83
+2004,Canada,Non-methane Volatile Organic Compounds,2474.18
+2005,Canada,Non-methane Volatile Organic Compounds,2337.875
+2006,Canada,Non-methane Volatile Organic Compounds,2232.518
+2007,Canada,Non-methane Volatile Organic Compounds,2193.635
+2008,Canada,Non-methane Volatile Organic Compounds,2162.267
+2009,Canada,Non-methane Volatile Organic Compounds,2007.889
+2010,Canada,Non-methane Volatile Organic Compounds,2018.397
+2011,Canada,Non-methane Volatile Organic Compounds,1879.816
+2012,Canada,Non-methane Volatile Organic Compounds,1900.118
+2013,Canada,Non-methane Volatile Organic Compounds,1931.74
+2014,Canada,Non-methane Volatile Organic Compounds,1949.745
+2015,Canada,Non-methane Volatile Organic Compounds,1893.17
+2016,Canada,Non-methane Volatile Organic Compounds,1804.203
+2017,Canada,Non-methane Volatile Organic Compounds,1808.645
+2000,Czech Republic,Sulphur Oxides,232.988
+2001,Czech Republic,Sulphur Oxides,228.693
+2002,Czech Republic,Sulphur Oxides,223.398
+2003,Czech Republic,Sulphur Oxides,218.38
+2004,Czech Republic,Sulphur Oxides,215.094
+2005,Czech Republic,Sulphur Oxides,208.444
+2006,Czech Republic,Sulphur Oxides,206.74
+2007,Czech Republic,Sulphur Oxides,212.03
+2008,Czech Republic,Sulphur Oxides,170.068
+2009,Czech Republic,Sulphur Oxides,168.736
+2010,Czech Republic,Sulphur Oxides,163.844
+2011,Czech Republic,Sulphur Oxides,167.583
+2012,Czech Republic,Sulphur Oxides,160.176
+2013,Czech Republic,Sulphur Oxides,145.225
+2014,Czech Republic,Sulphur Oxides,134.484
+2015,Czech Republic,Sulphur Oxides,129.367
+2016,Czech Republic,Sulphur Oxides,115.125
+2017,Czech Republic,Sulphur Oxides,109.952
+2000,Czech Republic,Nitrogen Oxides,279.839
+2001,Czech Republic,Nitrogen Oxides,283.859
+2002,Czech Republic,Nitrogen Oxides,277.881
+2003,Czech Republic,Nitrogen Oxides,279.781
+2004,Czech Republic,Nitrogen Oxides,280.454
+2005,Czech Republic,Nitrogen Oxides,275.891
+2006,Czech Republic,Nitrogen Oxides,270.914
+2007,Czech Republic,Nitrogen Oxides,268.718
+2008,Czech Republic,Nitrogen Oxides,252.543
+2009,Czech Republic,Nitrogen Oxides,238.097
+2010,Czech Republic,Nitrogen Oxides,231.877
+2011,Czech Republic,Nitrogen Oxides,219.508
+2012,Czech Republic,Nitrogen Oxides,206.098
+2013,Czech Republic,Nitrogen Oxides,190.571
+2014,Czech Republic,Nitrogen Oxides,184.022
+2015,Czech Republic,Nitrogen Oxides,175.843
+2016,Czech Republic,Nitrogen Oxides,166.475
+2017,Czech Republic,Nitrogen Oxides,162.64
+2000,Czech Republic,Particulates (PM10),65.668
+2001,Czech Republic,Particulates (PM10),65.678
+2002,Czech Republic,Particulates (PM10),61.191
+2003,Czech Republic,Particulates (PM10),61.011
+2004,Czech Republic,Particulates (PM10),60.693
+2005,Czech Republic,Particulates (PM10),57.601
+2006,Czech Republic,Particulates (PM10),58.84
+2007,Czech Republic,Particulates (PM10),57.089
+2008,Czech Republic,Particulates (PM10),55.182
+2009,Czech Republic,Particulates (PM10),54.634
+2010,Czech Republic,Particulates (PM10),57.297
+2011,Czech Republic,Particulates (PM10),55.202
+2012,Czech Republic,Particulates (PM10),55.159
+2013,Czech Republic,Particulates (PM10),55.268
+2014,Czech Republic,Particulates (PM10),52.44
+2015,Czech Republic,Particulates (PM10),51.928
+2016,Czech Republic,Particulates (PM10),50.33
+2017,Czech Republic,Particulates (PM10),51.275
+2000,Czech Republic,Particulates (PM2.5),49.076
+2001,Czech Republic,Particulates (PM2.5),50.01
+2002,Czech Republic,Particulates (PM2.5),46.659
+2003,Czech Republic,Particulates (PM2.5),46.746
+2004,Czech Republic,Particulates (PM2.5),46.396
+2005,Czech Republic,Particulates (PM2.5),42.956
+2006,Czech Republic,Particulates (PM2.5),44.111
+2007,Czech Republic,Particulates (PM2.5),41.98
+2008,Czech Republic,Particulates (PM2.5),40.798
+2009,Czech Republic,Particulates (PM2.5),41.643
+2010,Czech Republic,Particulates (PM2.5),44.72
+2011,Czech Republic,Particulates (PM2.5),42.974
+2012,Czech Republic,Particulates (PM2.5),43.152
+2013,Czech Republic,Particulates (PM2.5),43.513
+2014,Czech Republic,Particulates (PM2.5),40.875
+2015,Czech Republic,Particulates (PM2.5),40.369
+2016,Czech Republic,Particulates (PM2.5),39.071
+2017,Czech Republic,Particulates (PM2.5),39.935
+2000,Czech Republic,Carbon Monoxide,1074.659
+2001,Czech Republic,Carbon Monoxide,1058.399
+2002,Czech Republic,Carbon Monoxide,1018.176
+2003,Czech Republic,Carbon Monoxide,1033.116
+2004,Czech Republic,Carbon Monoxide,1020.585
+2005,Czech Republic,Carbon Monoxide,934.463
+2006,Czech Republic,Carbon Monoxide,939.082
+2007,Czech Republic,Carbon Monoxide,938.758
+2008,Czech Republic,Carbon Monoxide,885.632
+2009,Czech Republic,Carbon Monoxide,903.316
+2010,Czech Republic,Carbon Monoxide,926.715
+2011,Czech Republic,Carbon Monoxide,896.528
+2012,Czech Republic,Carbon Monoxide,882.706
+2013,Czech Republic,Carbon Monoxide,883.089
+2014,Czech Republic,Carbon Monoxide,843.176
+2015,Czech Republic,Carbon Monoxide,825.654
+2016,Czech Republic,Carbon Monoxide,820.002
+2017,Czech Republic,Carbon Monoxide,818.982
+2000,Czech Republic,Non-methane Volatile Organic Compounds,287.281
+2001,Czech Republic,Non-methane Volatile Organic Compounds,278.936
+2002,Czech Republic,Non-methane Volatile Organic Compounds,276.71
+2003,Czech Republic,Non-methane Volatile Organic Compounds,272.452
+2004,Czech Republic,Non-methane Volatile Organic Compounds,262.772
+2005,Czech Republic,Non-methane Volatile Organic Compounds,252.278
+2006,Czech Republic,Non-methane Volatile Organic Compounds,253.684
+2007,Czech Republic,Non-methane Volatile Organic Compounds,247.428
+2008,Czech Republic,Non-methane Volatile Organic Compounds,242.644
+2009,Czech Republic,Non-methane Volatile Organic Compounds,243.047
+2010,Czech Republic,Non-methane Volatile Organic Compounds,240.506
+2011,Czech Republic,Non-methane Volatile Organic Compounds,229.576
+2012,Czech Republic,Non-methane Volatile Organic Compounds,224.086
+2013,Czech Republic,Non-methane Volatile Organic Compounds,220.568
+2014,Czech Republic,Non-methane Volatile Organic Compounds,213.933
+2015,Czech Republic,Non-methane Volatile Organic Compounds,211.619
+2016,Czech Republic,Non-methane Volatile Organic Compounds,206.671
+2017,Czech Republic,Non-methane Volatile Organic Compounds,207.328
+2000,Denmark,Sulphur Oxides,32.369
+2001,Denmark,Sulphur Oxides,29.749
+2002,Denmark,Sulphur Oxides,28.317
+2003,Denmark,Sulphur Oxides,35.178
+2004,Denmark,Sulphur Oxides,28.635
+2005,Denmark,Sulphur Oxides,26.151
+2006,Denmark,Sulphur Oxides,30.194
+2007,Denmark,Sulphur Oxides,27.196
+2008,Denmark,Sulphur Oxides,21.029
+2009,Denmark,Sulphur Oxides,15.464
+2010,Denmark,Sulphur Oxides,15.325
+2011,Denmark,Sulphur Oxides,14.015
+2012,Denmark,Sulphur Oxides,12.626
+2013,Denmark,Sulphur Oxides,12.641
+2014,Denmark,Sulphur Oxides,10.493
+2015,Denmark,Sulphur Oxides,9.657
+2016,Denmark,Sulphur Oxides,9.971
+2017,Denmark,Sulphur Oxides,10.188
+2000,Denmark,Nitrogen Oxides,226.755
+2001,Denmark,Nitrogen Oxides,224.071
+2002,Denmark,Nitrogen Oxides,221.176
+2003,Denmark,Nitrogen Oxides,229.597
+2004,Denmark,Nitrogen Oxides,213.464
+2005,Denmark,Nitrogen Oxides,204.896
+2006,Denmark,Nitrogen Oxides,204.294
+2007,Denmark,Nitrogen Oxides,189.881
+2008,Denmark,Nitrogen Oxides,173.55
+2009,Denmark,Nitrogen Oxides,154.567
+2010,Denmark,Nitrogen Oxides,149.462
+2011,Denmark,Nitrogen Oxides,140.032
+2012,Denmark,Nitrogen Oxides,129.067
+2013,Denmark,Nitrogen Oxides,124.27
+2014,Denmark,Nitrogen Oxides,114.955
+2015,Denmark,Nitrogen Oxides,113.604
+2016,Denmark,Nitrogen Oxides,113.819
+2017,Denmark,Nitrogen Oxides,110.974
+2000,Denmark,Particulates (PM10),35.905
+2001,Denmark,Particulates (PM10),36.318
+2002,Denmark,Particulates (PM10),34.305
+2003,Denmark,Particulates (PM10),35.916
+2004,Denmark,Particulates (PM10),36.226
+2005,Denmark,Particulates (PM10),37.25
+2006,Denmark,Particulates (PM10),38.46
+2007,Denmark,Particulates (PM10),41.378
+2008,Denmark,Particulates (PM10),39.03
+2009,Denmark,Particulates (PM10),36.075
+2010,Denmark,Particulates (PM10),36.152
+2011,Denmark,Particulates (PM10),33.566
+2012,Denmark,Particulates (PM10),32.245
+2013,Denmark,Particulates (PM10),31.745
+2014,Denmark,Particulates (PM10),30.014
+2015,Denmark,Particulates (PM10),31.297
+2016,Denmark,Particulates (PM10),31.259
+2017,Denmark,Particulates (PM10),31.051
+2000,Denmark,Particulates (PM2.5),23.652
+2001,Denmark,Particulates (PM2.5),23.914
+2002,Denmark,Particulates (PM2.5),23.193
+2003,Denmark,Particulates (PM2.5),24.644
+2004,Denmark,Particulates (PM2.5),24.722
+2005,Denmark,Particulates (PM2.5),25.612
+2006,Denmark,Particulates (PM2.5),26.285
+2007,Denmark,Particulates (PM2.5),29.151
+2008,Denmark,Particulates (PM2.5),27.126
+2009,Denmark,Particulates (PM2.5),24.997
+2010,Denmark,Particulates (PM2.5),25.038
+2011,Denmark,Particulates (PM2.5),22.619
+2012,Denmark,Particulates (PM2.5),21.425
+2013,Denmark,Particulates (PM2.5),21.162
+2014,Denmark,Particulates (PM2.5),19.303
+2015,Denmark,Particulates (PM2.5),20.605
+2016,Denmark,Particulates (PM2.5),20.525
+2017,Denmark,Particulates (PM2.5),20.054
+2000,Denmark,Carbon Monoxide,464.718
+2001,Denmark,Carbon Monoxide,454.859
+2002,Denmark,Carbon Monoxide,431.66
+2003,Denmark,Carbon Monoxide,433.753
+2004,Denmark,Carbon Monoxide,416.951
+2005,Denmark,Carbon Monoxide,417.581
+2006,Denmark,Carbon Monoxide,404.916
+2007,Denmark,Carbon Monoxide,407.67
+2008,Denmark,Carbon Monoxide,386.144
+2009,Denmark,Carbon Monoxide,353.504
+2010,Denmark,Carbon Monoxide,345.822
+2011,Denmark,Carbon Monoxide,304.398
+2012,Denmark,Carbon Monoxide,286.673
+2013,Denmark,Carbon Monoxide,272.656
+2014,Denmark,Carbon Monoxide,249.073
+2015,Denmark,Carbon Monoxide,253.252
+2016,Denmark,Carbon Monoxide,243.284
+2017,Denmark,Carbon Monoxide,240.575
+2000,Denmark,Non-methane Volatile Organic Compounds,169.199
+2001,Denmark,Non-methane Volatile Organic Compounds,161.027
+2002,Denmark,Non-methane Volatile Organic Compounds,155.696
+2003,Denmark,Non-methane Volatile Organic Compounds,150.631
+2004,Denmark,Non-methane Volatile Organic Compounds,147.254
+2005,Denmark,Non-methane Volatile Organic Compounds,143.358
+2006,Denmark,Non-methane Volatile Organic Compounds,139.604
+2007,Denmark,Non-methane Volatile Organic Compounds,136.848
+2008,Denmark,Non-methane Volatile Organic Compounds,132.569
+2009,Denmark,Non-methane Volatile Organic Compounds,123.695
+2010,Denmark,Non-methane Volatile Organic Compounds,121.443
+2011,Denmark,Non-methane Volatile Organic Compounds,115.415
+2012,Denmark,Non-methane Volatile Organic Compounds,111.627
+2013,Denmark,Non-methane Volatile Organic Compounds,111.992
+2014,Denmark,Non-methane Volatile Organic Compounds,103.738
+2015,Denmark,Non-methane Volatile Organic Compounds,106.613
+2016,Denmark,Non-methane Volatile Organic Compounds,103.072
+2017,Denmark,Non-methane Volatile Organic Compounds,102.176
+2000,Finland,Sulphur Oxides,81.002
+2001,Finland,Sulphur Oxides,90.329
+2002,Finland,Sulphur Oxides,89.409
+2003,Finland,Sulphur Oxides,102.453
+2004,Finland,Sulphur Oxides,84.559
+2005,Finland,Sulphur Oxides,69.099
+2006,Finland,Sulphur Oxides,84.038
+2007,Finland,Sulphur Oxides,82.757
+2008,Finland,Sulphur Oxides,67.7
+2009,Finland,Sulphur Oxides,59.54
+2010,Finland,Sulphur Oxides,67.131
+2011,Finland,Sulphur Oxides,60.404
+2012,Finland,Sulphur Oxides,50.955
+2013,Finland,Sulphur Oxides,48.355
+2014,Finland,Sulphur Oxides,43.228
+2015,Finland,Sulphur Oxides,41.866
+2016,Finland,Sulphur Oxides,39.795
+2017,Finland,Sulphur Oxides,35.284
+2000,Finland,Nitrogen Oxides,235.609
+2001,Finland,Nitrogen Oxides,238.84
+2002,Finland,Nitrogen Oxides,235.416
+2003,Finland,Nitrogen Oxides,243.451
+2004,Finland,Nitrogen Oxides,229.833
+2005,Finland,Nitrogen Oxides,200.859
+2006,Finland,Nitrogen Oxides,216.934
+2007,Finland,Nitrogen Oxides,205.446
+2008,Finland,Nitrogen Oxides,188.702
+2009,Finland,Nitrogen Oxides,171.892
+2010,Finland,Nitrogen Oxides,180.894
+2011,Finland,Nitrogen Oxides,164.926
+2012,Finland,Nitrogen Oxides,156.023
+2013,Finland,Nitrogen Oxides,152.224
+2014,Finland,Nitrogen Oxides,144.414
+2015,Finland,Nitrogen Oxides,133.378
+2016,Finland,Nitrogen Oxides,128.925
+2017,Finland,Nitrogen Oxides,124.907
+2000,Finland,Particulates (PM10),40.17
+2001,Finland,Particulates (PM10),41.183
+2002,Finland,Particulates (PM10),41.737
+2003,Finland,Particulates (PM10),42.634
+2004,Finland,Particulates (PM10),41.608
+2005,Finland,Particulates (PM10),39.256
+2006,Finland,Particulates (PM10),40.795
+2007,Finland,Particulates (PM10),38.316
+2008,Finland,Particulates (PM10),36.738
+2009,Finland,Particulates (PM10),35.6
+2010,Finland,Particulates (PM10),37.636
+2011,Finland,Particulates (PM10),34.641
+2012,Finland,Particulates (PM10),33.232
+2013,Finland,Particulates (PM10),31.97
+2014,Finland,Particulates (PM10),31.453
+2015,Finland,Particulates (PM10),29.403
+2016,Finland,Particulates (PM10),30.397
+2017,Finland,Particulates (PM10),29.178
+2000,Finland,Particulates (PM2.5),25.96
+2001,Finland,Particulates (PM2.5),26.612
+2002,Finland,Particulates (PM2.5),26.923
+2003,Finland,Particulates (PM2.5),27.079
+2004,Finland,Particulates (PM2.5),26.439
+2005,Finland,Particulates (PM2.5),25.177
+2006,Finland,Particulates (PM2.5),25.49
+2007,Finland,Particulates (PM2.5),24.016
+2008,Finland,Particulates (PM2.5),23.165
+2009,Finland,Particulates (PM2.5),22.394
+2010,Finland,Particulates (PM2.5),23.858
+2011,Finland,Particulates (PM2.5),21.041
+2012,Finland,Particulates (PM2.5),20.688
+2013,Finland,Particulates (PM2.5),19.694
+2014,Finland,Particulates (PM2.5),19.376
+2015,Finland,Particulates (PM2.5),17.761
+2016,Finland,Particulates (PM2.5),18.393
+2017,Finland,Particulates (PM2.5),17.799
+2000,Finland,Carbon Monoxide,545.287
+2001,Finland,Carbon Monoxide,545.12
+2002,Finland,Carbon Monoxide,530.99
+2003,Finland,Carbon Monoxide,510.772
+2004,Finland,Carbon Monoxide,492.434
+2005,Finland,Carbon Monoxide,465.752
+2006,Finland,Carbon Monoxide,454.661
+2007,Finland,Carbon Monoxide,437.077
+2008,Finland,Carbon Monoxide,414.967
+2009,Finland,Carbon Monoxide,394.881
+2010,Finland,Carbon Monoxide,406.275
+2011,Finland,Carbon Monoxide,368.838
+2012,Finland,Carbon Monoxide,364.883
+2013,Finland,Carbon Monoxide,350.923
+2014,Finland,Carbon Monoxide,345.303
+2015,Finland,Carbon Monoxide,328.708
+2016,Finland,Carbon Monoxide,334.943
+2017,Finland,Carbon Monoxide,326.117
+2000,Finland,Non-methane Volatile Organic Compounds,187.2
+2001,Finland,Non-methane Volatile Organic Compounds,186.21
+2002,Finland,Non-methane Volatile Organic Compounds,179.081
+2003,Finland,Non-methane Volatile Organic Compounds,173.561
+2004,Finland,Non-methane Volatile Organic Compounds,170.166
+2005,Finland,Non-methane Volatile Organic Compounds,157.021
+2006,Finland,Non-methane Volatile Organic Compounds,152.84
+2007,Finland,Non-methane Volatile Organic Compounds,148.007
+2008,Finland,Non-methane Volatile Organic Compounds,134.698
+2009,Finland,Non-methane Volatile Organic Compounds,125.861
+2010,Finland,Non-methane Volatile Organic Compounds,128.354
+2011,Finland,Non-methane Volatile Organic Compounds,116.725
+2012,Finland,Non-methane Volatile Organic Compounds,115.237
+2013,Finland,Non-methane Volatile Organic Compounds,109.805
+2014,Finland,Non-methane Volatile Organic Compounds,107.551
+2015,Finland,Non-methane Volatile Organic Compounds,101.72
+2016,Finland,Non-methane Volatile Organic Compounds,102.933
+2017,Finland,Non-methane Volatile Organic Compounds,100.917
+2000,France,Sulphur Oxides,626.499
+2001,France,Sulphur Oxides,565.867
+2002,France,Sulphur Oxides,524.879
+2003,France,Sulphur Oxides,499.386
+2004,France,Sulphur Oxides,481.448
+2005,France,Sulphur Oxides,460.548
+2006,France,Sulphur Oxides,430.985
+2007,France,Sulphur Oxides,414.412
+2008,France,Sulphur Oxides,352.914
+2009,France,Sulphur Oxides,297.531
+2010,France,Sulphur Oxides,278.427
+2011,France,Sulphur Oxides,254.038
+2012,France,Sulphur Oxides,236.63
+2013,France,Sulphur Oxides,213.519
+2014,France,Sulphur Oxides,173.227
+2015,France,Sulphur Oxides,163.283
+2016,France,Sulphur Oxides,144.319
+2017,France,Sulphur Oxides,144.168
+2000,France,Nitrogen Oxides,1619.606
+2001,France,Nitrogen Oxides,1582.651
+2002,France,Nitrogen Oxides,1545.867
+2003,France,Nitrogen Oxides,1500.869
+2004,France,Nitrogen Oxides,1464.49
+2005,France,Nitrogen Oxides,1418.6
+2006,France,Nitrogen Oxides,1334.438
+2007,France,Nitrogen Oxides,1272.448
+2008,France,Nitrogen Oxides,1176.082
+2009,France,Nitrogen Oxides,1093.515
+2010,France,Nitrogen Oxides,1075.459
+2011,France,Nitrogen Oxides,1017.653
+2012,France,Nitrogen Oxides,989.276
+2013,France,Nitrogen Oxides,978.221
+2014,France,Nitrogen Oxides,906.473
+2015,France,Nitrogen Oxides,881.429
+2016,France,Nitrogen Oxides,840.172
+2017,France,Nitrogen Oxides,804.792
+2000,France,Particulates (PM10),438.218
+2001,France,Particulates (PM10),424.638
+2002,France,Particulates (PM10),399.796
+2003,France,Particulates (PM10),400.399
+2004,France,Particulates (PM10),386.529
+2005,France,Particulates (PM10),360.796
+2006,France,Particulates (PM10),334.34
+2007,France,Particulates (PM10),319.349
+2008,France,Particulates (PM10),311.395
+2009,France,Particulates (PM10),295.979
+2010,France,Particulates (PM10),306.277
+2011,France,Particulates (PM10),280.609
+2012,France,Particulates (PM10),283.717
+2013,France,Particulates (PM10),284.437
+2014,France,Particulates (PM10),256.152
+2015,France,Particulates (PM10),258.356
+2016,France,Particulates (PM10),258.468
+2017,France,Particulates (PM10),254.269
+2000,France,Particulates (PM2.5),327.976
+2001,France,Particulates (PM2.5),316.614
+2002,France,Particulates (PM2.5),294.59
+2003,France,Particulates (PM2.5),293.907
+2004,France,Particulates (PM2.5),280.457
+2005,France,Particulates (PM2.5),259.846
+2006,France,Particulates (PM2.5),235.021
+2007,France,Particulates (PM2.5),222.371
+2008,France,Particulates (PM2.5),216.457
+2009,France,Particulates (PM2.5),206.439
+2010,France,Particulates (PM2.5),215.117
+2011,France,Particulates (PM2.5),188.9
+2012,France,Particulates (PM2.5),192.477
+2013,France,Particulates (PM2.5),193.829
+2014,France,Particulates (PM2.5),168.387
+2015,France,Particulates (PM2.5),169.982
+2016,France,Particulates (PM2.5),170.383
+2017,France,Particulates (PM2.5),164.531
+2000,France,Carbon Monoxide,6501.545
+2001,France,Carbon Monoxide,6141.225
+2002,France,Carbon Monoxide,5921.653
+2003,France,Carbon Monoxide,5630.348
+2004,France,Carbon Monoxide,5731.04
+2005,France,Carbon Monoxide,5235.573
+2006,France,Carbon Monoxide,4656.761
+2007,France,Carbon Monoxide,4491.071
+2008,France,Carbon Monoxide,4276.554
+2009,France,Carbon Monoxide,3811.713
+2010,France,Carbon Monoxide,4206.152
+2011,France,Carbon Monoxide,3530.502
+2012,France,Carbon Monoxide,3189.599
+2013,France,Carbon Monoxide,3253.64
+2014,France,Carbon Monoxide,2726.582
+2015,France,Carbon Monoxide,2683.175
+2016,France,Carbon Monoxide,2733.047
+2017,France,Carbon Monoxide,2689.949
+2000,France,Non-methane Volatile Organic Compounds,1642.799
+2001,France,Non-methane Volatile Organic Compounds,1556.388
+2002,France,Non-methane Volatile Organic Compounds,1431.759
+2003,France,Non-methane Volatile Organic Compounds,1355.076
+2004,France,Non-methane Volatile Organic Compounds,1267.609
+2005,France,Non-methane Volatile Organic Compounds,1174.776
+2006,France,Non-methane Volatile Organic Compounds,1064.589
+2007,France,Non-methane Volatile Organic Compounds,965.185
+2008,France,Non-methane Volatile Organic Compounds,890.726
+2009,France,Non-methane Volatile Organic Compounds,800.6
+2010,France,Non-methane Volatile Organic Compounds,816.119
+2011,France,Non-methane Volatile Organic Compounds,735.641
+2012,France,Non-methane Volatile Organic Compounds,699.137
+2013,France,Non-methane Volatile Organic Compounds,684.919
+2014,France,Non-methane Volatile Organic Compounds,660.494
+2015,France,Non-methane Volatile Organic Compounds,631.675
+2016,France,Non-methane Volatile Organic Compounds,619.016
+2017,France,Non-methane Volatile Organic Compounds,611.489
+2000,Germany,Sulphur Oxides,645.89
+2001,Germany,Sulphur Oxides,624.629
+2002,Germany,Sulphur Oxides,561.201
+2003,Germany,Sulphur Oxides,534.286
+2004,Germany,Sulphur Oxides,492.465
+2005,Germany,Sulphur Oxides,471.784
+2006,Germany,Sulphur Oxides,471.798
+2007,Germany,Sulphur Oxides,455.475
+2008,Germany,Sulphur Oxides,451.017
+2009,Germany,Sulphur Oxides,394.662
+2010,Germany,Sulphur Oxides,409.163
+2011,Germany,Sulphur Oxides,395.453
+2012,Germany,Sulphur Oxides,375.386
+2013,Germany,Sulphur Oxides,365.662
+2014,Germany,Sulphur Oxides,345.623
+2015,Germany,Sulphur Oxides,343.139
+2016,Germany,Sulphur Oxides,319.46
+2017,Germany,Sulphur Oxides,315.428
+2000,Germany,Nitrogen Oxides,1946.978
+2001,Germany,Nitrogen Oxides,1869.318
+2002,Germany,Nitrogen Oxides,1793.581
+2003,Germany,Nitrogen Oxides,1736.951
+2004,Germany,Nitrogen Oxides,1658.478
+2005,Germany,Nitrogen Oxides,1583.865
+2006,Germany,Nitrogen Oxides,1573.25
+2007,Germany,Nitrogen Oxides,1503.64
+2008,Germany,Nitrogen Oxides,1428.586
+2009,Germany,Nitrogen Oxides,1330.579
+2010,Germany,Nitrogen Oxides,1355.209
+2011,Germany,Nitrogen Oxides,1338.304
+2012,Germany,Nitrogen Oxides,1305.106
+2013,Germany,Nitrogen Oxides,1306.798
+2014,Germany,Nitrogen Oxides,1270.846
+2015,Germany,Nitrogen Oxides,1247.202
+2016,Germany,Nitrogen Oxides,1221.375
+2017,Germany,Nitrogen Oxides,1184.388
+2000,Germany,Particulates (PM10),293.839
+2001,Germany,Particulates (PM10),279.261
+2002,Germany,Particulates (PM10),273.418
+2003,Germany,Particulates (PM10),262.793
+2004,Germany,Particulates (PM10),256.973
+2005,Germany,Particulates (PM10),246.351
+2006,Germany,Particulates (PM10),243.168
+2007,Germany,Particulates (PM10),234.112
+2008,Germany,Particulates (PM10),228.232
+2009,Germany,Particulates (PM10),215.437
+2010,Germany,Particulates (PM10),229.196
+2011,Germany,Particulates (PM10),227.967
+2012,Germany,Particulates (PM10),219.86
+2013,Germany,Particulates (PM10),221.676
+2014,Germany,Particulates (PM10),217.193
+2015,Germany,Particulates (PM10),214.465
+2016,Germany,Particulates (PM10),203.27
+2017,Germany,Particulates (PM10),206.012
+2000,Germany,Particulates (PM2.5),167.524
+2001,Germany,Particulates (PM2.5),162.005
+2002,Germany,Particulates (PM2.5),155.416
+2003,Germany,Particulates (PM2.5),150.696
+2004,Germany,Particulates (PM2.5),146.248
+2005,Germany,Particulates (PM2.5),138.941
+2006,Germany,Particulates (PM2.5),134.782
+2007,Germany,Particulates (PM2.5),129.008
+2008,Germany,Particulates (PM2.5),122.26
+2009,Germany,Particulates (PM2.5),114.926
+2010,Germany,Particulates (PM2.5),122.376
+2011,Germany,Particulates (PM2.5),117.224
+2012,Germany,Particulates (PM2.5),110.28
+2013,Germany,Particulates (PM2.5),109.13
+2014,Germany,Particulates (PM2.5),104.404
+2015,Germany,Particulates (PM2.5),103.61
+2016,Germany,Particulates (PM2.5),100.757
+2017,Germany,Particulates (PM2.5),99.082
+2000,Germany,Carbon Monoxide,4830.899
+2001,Germany,Carbon Monoxide,4655.124
+2002,Germany,Carbon Monoxide,4379.838
+2003,Germany,Carbon Monoxide,4199.604
+2004,Germany,Carbon Monoxide,3961.349
+2005,Germany,Carbon Monoxide,3753.185
+2006,Germany,Carbon Monoxide,3656.683
+2007,Germany,Carbon Monoxide,3540.351
+2008,Germany,Carbon Monoxide,3430.937
+2009,Germany,Carbon Monoxide,2980.514
+2010,Germany,Carbon Monoxide,3346.693
+2011,Germany,Carbon Monoxide,3259.001
+2012,Germany,Carbon Monoxide,2887.227
+2013,Germany,Carbon Monoxide,2858.665
+2014,Germany,Carbon Monoxide,2757.421
+2015,Germany,Carbon Monoxide,2864.302
+2016,Germany,Carbon Monoxide,2801.678
+2017,Germany,Carbon Monoxide,2828.186
+2000,Germany,Non-methane Volatile Organic Compounds,1637.77
+2001,Germany,Non-methane Volatile Organic Compounds,1533.468
+2002,Germany,Non-methane Volatile Organic Compounds,1466.449
+2003,Germany,Non-methane Volatile Organic Compounds,1394.503
+2004,Germany,Non-methane Volatile Organic Compounds,1402.023
+2005,Germany,Non-methane Volatile Organic Compounds,1348.956
+2006,Germany,Non-methane Volatile Organic Compounds,1368.96
+2007,Germany,Non-methane Volatile Organic Compounds,1301.429
+2008,Germany,Non-methane Volatile Organic Compounds,1241.82
+2009,Germany,Non-methane Volatile Organic Compounds,1136.091
+2010,Germany,Non-methane Volatile Organic Compounds,1257.136
+2011,Germany,Non-methane Volatile Organic Compounds,1147.264
+2012,Germany,Non-methane Volatile Organic Compounds,1146.069
+2013,Germany,Non-methane Volatile Organic Compounds,1102.053
+2014,Germany,Non-methane Volatile Organic Compounds,1068.351
+2015,Germany,Non-methane Volatile Organic Compounds,1041.583
+2016,Germany,Non-methane Volatile Organic Compounds,1042.817
+2017,Germany,Non-methane Volatile Organic Compounds,1068.396
+2000,Greece,Sulphur Oxides,531.566
+2001,Greece,Sulphur Oxides,536.686
+2002,Greece,Sulphur Oxides,525.021
+2003,Greece,Sulphur Oxides,532.233
+2004,Greece,Sulphur Oxides,528.411
+2005,Greece,Sulphur Oxides,549.367
+2006,Greece,Sulphur Oxides,504.889
+2007,Greece,Sulphur Oxides,490.622
+2008,Greece,Sulphur Oxides,423.166
+2009,Greece,Sulphur Oxides,352.298
+2010,Greece,Sulphur Oxides,205.021
+2011,Greece,Sulphur Oxides,146.217
+2012,Greece,Sulphur Oxides,119.856
+2013,Greece,Sulphur Oxides,105.682
+2014,Greece,Sulphur Oxides,89.128
+2015,Greece,Sulphur Oxides,83.634
+2016,Greece,Sulphur Oxides,60.508
+2017,Greece,Sulphur Oxides,69.136
+2000,Greece,Nitrogen Oxides,429.613
+2001,Greece,Nitrogen Oxides,456.854
+2002,Greece,Nitrogen Oxides,450.86
+2003,Greece,Nitrogen Oxides,460.654
+2004,Greece,Nitrogen Oxides,465.226
+2005,Greece,Nitrogen Oxides,482.817
+2006,Greece,Nitrogen Oxides,486.195
+2007,Greece,Nitrogen Oxides,483.865
+2008,Greece,Nitrogen Oxides,456.858
+2009,Greece,Nitrogen Oxides,440.84
+2010,Greece,Nitrogen Oxides,365.511
+2011,Greece,Nitrogen Oxides,327.481
+2012,Greece,Nitrogen Oxides,287.674
+2013,Greece,Nitrogen Oxides,273.561
+2014,Greece,Nitrogen Oxides,269.402
+2015,Greece,Nitrogen Oxides,264.389
+2016,Greece,Nitrogen Oxides,264.175
+2017,Greece,Nitrogen Oxides,269.762
+2000,Greece,Particulates (PM10),110.622
+2001,Greece,Particulates (PM10),114.931
+2002,Greece,Particulates (PM10),113.505
+2003,Greece,Particulates (PM10),108.353
+2004,Greece,Particulates (PM10),114.648
+2005,Greece,Particulates (PM10),104.363
+2006,Greece,Particulates (PM10),108.812
+2007,Greece,Particulates (PM10),102.742
+2008,Greece,Particulates (PM10),114.415
+2009,Greece,Particulates (PM10),106.795
+2010,Greece,Particulates (PM10),82.014
+2011,Greece,Particulates (PM10),64.579
+2012,Greece,Particulates (PM10),60.141
+2013,Greece,Particulates (PM10),57.12
+2014,Greece,Particulates (PM10),59.327
+2015,Greece,Particulates (PM10),54.276
+2016,Greece,Particulates (PM10),55.655
+2017,Greece,Particulates (PM10),54.602
+2000,Greece,Particulates (PM2.5),49.381
+2001,Greece,Particulates (PM2.5),52.509
+2002,Greece,Particulates (PM2.5),48.711
+2003,Greece,Particulates (PM2.5),47.772
+2004,Greece,Particulates (PM2.5),49.759
+2005,Greece,Particulates (PM2.5),47.651
+2006,Greece,Particulates (PM2.5),48.289
+2007,Greece,Particulates (PM2.5),46.643
+2008,Greece,Particulates (PM2.5),48.097
+2009,Greece,Particulates (PM2.5),48.007
+2010,Greece,Particulates (PM2.5),38.967
+2011,Greece,Particulates (PM2.5),34.244
+2012,Greece,Particulates (PM2.5),33.375
+2013,Greece,Particulates (PM2.5),29.442
+2014,Greece,Particulates (PM2.5),29.049
+2015,Greece,Particulates (PM2.5),27.476
+2016,Greece,Particulates (PM2.5),26.179
+2017,Greece,Particulates (PM2.5),27.211
+2000,Greece,Carbon Monoxide,878.802
+2001,Greece,Carbon Monoxide,878.298
+2002,Greece,Carbon Monoxide,816.803
+2003,Greece,Carbon Monoxide,779.044
+2004,Greece,Carbon Monoxide,772.743
+2005,Greece,Carbon Monoxide,717.751
+2006,Greece,Carbon Monoxide,739.132
+2007,Greece,Carbon Monoxide,673.391
+2008,Greece,Carbon Monoxide,630.583
+2009,Greece,Carbon Monoxide,575.872
+2010,Greece,Carbon Monoxide,521.983
+2011,Greece,Carbon Monoxide,477.426
+2012,Greece,Carbon Monoxide,504.007
+2013,Greece,Carbon Monoxide,417.793
+2014,Greece,Carbon Monoxide,417.175
+2015,Greece,Carbon Monoxide,396.888
+2016,Greece,Carbon Monoxide,352.021
+2017,Greece,Carbon Monoxide,366.497
+2000,Greece,Non-methane Volatile Organic Compounds,302.068
+2001,Greece,Non-methane Volatile Organic Compounds,299.16
+2002,Greece,Non-methane Volatile Organic Compounds,310.626
+2003,Greece,Non-methane Volatile Organic Compounds,322.074
+2004,Greece,Non-methane Volatile Organic Compounds,333.981
+2005,Greece,Non-methane Volatile Organic Compounds,325.743
+2006,Greece,Non-methane Volatile Organic Compounds,303.266
+2007,Greece,Non-methane Volatile Organic Compounds,279.685
+2008,Greece,Non-methane Volatile Organic Compounds,257.53
+2009,Greece,Non-methane Volatile Organic Compounds,249.103
+2010,Greece,Non-methane Volatile Organic Compounds,218.676
+2011,Greece,Non-methane Volatile Organic Compounds,200.218
+2012,Greece,Non-methane Volatile Organic Compounds,190.829
+2013,Greece,Non-methane Volatile Organic Compounds,173.751
+2014,Greece,Non-methane Volatile Organic Compounds,168.966
+2015,Greece,Non-methane Volatile Organic Compounds,162.266
+2016,Greece,Non-methane Volatile Organic Compounds,154.931
+2017,Greece,Non-methane Volatile Organic Compounds,152.03
+2000,Hungary,Sulphur Oxides,427.192
+2001,Hungary,Sulphur Oxides,346.286
+2002,Hungary,Sulphur Oxides,272.368
+2003,Hungary,Sulphur Oxides,246.021
+2004,Hungary,Sulphur Oxides,151.475
+2005,Hungary,Sulphur Oxides,42.981
+2006,Hungary,Sulphur Oxides,39.203
+2007,Hungary,Sulphur Oxides,36.282
+2008,Hungary,Sulphur Oxides,35.875
+2009,Hungary,Sulphur Oxides,29.768
+2010,Hungary,Sulphur Oxides,30.473
+2011,Hungary,Sulphur Oxides,34.307
+2012,Hungary,Sulphur Oxides,30.546
+2013,Hungary,Sulphur Oxides,29.393
+2014,Hungary,Sulphur Oxides,26.018
+2015,Hungary,Sulphur Oxides,24.296
+2016,Hungary,Sulphur Oxides,22.985
+2017,Hungary,Sulphur Oxides,27.693
+2000,Hungary,Nitrogen Oxides,184.916
+2001,Hungary,Nitrogen Oxides,184.92
+2002,Hungary,Nitrogen Oxides,177.213
+2003,Hungary,Nitrogen Oxides,180.79
+2004,Hungary,Nitrogen Oxides,178.65
+2005,Hungary,Nitrogen Oxides,175.867
+2006,Hungary,Nitrogen Oxides,168.156
+2007,Hungary,Nitrogen Oxides,164.213
+2008,Hungary,Nitrogen Oxides,158.577
+2009,Hungary,Nitrogen Oxides,147.542
+2010,Hungary,Nitrogen Oxides,144.442
+2011,Hungary,Nitrogen Oxides,134.628
+2012,Hungary,Nitrogen Oxides,126.732
+2013,Hungary,Nitrogen Oxides,124.298
+2014,Hungary,Nitrogen Oxides,122.137
+2015,Hungary,Nitrogen Oxides,123.954
+2016,Hungary,Nitrogen Oxides,116.407
+2017,Hungary,Nitrogen Oxides,118.753
+2000,Hungary,Particulates (PM10),72.346
+2001,Hungary,Particulates (PM10),78.686
+2002,Hungary,Particulates (PM10),60.684
+2003,Hungary,Particulates (PM10),72.765
+2004,Hungary,Particulates (PM10),74.648
+2005,Hungary,Particulates (PM10),72.277
+2006,Hungary,Particulates (PM10),63.736
+2007,Hungary,Particulates (PM10),61.818
+2008,Hungary,Particulates (PM10),64.617
+2009,Hungary,Particulates (PM10),76.166
+2010,Hungary,Particulates (PM10),71.622
+2011,Hungary,Particulates (PM10),74.463
+2012,Hungary,Particulates (PM10),73.215
+2013,Hungary,Particulates (PM10),77.644
+2014,Hungary,Particulates (PM10),72.639
+2015,Hungary,Particulates (PM10),73.572
+2016,Hungary,Particulates (PM10),70.518
+2017,Hungary,Particulates (PM10),68.862
+2000,Hungary,Particulates (PM2.5),48.202
+2001,Hungary,Particulates (PM2.5),52.01
+2002,Hungary,Particulates (PM2.5),36.993
+2003,Hungary,Particulates (PM2.5),46.154
+2004,Hungary,Particulates (PM2.5),42.624
+2005,Hungary,Particulates (PM2.5),40.078
+2006,Hungary,Particulates (PM2.5),40.219
+2007,Hungary,Particulates (PM2.5),40.121
+2008,Hungary,Particulates (PM2.5),36.109
+2009,Hungary,Particulates (PM2.5),46.726
+2010,Hungary,Particulates (PM2.5),49.423
+2011,Hungary,Particulates (PM2.5),55.23
+2012,Hungary,Particulates (PM2.5),57.846
+2013,Hungary,Particulates (PM2.5),58.584
+2014,Hungary,Particulates (PM2.5),49.452
+2015,Hungary,Particulates (PM2.5),51.675
+2016,Hungary,Particulates (PM2.5),49.87
+2017,Hungary,Particulates (PM2.5),47.984
+2000,Hungary,Carbon Monoxide,829.458
+2001,Hungary,Carbon Monoxide,839.001
+2002,Hungary,Carbon Monoxide,691.076
+2003,Hungary,Carbon Monoxide,816.641
+2004,Hungary,Carbon Monoxide,749.819
+2005,Hungary,Carbon Monoxide,681.731
+2006,Hungary,Carbon Monoxide,581.683
+2007,Hungary,Carbon Monoxide,539.222
+2008,Hungary,Carbon Monoxide,480.371
+2009,Hungary,Carbon Monoxide,521.197
+2010,Hungary,Carbon Monoxide,523.145
+2011,Hungary,Carbon Monoxide,530.088
+2012,Hungary,Carbon Monoxide,545.515
+2013,Hungary,Carbon Monoxide,537.817
+2014,Hungary,Carbon Monoxide,460.125
+2015,Hungary,Carbon Monoxide,444.916
+2016,Hungary,Carbon Monoxide,436.43
+2017,Hungary,Carbon Monoxide,422.376
+2000,Hungary,Non-methane Volatile Organic Compounds,197.057
+2001,Hungary,Non-methane Volatile Organic Compounds,198.818
+2002,Hungary,Non-methane Volatile Organic Compounds,184.764
+2003,Hungary,Non-methane Volatile Organic Compounds,188.377
+2004,Hungary,Non-methane Volatile Organic Compounds,181.701
+2005,Hungary,Non-methane Volatile Organic Compounds,171.496
+2006,Hungary,Non-methane Volatile Organic Compounds,158.792
+2007,Hungary,Non-methane Volatile Organic Compounds,155.211
+2008,Hungary,Non-methane Volatile Organic Compounds,149.631
+2009,Hungary,Non-methane Volatile Organic Compounds,149.953
+2010,Hungary,Non-methane Volatile Organic Compounds,146.034
+2011,Hungary,Non-methane Volatile Organic Compounds,150.236
+2012,Hungary,Non-methane Volatile Organic Compounds,151.939
+2013,Hungary,Non-methane Volatile Organic Compounds,151.155
+2014,Hungary,Non-methane Volatile Organic Compounds,141.288
+2015,Hungary,Non-methane Volatile Organic Compounds,144.098
+2016,Hungary,Non-methane Volatile Organic Compounds,141.983
+2017,Hungary,Non-methane Volatile Organic Compounds,141.473
+2000,Iceland,Sulphur Oxides,38.765
+2001,Iceland,Sulphur Oxides,41.713
+2002,Iceland,Sulphur Oxides,44.931
+2003,Iceland,Sulphur Oxides,41.468
+2004,Iceland,Sulphur Oxides,36.542
+2005,Iceland,Sulphur Oxides,42.53
+2006,Iceland,Sulphur Oxides,42.39
+2007,Iceland,Sulphur Oxides,60.653
+2008,Iceland,Sulphur Oxides,78.117
+2009,Iceland,Sulphur Oxides,72.563
+2010,Iceland,Sulphur Oxides,77.132
+2011,Iceland,Sulphur Oxides,83.714
+2012,Iceland,Sulphur Oxides,86.471
+2013,Iceland,Sulphur Oxides,72.141
+2014,Iceland,Sulphur Oxides,66.307
+2015,Iceland,Sulphur Oxides,60.585
+2016,Iceland,Sulphur Oxides,51.635
+2017,Iceland,Sulphur Oxides,49.724
+2000,Iceland,Nitrogen Oxides,33.153
+2001,Iceland,Nitrogen Oxides,29.594
+2002,Iceland,Nitrogen Oxides,31.733
+2003,Iceland,Nitrogen Oxides,31.113
+2004,Iceland,Nitrogen Oxides,32.061
+2005,Iceland,Nitrogen Oxides,28.608
+2006,Iceland,Nitrogen Oxides,28.275
+2007,Iceland,Nitrogen Oxides,30.922
+2008,Iceland,Nitrogen Oxides,28.474
+2009,Iceland,Nitrogen Oxides,28.288
+2010,Iceland,Nitrogen Oxides,26.704
+2011,Iceland,Nitrogen Oxides,24.178
+2012,Iceland,Nitrogen Oxides,24.111
+2013,Iceland,Nitrogen Oxides,23.228
+2014,Iceland,Nitrogen Oxides,23.077
+2015,Iceland,Nitrogen Oxides,23.61
+2016,Iceland,Nitrogen Oxides,21.541
+2017,Iceland,Nitrogen Oxides,21.967
+2000,Iceland,Particulates (PM10),1.66
+2001,Iceland,Particulates (PM10),1.667
+2002,Iceland,Particulates (PM10),1.561
+2003,Iceland,Particulates (PM10),1.644
+2004,Iceland,Particulates (PM10),1.888
+2005,Iceland,Particulates (PM10),1.838
+2006,Iceland,Particulates (PM10),2.262
+2007,Iceland,Particulates (PM10),2.523
+2008,Iceland,Particulates (PM10),2.406
+2009,Iceland,Particulates (PM10),2.149
+2010,Iceland,Particulates (PM10),2.015
+2011,Iceland,Particulates (PM10),1.813
+2012,Iceland,Particulates (PM10),1.994
+2013,Iceland,Particulates (PM10),1.862
+2014,Iceland,Particulates (PM10),1.889
+2015,Iceland,Particulates (PM10),1.871
+2016,Iceland,Particulates (PM10),1.713
+2017,Iceland,Particulates (PM10),1.679
+2000,Iceland,Particulates (PM2.5),1.357
+2001,Iceland,Particulates (PM2.5),1.362
+2002,Iceland,Particulates (PM2.5),1.265
+2003,Iceland,Particulates (PM2.5),1.323
+2004,Iceland,Particulates (PM2.5),1.506
+2005,Iceland,Particulates (PM2.5),1.456
+2006,Iceland,Particulates (PM2.5),1.822
+2007,Iceland,Particulates (PM2.5),1.98
+2008,Iceland,Particulates (PM2.5),1.92
+2009,Iceland,Particulates (PM2.5),1.698
+2010,Iceland,Particulates (PM2.5),1.584
+2011,Iceland,Particulates (PM2.5),1.399
+2012,Iceland,Particulates (PM2.5),1.579
+2013,Iceland,Particulates (PM2.5),1.489
+2014,Iceland,Particulates (PM2.5),1.5
+2015,Iceland,Particulates (PM2.5),1.479
+2016,Iceland,Particulates (PM2.5),1.335
+2017,Iceland,Particulates (PM2.5),1.281
+2000,Iceland,Carbon Monoxide,64.172
+2001,Iceland,Carbon Monoxide,62.392
+2002,Iceland,Carbon Monoxide,61.835
+2003,Iceland,Carbon Monoxide,60.476
+2004,Iceland,Carbon Monoxide,60.847
+2005,Iceland,Carbon Monoxide,60.612
+2006,Iceland,Carbon Monoxide,66.738
+2007,Iceland,Carbon Monoxide,78.84
+2008,Iceland,Carbon Monoxide,117.756
+2009,Iceland,Carbon Monoxide,118.858
+2010,Iceland,Carbon Monoxide,117.105
+2011,Iceland,Carbon Monoxide,114.238
+2012,Iceland,Carbon Monoxide,115.234
+2013,Iceland,Carbon Monoxide,116.61
+2014,Iceland,Carbon Monoxide,123.592
+2015,Iceland,Carbon Monoxide,118.405
+2016,Iceland,Carbon Monoxide,117.312
+2017,Iceland,Carbon Monoxide,121.283
+2000,Iceland,Non-methane Volatile Organic Compounds,8.657
+2001,Iceland,Non-methane Volatile Organic Compounds,8.113
+2002,Iceland,Non-methane Volatile Organic Compounds,7.883
+2003,Iceland,Non-methane Volatile Organic Compounds,7.614
+2004,Iceland,Non-methane Volatile Organic Compounds,7.694
+2005,Iceland,Non-methane Volatile Organic Compounds,7.475
+2006,Iceland,Non-methane Volatile Organic Compounds,7.446
+2007,Iceland,Non-methane Volatile Organic Compounds,7.282
+2008,Iceland,Non-methane Volatile Organic Compounds,6.891
+2009,Iceland,Non-methane Volatile Organic Compounds,6.364
+2010,Iceland,Non-methane Volatile Organic Compounds,5.873
+2011,Iceland,Non-methane Volatile Organic Compounds,5.689
+2012,Iceland,Non-methane Volatile Organic Compounds,5.552
+2013,Iceland,Non-methane Volatile Organic Compounds,5.418
+2014,Iceland,Non-methane Volatile Organic Compounds,5.594
+2015,Iceland,Non-methane Volatile Organic Compounds,5.624
+2016,Iceland,Non-methane Volatile Organic Compounds,5.778
+2017,Iceland,Non-methane Volatile Organic Compounds,6.72
+2000,Ireland,Sulphur Oxides,144.221
+2001,Ireland,Sulphur Oxides,142.266
+2002,Ireland,Sulphur Oxides,106.468
+2003,Ireland,Sulphur Oxides,82.463
+2004,Ireland,Sulphur Oxides,73.075
+2005,Ireland,Sulphur Oxides,72.874
+2006,Ireland,Sulphur Oxides,60.791
+2007,Ireland,Sulphur Oxides,54.571
+2008,Ireland,Sulphur Oxides,45.141
+2009,Ireland,Sulphur Oxides,32.333
+2010,Ireland,Sulphur Oxides,26.244
+2011,Ireland,Sulphur Oxides,24.697
+2012,Ireland,Sulphur Oxides,23.229
+2013,Ireland,Sulphur Oxides,23.343
+2014,Ireland,Sulphur Oxides,16.994
+2015,Ireland,Sulphur Oxides,15.14
+2016,Ireland,Sulphur Oxides,13.674
+2017,Ireland,Sulphur Oxides,13.137
+2000,Ireland,Nitrogen Oxides,175.7
+2001,Ireland,Nitrogen Oxides,174.475
+2002,Ireland,Nitrogen Oxides,166.969
+2003,Ireland,Nitrogen Oxides,166.284
+2004,Ireland,Nitrogen Oxides,167.529
+2005,Ireland,Nitrogen Oxides,169.51
+2006,Ireland,Nitrogen Oxides,164.633
+2007,Ireland,Nitrogen Oxides,160.784
+2008,Ireland,Nitrogen Oxides,146.462
+2009,Ireland,Nitrogen Oxides,122.424
+2010,Ireland,Nitrogen Oxides,116.388
+2011,Ireland,Nitrogen Oxides,104.262
+2012,Ireland,Nitrogen Oxides,106.95
+2013,Ireland,Nitrogen Oxides,108.235
+2014,Ireland,Nitrogen Oxides,108.245
+2015,Ireland,Nitrogen Oxides,110.537
+2016,Ireland,Nitrogen Oxides,111.05
+2017,Ireland,Nitrogen Oxides,109.009
+2000,Ireland,Particulates (PM10),38.66
+2001,Ireland,Particulates (PM10),39.603
+2002,Ireland,Particulates (PM10),38.555
+2003,Ireland,Particulates (PM10),39.748
+2004,Ireland,Particulates (PM10),40.483
+2005,Ireland,Particulates (PM10),41.489
+2006,Ireland,Particulates (PM10),41.788
+2007,Ireland,Particulates (PM10),41.277
+2008,Ireland,Particulates (PM10),39.393
+2009,Ireland,Particulates (PM10),38.051
+2010,Ireland,Particulates (PM10),35.391
+2011,Ireland,Particulates (PM10),29.279
+2012,Ireland,Particulates (PM10),28.898
+2013,Ireland,Particulates (PM10),29.332
+2014,Ireland,Particulates (PM10),28.003
+2015,Ireland,Particulates (PM10),28.265
+2016,Ireland,Particulates (PM10),27.521
+2017,Ireland,Particulates (PM10),27.271
+2000,Ireland,Particulates (PM2.5),20.168
+2001,Ireland,Particulates (PM2.5),19.87
+2002,Ireland,Particulates (PM2.5),19.075
+2003,Ireland,Particulates (PM2.5),18.709
+2004,Ireland,Particulates (PM2.5),18.776
+2005,Ireland,Particulates (PM2.5),19.419
+2006,Ireland,Particulates (PM2.5),18.858
+2007,Ireland,Particulates (PM2.5),18.277
+2008,Ireland,Particulates (PM2.5),18.089
+2009,Ireland,Particulates (PM2.5),17.381
+2010,Ireland,Particulates (PM2.5),16.443
+2011,Ireland,Particulates (PM2.5),14.743
+2012,Ireland,Particulates (PM2.5),14.322
+2013,Ireland,Particulates (PM2.5),14.69
+2014,Ireland,Particulates (PM2.5),13.544
+2015,Ireland,Particulates (PM2.5),13.54
+2016,Ireland,Particulates (PM2.5),12.789
+2017,Ireland,Particulates (PM2.5),11.96
+2000,Ireland,Carbon Monoxide,245.362
+2001,Ireland,Carbon Monoxide,241.164
+2002,Ireland,Carbon Monoxide,229.509
+2003,Ireland,Carbon Monoxide,220.095
+2004,Ireland,Carbon Monoxide,215.52
+2005,Ireland,Carbon Monoxide,214.004
+2006,Ireland,Carbon Monoxide,196.869
+2007,Ireland,Carbon Monoxide,183.827
+2008,Ireland,Carbon Monoxide,176.072
+2009,Ireland,Carbon Monoxide,154.938
+2010,Ireland,Carbon Monoxide,141.744
+2011,Ireland,Carbon Monoxide,130.469
+2012,Ireland,Carbon Monoxide,123.541
+2013,Ireland,Carbon Monoxide,116.693
+2014,Ireland,Carbon Monoxide,110.037
+2015,Ireland,Carbon Monoxide,107.125
+2016,Ireland,Carbon Monoxide,100.832
+2017,Ireland,Carbon Monoxide,87.3
+2000,Ireland,Non-methane Volatile Organic Compounds,121.53
+2001,Ireland,Non-methane Volatile Organic Compounds,121.625
+2002,Ireland,Non-methane Volatile Organic Compounds,121.623
+2003,Ireland,Non-methane Volatile Organic Compounds,120.042
+2004,Ireland,Non-methane Volatile Organic Compounds,119.39
+2005,Ireland,Non-methane Volatile Organic Compounds,120.241
+2006,Ireland,Non-methane Volatile Organic Compounds,119.98
+2007,Ireland,Non-methane Volatile Organic Compounds,119.769
+2008,Ireland,Non-methane Volatile Organic Compounds,115.377
+2009,Ireland,Non-methane Volatile Organic Compounds,113.219
+2010,Ireland,Non-methane Volatile Organic Compounds,109.687
+2011,Ireland,Non-methane Volatile Organic Compounds,106.913
+2012,Ireland,Non-methane Volatile Organic Compounds,108.282
+2013,Ireland,Non-methane Volatile Organic Compounds,110.643
+2014,Ireland,Non-methane Volatile Organic Compounds,106.592
+2015,Ireland,Non-methane Volatile Organic Compounds,106.783
+2016,Ireland,Non-methane Volatile Organic Compounds,108.383
+2017,Ireland,Non-methane Volatile Organic Compounds,113.194
+2000,Italy,Sulphur Oxides,755.998
+2001,Italy,Sulphur Oxides,704.304
+2002,Italy,Sulphur Oxides,623.205
+2003,Italy,Sulphur Oxides,524.391
+2004,Italy,Sulphur Oxides,487.71
+2005,Italy,Sulphur Oxides,409.544
+2006,Italy,Sulphur Oxides,387.771
+2007,Italy,Sulphur Oxides,345.304
+2008,Italy,Sulphur Oxides,290.045
+2009,Italy,Sulphur Oxides,237.417
+2010,Italy,Sulphur Oxides,218.441
+2011,Italy,Sulphur Oxides,196.226
+2012,Italy,Sulphur Oxides,177.966
+2013,Italy,Sulphur Oxides,146.58
+2014,Italy,Sulphur Oxides,131.599
+2015,Italy,Sulphur Oxides,124.503
+2016,Italy,Sulphur Oxides,116.974
+2017,Italy,Sulphur Oxides,115.36
+2000,Italy,Nitrogen Oxides,1493.227
+2001,Italy,Nitrogen Oxides,1463.269
+2002,Italy,Nitrogen Oxides,1404.715
+2003,Italy,Nitrogen Oxides,1386.559
+2004,Italy,Nitrogen Oxides,1340.592
+2005,Italy,Nitrogen Oxides,1285.277
+2006,Italy,Nitrogen Oxides,1215.729
+2007,Italy,Nitrogen Oxides,1160.124
+2008,Italy,Nitrogen Oxides,1074.524
+2009,Italy,Nitrogen Oxides,990.262
+2010,Italy,Nitrogen Oxides,972.674
+2011,Italy,Nitrogen Oxides,934.906
+2012,Italy,Nitrogen Oxides,876.061
+2013,Italy,Nitrogen Oxides,822.062
+2014,Italy,Nitrogen Oxides,804.088
+2015,Italy,Nitrogen Oxides,778.306
+2016,Italy,Nitrogen Oxides,754.274
+2017,Italy,Nitrogen Oxides,712.143
+2000,Italy,Particulates (PM10),245.761
+2001,Italy,Particulates (PM10),239.318
+2002,Italy,Particulates (PM10),208.086
+2003,Italy,Particulates (PM10),225.161
+2004,Italy,Particulates (PM10),199.633
+2005,Italy,Particulates (PM10),219.465
+2006,Italy,Particulates (PM10),221.787
+2007,Italy,Particulates (PM10),244.649
+2008,Italy,Particulates (PM10),256.493
+2009,Italy,Particulates (PM10),237.116
+2010,Italy,Particulates (PM10),230.958
+2011,Italy,Particulates (PM10),183.645
+2012,Italy,Particulates (PM10),209.26
+2013,Italy,Particulates (PM10),203.759
+2014,Italy,Particulates (PM10),186.825
+2015,Italy,Particulates (PM10),192.582
+2016,Italy,Particulates (PM10),188.746
+2017,Italy,Particulates (PM10),195.723
+2000,Italy,Particulates (PM2.5),196.417
+2001,Italy,Particulates (PM2.5),188.694
+2002,Italy,Particulates (PM2.5),158.778
+2003,Italy,Particulates (PM2.5),177.271
+2004,Italy,Particulates (PM2.5),152.366
+2005,Italy,Particulates (PM2.5),174.751
+2006,Italy,Particulates (PM2.5),179.046
+2007,Italy,Particulates (PM2.5),203.253
+2008,Italy,Particulates (PM2.5),216.733
+2009,Italy,Particulates (PM2.5),201.685
+2010,Italy,Particulates (PM2.5),196.508
+2011,Italy,Particulates (PM2.5),150.115
+2012,Italy,Particulates (PM2.5),176.998
+2013,Italy,Particulates (PM2.5),172.12
+2014,Italy,Particulates (PM2.5),155.478
+2015,Italy,Particulates (PM2.5),161.344
+2016,Italy,Particulates (PM2.5),157.275
+2017,Italy,Particulates (PM2.5),164.71
+2000,Italy,Carbon Monoxide,4897.357
+2001,Italy,Carbon Monoxide,4574.168
+2002,Italy,Carbon Monoxide,3986.26
+2003,Italy,Carbon Monoxide,4038.307
+2004,Italy,Carbon Monoxide,3477.506
+2005,Italy,Carbon Monoxide,3509.746
+2006,Italy,Carbon Monoxide,3362.69
+2007,Italy,Carbon Monoxide,3423.155
+2008,Italy,Carbon Monoxide,3548.621
+2009,Italy,Carbon Monoxide,3154.986
+2010,Italy,Carbon Monoxide,3121.114
+2011,Italy,Carbon Monoxide,2478.159
+2012,Italy,Carbon Monoxide,2704.452
+2013,Italy,Carbon Monoxide,2535.311
+2014,Italy,Carbon Monoxide,2298.637
+2015,Italy,Carbon Monoxide,2343.015
+2016,Italy,Carbon Monoxide,2268.535
+2017,Italy,Carbon Monoxide,2330.483
+2000,Italy,Non-methane Volatile Organic Compounds,1602.257
+2001,Italy,Non-methane Volatile Organic Compounds,1536.681
+2002,Italy,Non-methane Volatile Organic Compounds,1447.306
+2003,Italy,Non-methane Volatile Organic Compounds,1426.564
+2004,Italy,Non-methane Volatile Organic Compounds,1330.759
+2005,Italy,Non-methane Volatile Organic Compounds,1348.061
+2006,Italy,Non-methane Volatile Organic Compounds,1310.204
+2007,Italy,Non-methane Volatile Organic Compounds,1293.611
+2008,Italy,Non-methane Volatile Organic Compounds,1266.16
+2009,Italy,Non-methane Volatile Organic Compounds,1187.991
+2010,Italy,Non-methane Volatile Organic Compounds,1123.972
+2011,Italy,Non-methane Volatile Organic Compounds,1032.585
+2012,Italy,Non-methane Volatile Organic Compounds,1024.158
+2013,Italy,Non-methane Volatile Organic Compounds,996.414
+2014,Italy,Non-methane Volatile Organic Compounds,931.467
+2015,Italy,Non-methane Volatile Organic Compounds,914.531
+2016,Italy,Non-methane Volatile Organic Compounds,899.252
+2017,Italy,Non-methane Volatile Organic Compounds,934.856
+2000,Japan,Sulphur Oxides,1130.87
+2001,Japan,Sulphur Oxides,1124.155
+2002,Japan,Sulphur Oxides,1115.085
+2003,Japan,Sulphur Oxides,1088.312
+2004,Japan,Sulphur Oxides,1058.249
+2005,Japan,Sulphur Oxides,1010.671
+2006,Japan,Sulphur Oxides,970.29
+2007,Japan,Sulphur Oxides,926.756
+2008,Japan,Sulphur Oxides,860.185
+2009,Japan,Sulphur Oxides,802.593
+2010,Japan,Sulphur Oxides,772.12
+2011,Japan,Sulphur Oxides,727.946
+2012,Japan,Sulphur Oxides,724.164
+2013,Japan,Sulphur Oxides,715.464
+2014,Japan,Sulphur Oxides,706.514
+2015,Japan,Sulphur Oxides,701.734
+2016,Japan,Sulphur Oxides,701.011
+2017,Japan,Sulphur Oxides,695.703
+2000,Japan,Nitrogen Oxides,2040.445
+2001,Japan,Nitrogen Oxides,2019.558
+2002,Japan,Nitrogen Oxides,2066.797
+2003,Japan,Nitrogen Oxides,2047.673
+2004,Japan,Nitrogen Oxides,1978.302
+2005,Japan,Nitrogen Oxides,1953.54
+2006,Japan,Nitrogen Oxides,1869.755
+2007,Japan,Nitrogen Oxides,1780.022
+2008,Japan,Nitrogen Oxides,1646.318
+2009,Japan,Nitrogen Oxides,1558.757
+2010,Japan,Nitrogen Oxides,1562.231
+2011,Japan,Nitrogen Oxides,1498.967
+2012,Japan,Nitrogen Oxides,1452.81
+2013,Japan,Nitrogen Oxides,1394.168
+2014,Japan,Nitrogen Oxides,1339.152
+2015,Japan,Nitrogen Oxides,1302.196
+2016,Japan,Nitrogen Oxides,1421.702
+2017,Japan,Nitrogen Oxides,1378.43
+2000,Japan,Carbon Monoxide,3764.849
+2001,Japan,Carbon Monoxide,3574.313
+2002,Japan,Carbon Monoxide,3446.023
+2003,Japan,Carbon Monoxide,3374.533
+2004,Japan,Carbon Monoxide,3277.34
+2005,Japan,Carbon Monoxide,2956.422
+2006,Japan,Carbon Monoxide,2961.916
+2007,Japan,Carbon Monoxide,2954.187
+2008,Japan,Carbon Monoxide,2758.525
+2009,Japan,Carbon Monoxide,2662.447
+2010,Japan,Carbon Monoxide,3295.483
+2011,Japan,Carbon Monoxide,2726.727
+2012,Japan,Carbon Monoxide,2807.362
+2013,Japan,Carbon Monoxide,2724.875
+2014,Japan,Carbon Monoxide,2626.108
+2015,Japan,Carbon Monoxide,2510.936
+2016,Japan,Carbon Monoxide,2783.233
+2017,Japan,Carbon Monoxide,2656.052
+2000,Japan,Non-methane Volatile Organic Compounds,1748.905
+2001,Japan,Non-methane Volatile Organic Compounds,1582.198
+2002,Japan,Non-methane Volatile Organic Compounds,1516.441
+2003,Japan,Non-methane Volatile Organic Compounds,1456.765
+2004,Japan,Non-methane Volatile Organic Compounds,1416.139
+2005,Japan,Non-methane Volatile Organic Compounds,1369.741
+2006,Japan,Non-methane Volatile Organic Compounds,1334.196
+2007,Japan,Non-methane Volatile Organic Compounds,1273.463
+2008,Japan,Non-methane Volatile Organic Compounds,1143.616
+2009,Japan,Non-methane Volatile Organic Compounds,1044.082
+2010,Japan,Non-methane Volatile Organic Compounds,1049.103
+2011,Japan,Non-methane Volatile Organic Compounds,993.939
+2012,Japan,Non-methane Volatile Organic Compounds,957.544
+2013,Japan,Non-methane Volatile Organic Compounds,952.807
+2014,Japan,Non-methane Volatile Organic Compounds,919.791
+2015,Japan,Non-methane Volatile Organic Compounds,905.185
+2016,Japan,Non-methane Volatile Organic Compounds,904.334
+2017,Japan,Non-methane Volatile Organic Compounds,898.753
+2000,Korea,Sulphur Oxides,490.761
+2001,Korea,Sulphur Oxides,487.734
+2002,Korea,Sulphur Oxides,474.084
+2003,Korea,Sulphur Oxides,469.145
+2004,Korea,Sulphur Oxides,446.804
+2005,Korea,Sulphur Oxides,408.462
+2006,Korea,Sulphur Oxides,446.488
+2007,Korea,Sulphur Oxides,402.525
+2008,Korea,Sulphur Oxides,417.98
+2009,Korea,Sulphur Oxides,387.727
+2010,Korea,Sulphur Oxides,401.741
+2011,Korea,Sulphur Oxides,433.959
+2012,Korea,Sulphur Oxides,417.645
+2013,Korea,Sulphur Oxides,404.66
+2014,Korea,Sulphur Oxides,343.161
+2015,Korea,Sulphur Oxides,352.213
+2016,Korea,Sulphur Oxides,358.873
+2000,Korea,Nitrogen Oxides,1122.844
+2001,Korea,Nitrogen Oxides,1219.02
+2002,Korea,Nitrogen Oxides,1242.265
+2003,Korea,Nitrogen Oxides,1362.141
+2004,Korea,Nitrogen Oxides,1377.526
+2005,Korea,Nitrogen Oxides,1306.724
+2006,Korea,Nitrogen Oxides,1274.969
+2007,Korea,Nitrogen Oxides,1187.76
+2008,Korea,Nitrogen Oxides,1044.925
+2009,Korea,Nitrogen Oxides,1014.133
+2010,Korea,Nitrogen Oxides,1061.051
+2011,Korea,Nitrogen Oxides,1040.017
+2012,Korea,Nitrogen Oxides,1075.052
+2013,Korea,Nitrogen Oxides,1090.449
+2014,Korea,Nitrogen Oxides,1135.59
+2015,Korea,Nitrogen Oxides,1154.829
+2016,Korea,Nitrogen Oxides,1245.434
+2000,Korea,Particulates (PM10),61.719
+2001,Korea,Particulates (PM10),67.368
+2002,Korea,Particulates (PM10),65.1
+2003,Korea,Particulates (PM10),66.357
+2004,Korea,Particulates (PM10),62.491
+2005,Korea,Particulates (PM10),67.343
+2006,Korea,Particulates (PM10),64.795
+2007,Korea,Particulates (PM10),97.849
+2008,Korea,Particulates (PM10),110.477
+2009,Korea,Particulates (PM10),103.393
+2010,Korea,Particulates (PM10),116.52
+2011,Korea,Particulates (PM10),130.79
+2012,Korea,Particulates (PM10),119.709
+2013,Korea,Particulates (PM10),121.253
+2014,Korea,Particulates (PM10),97.646
+2015,Korea,Particulates (PM10),146.349
+2016,Korea,Particulates (PM10),150.081
+2011,Korea,Particulates (PM2.5),81.446
+2012,Korea,Particulates (PM2.5),76.043
+2013,Korea,Particulates (PM2.5),76.523
+2014,Korea,Particulates (PM2.5),63.041
+2015,Korea,Particulates (PM2.5),84.32
+2016,Korea,Particulates (PM2.5),86.318
+2000,Korea,Carbon Monoxide,900.569
+2001,Korea,Carbon Monoxide,845.076
+2002,Korea,Carbon Monoxide,822.767
+2003,Korea,Carbon Monoxide,805.414
+2004,Korea,Carbon Monoxide,816.954
+2005,Korea,Carbon Monoxide,788.917
+2006,Korea,Carbon Monoxide,829.938
+2007,Korea,Carbon Monoxide,801.992
+2008,Korea,Carbon Monoxide,696.13
+2009,Korea,Carbon Monoxide,810.246
+2010,Korea,Carbon Monoxide,759.624
+2011,Korea,Carbon Monoxide,710.284
+2012,Korea,Carbon Monoxide,697.054
+2013,Korea,Carbon Monoxide,689.817
+2014,Korea,Carbon Monoxide,587.995
+2015,Korea,Carbon Monoxide,714.939
+2016,Korea,Carbon Monoxide,718.277
+2000,Korea,Non-methane Volatile Organic Compounds,680.365
+2001,Korea,Non-methane Volatile Organic Compounds,708.255
+2002,Korea,Non-methane Volatile Organic Compounds,714.478
+2003,Korea,Non-methane Volatile Organic Compounds,732.357
+2004,Korea,Non-methane Volatile Organic Compounds,771.599
+2005,Korea,Non-methane Volatile Organic Compounds,730.488
+2006,Korea,Non-methane Volatile Organic Compounds,768.034
+2007,Korea,Non-methane Volatile Organic Compounds,844.349
+2008,Korea,Non-methane Volatile Organic Compounds,826.545
+2009,Korea,Non-methane Volatile Organic Compounds,817.317
+2010,Korea,Non-methane Volatile Organic Compounds,830.267
+2011,Korea,Non-methane Volatile Organic Compounds,846.987
+2012,Korea,Non-methane Volatile Organic Compounds,883.788
+2013,Korea,Non-methane Volatile Organic Compounds,885.695
+2014,Korea,Non-methane Volatile Organic Compounds,877.61
+2015,Korea,Non-methane Volatile Organic Compounds,960.87
+2016,Korea,Non-methane Volatile Organic Compounds,973.415
+2000,Luxembourg,Sulphur Oxides,3.271
+2001,Luxembourg,Sulphur Oxides,3.842
+2002,Luxembourg,Sulphur Oxides,2.829
+2003,Luxembourg,Sulphur Oxides,2.642
+2004,Luxembourg,Sulphur Oxides,2.444
+2005,Luxembourg,Sulphur Oxides,2.419
+2006,Luxembourg,Sulphur Oxides,2.795
+2007,Luxembourg,Sulphur Oxides,2.36
+2008,Luxembourg,Sulphur Oxides,1.726
+2009,Luxembourg,Sulphur Oxides,1.705
+2010,Luxembourg,Sulphur Oxides,1.683
+2011,Luxembourg,Sulphur Oxides,1.265
+2012,Luxembourg,Sulphur Oxides,1.471
+2013,Luxembourg,Sulphur Oxides,1.52
+2014,Luxembourg,Sulphur Oxides,1.546
+2015,Luxembourg,Sulphur Oxides,1.341
+2016,Luxembourg,Sulphur Oxides,0.991
+2017,Luxembourg,Sulphur Oxides,1.011
+2000,Luxembourg,Nitrogen Oxides,41.086
+2001,Luxembourg,Nitrogen Oxides,42.505
+2002,Luxembourg,Nitrogen Oxides,42.603
+2003,Luxembourg,Nitrogen Oxides,45.134
+2004,Luxembourg,Nitrogen Oxides,53.678
+2005,Luxembourg,Nitrogen Oxides,54.667
+2006,Luxembourg,Nitrogen Oxides,48.388
+2007,Luxembourg,Nitrogen Oxides,42.886
+2008,Luxembourg,Nitrogen Oxides,38.735
+2009,Luxembourg,Nitrogen Oxides,33.783
+2010,Luxembourg,Nitrogen Oxides,33.763
+2011,Luxembourg,Nitrogen Oxides,33.779
+2012,Luxembourg,Nitrogen Oxides,30.97
+2013,Luxembourg,Nitrogen Oxides,27.503
+2014,Luxembourg,Nitrogen Oxides,25.539
+2015,Luxembourg,Nitrogen Oxides,22.386
+2016,Luxembourg,Nitrogen Oxides,20.348
+2017,Luxembourg,Nitrogen Oxides,18.312
+2000,Luxembourg,Particulates (PM10),2.919
+2001,Luxembourg,Particulates (PM10),3.114
+2002,Luxembourg,Particulates (PM10),3.079
+2003,Luxembourg,Particulates (PM10),3.53
+2004,Luxembourg,Particulates (PM10),3.141
+2005,Luxembourg,Particulates (PM10),3.076
+2006,Luxembourg,Particulates (PM10),2.921
+2007,Luxembourg,Particulates (PM10),2.641
+2008,Luxembourg,Particulates (PM10),2.582
+2009,Luxembourg,Particulates (PM10),2.54
+2010,Luxembourg,Particulates (PM10),2.406
+2011,Luxembourg,Particulates (PM10),2.214
+2012,Luxembourg,Particulates (PM10),2.206
+2013,Luxembourg,Particulates (PM10),2.149
+2014,Luxembourg,Particulates (PM10),2.205
+2015,Luxembourg,Particulates (PM10),2.109
+2016,Luxembourg,Particulates (PM10),2.108
+2017,Luxembourg,Particulates (PM10),2.005
+2000,Luxembourg,Particulates (PM2.5),2.383
+2001,Luxembourg,Particulates (PM2.5),2.551
+2002,Luxembourg,Particulates (PM2.5),2.343
+2003,Luxembourg,Particulates (PM2.5),2.571
+2004,Luxembourg,Particulates (PM2.5),2.527
+2005,Luxembourg,Particulates (PM2.5),2.45
+2006,Luxembourg,Particulates (PM2.5),2.315
+2007,Luxembourg,Particulates (PM2.5),2.039
+2008,Luxembourg,Particulates (PM2.5),1.966
+2009,Luxembourg,Particulates (PM2.5),1.856
+2010,Luxembourg,Particulates (PM2.5),1.808
+2011,Luxembourg,Particulates (PM2.5),1.595
+2012,Luxembourg,Particulates (PM2.5),1.601
+2013,Luxembourg,Particulates (PM2.5),1.551
+2014,Luxembourg,Particulates (PM2.5),1.598
+2015,Luxembourg,Particulates (PM2.5),1.371
+2016,Luxembourg,Particulates (PM2.5),1.509
+2017,Luxembourg,Particulates (PM2.5),1.345
+2000,Luxembourg,Carbon Monoxide,42.635
+2001,Luxembourg,Carbon Monoxide,44.222
+2002,Luxembourg,Carbon Monoxide,41.246
+2003,Luxembourg,Carbon Monoxide,40.281
+2004,Luxembourg,Carbon Monoxide,42.534
+2005,Luxembourg,Carbon Monoxide,38.157
+2006,Luxembourg,Carbon Monoxide,35.602
+2007,Luxembourg,Carbon Monoxide,39.137
+2008,Luxembourg,Carbon Monoxide,33.449
+2009,Luxembourg,Carbon Monoxide,29.707
+2010,Luxembourg,Carbon Monoxide,28.581
+2011,Luxembourg,Carbon Monoxide,26.214
+2012,Luxembourg,Carbon Monoxide,26.806
+2013,Luxembourg,Carbon Monoxide,26.181
+2014,Luxembourg,Carbon Monoxide,24.667
+2015,Luxembourg,Carbon Monoxide,20.711
+2016,Luxembourg,Carbon Monoxide,21.613
+2017,Luxembourg,Carbon Monoxide,21.899
+2000,Luxembourg,Non-methane Volatile Organic Compounds,15.626
+2001,Luxembourg,Non-methane Volatile Organic Compounds,15.422
+2002,Luxembourg,Non-methane Volatile Organic Compounds,15.429
+2003,Luxembourg,Non-methane Volatile Organic Compounds,14.225
+2004,Luxembourg,Non-methane Volatile Organic Compounds,15.837
+2005,Luxembourg,Non-methane Volatile Organic Compounds,15.057
+2006,Luxembourg,Non-methane Volatile Organic Compounds,13.253
+2007,Luxembourg,Non-methane Volatile Organic Compounds,12.31
+2008,Luxembourg,Non-methane Volatile Organic Compounds,13.566
+2009,Luxembourg,Non-methane Volatile Organic Compounds,12.45
+2010,Luxembourg,Non-methane Volatile Organic Compounds,11.389
+2011,Luxembourg,Non-methane Volatile Organic Compounds,11.404
+2012,Luxembourg,Non-methane Volatile Organic Compounds,11.769
+2013,Luxembourg,Non-methane Volatile Organic Compounds,11.894
+2014,Luxembourg,Non-methane Volatile Organic Compounds,11.112
+2015,Luxembourg,Non-methane Volatile Organic Compounds,11.362
+2016,Luxembourg,Non-methane Volatile Organic Compounds,11.621
+2017,Luxembourg,Non-methane Volatile Organic Compounds,12.097
+2005,Mexico,Sulphur Oxides,3101.653
+2008,Mexico,Sulphur Oxides,2241.214
+2016,Mexico,Sulphur Oxides,1361
+2005,Mexico,Nitrogen Oxides,2784.421
+2008,Mexico,Nitrogen Oxides,3206.888
+2016,Mexico,Nitrogen Oxides,1907
+2005,Mexico,Particulates (PM10),811.239
+2008,Mexico,Particulates (PM10),798.998
+2016,Mexico,Particulates (PM10),888
+2005,Mexico,Particulates (PM2.5),594.18
+2008,Mexico,Particulates (PM2.5),571.039
+2016,Mexico,Particulates (PM2.5),602
+2005,Mexico,Carbon Monoxide,41974.989
+2008,Mexico,Carbon Monoxide,33036.104
+2016,Mexico,Carbon Monoxide,8243
+2005,Mexico,Non-methane Volatile Organic Compounds,5163.654
+2008,Mexico,Non-methane Volatile Organic Compounds,6028.06
+2016,Mexico,Non-methane Volatile Organic Compounds,2212
+2000,Netherlands,Sulphur Oxides,76.351
+2001,Netherlands,Sulphur Oxides,77.105
+2002,Netherlands,Sulphur Oxides,69.522
+2003,Netherlands,Sulphur Oxides,64.829
+2004,Netherlands,Sulphur Oxides,67.333
+2005,Netherlands,Sulphur Oxides,65.762
+2006,Netherlands,Sulphur Oxides,66.01
+2007,Netherlands,Sulphur Oxides,61.675
+2008,Netherlands,Sulphur Oxides,51.687
+2009,Netherlands,Sulphur Oxides,38.506
+2010,Netherlands,Sulphur Oxides,34.8
+2011,Netherlands,Sulphur Oxides,33.993
+2012,Netherlands,Sulphur Oxides,34.049
+2013,Netherlands,Sulphur Oxides,30.043
+2014,Netherlands,Sulphur Oxides,29.828
+2015,Netherlands,Sulphur Oxides,30.601
+2016,Netherlands,Sulphur Oxides,28.299
+2017,Netherlands,Sulphur Oxides,26.638
+2000,Netherlands,Nitrogen Oxides,445.123
+2001,Netherlands,Nitrogen Oxides,432.39
+2002,Netherlands,Nitrogen Oxides,416.559
+2003,Netherlands,Nitrogen Oxides,411.646
+2004,Netherlands,Nitrogen Oxides,398.414
+2005,Netherlands,Nitrogen Oxides,389.904
+2006,Netherlands,Nitrogen Oxides,381.936
+2007,Netherlands,Nitrogen Oxides,363.178
+2008,Netherlands,Nitrogen Oxides,354.7
+2009,Netherlands,Nitrogen Oxides,323.909
+2010,Netherlands,Nitrogen Oxides,317.526
+2011,Netherlands,Nitrogen Oxides,301.14
+2012,Netherlands,Nitrogen Oxides,284.382
+2013,Netherlands,Nitrogen Oxides,275.429
+2014,Netherlands,Nitrogen Oxides,255.072
+2015,Netherlands,Nitrogen Oxides,255.102
+2016,Netherlands,Nitrogen Oxides,240.894
+2017,Netherlands,Nitrogen Oxides,233.944
+2000,Netherlands,Particulates (PM10),43.267
+2001,Netherlands,Particulates (PM10),41.488
+2002,Netherlands,Particulates (PM10),40.629
+2003,Netherlands,Particulates (PM10),38.256
+2004,Netherlands,Particulates (PM10),37.275
+2005,Netherlands,Particulates (PM10),36.212
+2006,Netherlands,Particulates (PM10),35.765
+2007,Netherlands,Particulates (PM10),35.116
+2008,Netherlands,Particulates (PM10),33.873
+2009,Netherlands,Particulates (PM10),31.754
+2010,Netherlands,Particulates (PM10),30.96
+2011,Netherlands,Particulates (PM10),30.301
+2012,Netherlands,Particulates (PM10),28.702
+2013,Netherlands,Particulates (PM10),28.134
+2014,Netherlands,Particulates (PM10),27.8
+2015,Netherlands,Particulates (PM10),27.454
+2016,Netherlands,Particulates (PM10),26.733
+2017,Netherlands,Particulates (PM10),26.452
+2000,Netherlands,Particulates (PM2.5),29.095
+2001,Netherlands,Particulates (PM2.5),27.482
+2002,Netherlands,Particulates (PM2.5),26.23
+2003,Netherlands,Particulates (PM2.5),25.396
+2004,Netherlands,Particulates (PM2.5),24.352
+2005,Netherlands,Particulates (PM2.5),23.315
+2006,Netherlands,Particulates (PM2.5),23.225
+2007,Netherlands,Particulates (PM2.5),21.925
+2008,Netherlands,Particulates (PM2.5),20.672
+2009,Netherlands,Particulates (PM2.5),18.939
+2010,Netherlands,Particulates (PM2.5),18.159
+2011,Netherlands,Particulates (PM2.5),17.214
+2012,Netherlands,Particulates (PM2.5),15.879
+2013,Netherlands,Particulates (PM2.5),15.413
+2014,Netherlands,Particulates (PM2.5),14.974
+2015,Netherlands,Particulates (PM2.5),14.485
+2016,Netherlands,Particulates (PM2.5),13.692
+2017,Netherlands,Particulates (PM2.5),13.547
+2000,Netherlands,Carbon Monoxide,753.18
+2001,Netherlands,Carbon Monoxide,751.116
+2002,Netherlands,Carbon Monoxide,742.147
+2003,Netherlands,Carbon Monoxide,736.356
+2004,Netherlands,Carbon Monoxide,746.32
+2005,Netherlands,Carbon Monoxide,727.211
+2006,Netherlands,Carbon Monoxide,738.466
+2007,Netherlands,Carbon Monoxide,726.018
+2008,Netherlands,Carbon Monoxide,730.559
+2009,Netherlands,Carbon Monoxide,680.21
+2010,Netherlands,Carbon Monoxide,677.797
+2011,Netherlands,Carbon Monoxide,652.687
+2012,Netherlands,Carbon Monoxide,619.726
+2013,Netherlands,Carbon Monoxide,590.191
+2014,Netherlands,Carbon Monoxide,566.438
+2015,Netherlands,Carbon Monoxide,568.32
+2016,Netherlands,Carbon Monoxide,556.632
+2017,Netherlands,Carbon Monoxide,556.482
+2000,Netherlands,Non-methane Volatile Organic Compounds,331.737
+2001,Netherlands,Non-methane Volatile Organic Compounds,302.646
+2002,Netherlands,Non-methane Volatile Organic Compounds,287.612
+2003,Netherlands,Non-methane Volatile Organic Compounds,280.456
+2004,Netherlands,Non-methane Volatile Organic Compounds,260.496
+2005,Netherlands,Non-methane Volatile Organic Compounds,264.932
+2006,Netherlands,Non-methane Volatile Organic Compounds,259.191
+2007,Netherlands,Non-methane Volatile Organic Compounds,261.961
+2008,Netherlands,Non-methane Volatile Organic Compounds,256.341
+2009,Netherlands,Non-methane Volatile Organic Compounds,257.314
+2010,Netherlands,Non-methane Volatile Organic Compounds,267.237
+2011,Netherlands,Non-methane Volatile Organic Compounds,263.964
+2012,Netherlands,Non-methane Volatile Organic Compounds,260.188
+2013,Netherlands,Non-methane Volatile Organic Compounds,256.503
+2014,Netherlands,Non-methane Volatile Organic Compounds,244.653
+2015,Netherlands,Non-methane Volatile Organic Compounds,252.238
+2016,Netherlands,Non-methane Volatile Organic Compounds,250.117
+2017,Netherlands,Non-methane Volatile Organic Compounds,251.403
+2000,New Zealand,Sulphur Oxides,70.642
+2001,New Zealand,Sulphur Oxides,74.835
+2002,New Zealand,Sulphur Oxides,76.417
+2003,New Zealand,Sulphur Oxides,90.003
+2004,New Zealand,Sulphur Oxides,86.93
+2005,New Zealand,Sulphur Oxides,93.456
+2006,New Zealand,Sulphur Oxides,89.695
+2007,New Zealand,Sulphur Oxides,82.02
+2008,New Zealand,Sulphur Oxides,87.314
+2009,New Zealand,Sulphur Oxides,74.309
+2010,New Zealand,Sulphur Oxides,73.609
+2011,New Zealand,Sulphur Oxides,74.43
+2012,New Zealand,Sulphur Oxides,78.588
+2013,New Zealand,Sulphur Oxides,76.102
+2014,New Zealand,Sulphur Oxides,74.311
+2015,New Zealand,Sulphur Oxides,75.827
+2016,New Zealand,Sulphur Oxides,69.364
+2017,New Zealand,Sulphur Oxides,73.645
+2000,New Zealand,Nitrogen Oxides,145.006
+2001,New Zealand,Nitrogen Oxides,152.095
+2002,New Zealand,Nitrogen Oxides,155.443
+2003,New Zealand,Nitrogen Oxides,163.028
+2004,New Zealand,Nitrogen Oxides,157.447
+2005,New Zealand,Nitrogen Oxides,165.901
+2006,New Zealand,Nitrogen Oxides,165.243
+2007,New Zealand,Nitrogen Oxides,161.523
+2008,New Zealand,Nitrogen Oxides,164.192
+2009,New Zealand,Nitrogen Oxides,154.193
+2010,New Zealand,Nitrogen Oxides,153.839
+2011,New Zealand,Nitrogen Oxides,153.58
+2012,New Zealand,Nitrogen Oxides,161.431
+2013,New Zealand,Nitrogen Oxides,161.861
+2014,New Zealand,Nitrogen Oxides,162.421
+2015,New Zealand,Nitrogen Oxides,163.236
+2016,New Zealand,Nitrogen Oxides,157.256
+2017,New Zealand,Nitrogen Oxides,167.557
+2000,New Zealand,Carbon Monoxide,678.687
+2001,New Zealand,Carbon Monoxide,684.31
+2002,New Zealand,Carbon Monoxide,704.296
+2003,New Zealand,Carbon Monoxide,721.146
+2004,New Zealand,Carbon Monoxide,740.161
+2005,New Zealand,Carbon Monoxide,732.83
+2006,New Zealand,Carbon Monoxide,733.651
+2007,New Zealand,Carbon Monoxide,747.22
+2008,New Zealand,Carbon Monoxide,726.735
+2009,New Zealand,Carbon Monoxide,710.883
+2010,New Zealand,Carbon Monoxide,724.767
+2011,New Zealand,Carbon Monoxide,712.584
+2012,New Zealand,Carbon Monoxide,706.179
+2013,New Zealand,Carbon Monoxide,702.767
+2014,New Zealand,Carbon Monoxide,702.683
+2015,New Zealand,Carbon Monoxide,713.569
+2016,New Zealand,Carbon Monoxide,729.77
+2017,New Zealand,Carbon Monoxide,746.044
+2000,New Zealand,Non-methane Volatile Organic Compounds,169.852
+2001,New Zealand,Non-methane Volatile Organic Compounds,171.26
+2002,New Zealand,Non-methane Volatile Organic Compounds,173.572
+2003,New Zealand,Non-methane Volatile Organic Compounds,176.246
+2004,New Zealand,Non-methane Volatile Organic Compounds,180.262
+2005,New Zealand,Non-methane Volatile Organic Compounds,179.503
+2006,New Zealand,Non-methane Volatile Organic Compounds,180.97
+2007,New Zealand,Non-methane Volatile Organic Compounds,182.871
+2008,New Zealand,Non-methane Volatile Organic Compounds,181.72
+2009,New Zealand,Non-methane Volatile Organic Compounds,179.87
+2010,New Zealand,Non-methane Volatile Organic Compounds,180.977
+2011,New Zealand,Non-methane Volatile Organic Compounds,180.646
+2012,New Zealand,Non-methane Volatile Organic Compounds,179.818
+2013,New Zealand,Non-methane Volatile Organic Compounds,179.492
+2014,New Zealand,Non-methane Volatile Organic Compounds,180.776
+2015,New Zealand,Non-methane Volatile Organic Compounds,185.134
+2016,New Zealand,Non-methane Volatile Organic Compounds,188.362
+2017,New Zealand,Non-methane Volatile Organic Compounds,192.289
+2000,Norway,Sulphur Oxides,26.871
+2001,Norway,Sulphur Oxides,25.237
+2002,Norway,Sulphur Oxides,22.826
+2003,Norway,Sulphur Oxides,22.94
+2004,Norway,Sulphur Oxides,24.53
+2005,Norway,Sulphur Oxides,23.587
+2006,Norway,Sulphur Oxides,21.25
+2007,Norway,Sulphur Oxides,19.473
+2008,Norway,Sulphur Oxides,19.707
+2009,Norway,Sulphur Oxides,14.626
+2010,Norway,Sulphur Oxides,18.619
+2011,Norway,Sulphur Oxides,18.531
+2012,Norway,Sulphur Oxides,16.862
+2013,Norway,Sulphur Oxides,17.086
+2014,Norway,Sulphur Oxides,16.966
+2015,Norway,Sulphur Oxides,16.54
+2016,Norway,Sulphur Oxides,15.341
+2017,Norway,Sulphur Oxides,14.906
+2000,Norway,Nitrogen Oxides,223.141
+2001,Norway,Nitrogen Oxides,221.065
+2002,Norway,Nitrogen Oxides,216.24
+2003,Norway,Nitrogen Oxides,216.584
+2004,Norway,Nitrogen Oxides,214.229
+2005,Norway,Nitrogen Oxides,216.942
+2006,Norway,Nitrogen Oxides,215.551
+2007,Norway,Nitrogen Oxides,216.874
+2008,Norway,Nitrogen Oxides,210.113
+2009,Norway,Nitrogen Oxides,200.597
+2010,Norway,Nitrogen Oxides,205.466
+2011,Norway,Nitrogen Oxides,206.466
+2012,Norway,Nitrogen Oxides,202.369
+2013,Norway,Nitrogen Oxides,195.101
+2014,Norway,Nitrogen Oxides,187.886
+2015,Norway,Nitrogen Oxides,177.596
+2016,Norway,Nitrogen Oxides,169.255
+2017,Norway,Nitrogen Oxides,161.872
+2000,Norway,Particulates (PM10),50.899
+2001,Norway,Particulates (PM10),50.567
+2002,Norway,Particulates (PM10),51.472
+2003,Norway,Particulates (PM10),48.656
+2004,Norway,Particulates (PM10),46.939
+2005,Norway,Particulates (PM10),47.736
+2006,Norway,Particulates (PM10),45.991
+2007,Norway,Particulates (PM10),46.835
+2008,Norway,Particulates (PM10),44.637
+2009,Norway,Particulates (PM10),42.67
+2010,Norway,Particulates (PM10),45.934
+2011,Norway,Particulates (PM10),43.336
+2012,Norway,Particulates (PM10),45.298
+2013,Norway,Particulates (PM10),39.43
+2014,Norway,Particulates (PM10),36.291
+2015,Norway,Particulates (PM10),36.276
+2016,Norway,Particulates (PM10),35.502
+2017,Norway,Particulates (PM10),36.852
+2000,Norway,Particulates (PM2.5),42.729
+2001,Norway,Particulates (PM2.5),42.112
+2002,Norway,Particulates (PM2.5),43.088
+2003,Norway,Particulates (PM2.5),40.479
+2004,Norway,Particulates (PM2.5),38.857
+2005,Norway,Particulates (PM2.5),39.147
+2006,Norway,Particulates (PM2.5),37.408
+2007,Norway,Particulates (PM2.5),37.456
+2008,Norway,Particulates (PM2.5),36.417
+2009,Norway,Particulates (PM2.5),34.623
+2010,Norway,Particulates (PM2.5),37.941
+2011,Norway,Particulates (PM2.5),35.295
+2012,Norway,Particulates (PM2.5),35.912
+2013,Norway,Particulates (PM2.5),31.097
+2014,Norway,Particulates (PM2.5),27.9
+2015,Norway,Particulates (PM2.5),28.113
+2016,Norway,Particulates (PM2.5),27.187
+2017,Norway,Particulates (PM2.5),27.898
+2000,Norway,Carbon Monoxide,681.923
+2001,Norway,Carbon Monoxide,665.562
+2002,Norway,Carbon Monoxide,657.295
+2003,Norway,Carbon Monoxide,634.833
+2004,Norway,Carbon Monoxide,605.675
+2005,Norway,Carbon Monoxide,608.849
+2006,Norway,Carbon Monoxide,585.818
+2007,Norway,Carbon Monoxide,570.153
+2008,Norway,Carbon Monoxide,556.574
+2009,Norway,Carbon Monoxide,507.622
+2010,Norway,Carbon Monoxide,519.169
+2011,Norway,Carbon Monoxide,491.75
+2012,Norway,Carbon Monoxide,483.903
+2013,Norway,Carbon Monoxide,451.957
+2014,Norway,Carbon Monoxide,432.147
+2015,Norway,Carbon Monoxide,436.671
+2016,Norway,Carbon Monoxide,432.787
+2017,Norway,Carbon Monoxide,435.738
+2000,Norway,Non-methane Volatile Organic Compounds,406.308
+2001,Norway,Non-methane Volatile Organic Compounds,415.72
+2002,Norway,Non-methane Volatile Organic Compounds,370.297
+2003,Norway,Non-methane Volatile Organic Compounds,326.258
+2004,Norway,Non-methane Volatile Organic Compounds,292.667
+2005,Norway,Non-methane Volatile Organic Compounds,243.401
+2006,Norway,Non-methane Volatile Organic Compounds,213.904
+2007,Norway,Non-methane Volatile Organic Compounds,209.638
+2008,Norway,Non-methane Volatile Organic Compounds,176.394
+2009,Norway,Non-methane Volatile Organic Compounds,160.167
+2010,Norway,Non-methane Volatile Organic Compounds,161.043
+2011,Norway,Non-methane Volatile Organic Compounds,153.833
+2012,Norway,Non-methane Volatile Organic Compounds,153.783
+2013,Norway,Non-methane Volatile Organic Compounds,156.269
+2014,Norway,Non-methane Volatile Organic Compounds,165.702
+2015,Norway,Non-methane Volatile Organic Compounds,163.996
+2016,Norway,Non-methane Volatile Organic Compounds,156.87
+2017,Norway,Non-methane Volatile Organic Compounds,152.424
+2000,Poland,Sulphur Oxides,1410.642
+2001,Poland,Sulphur Oxides,1385.825
+2002,Poland,Sulphur Oxides,1298.306
+2003,Poland,Sulphur Oxides,1268.14
+2004,Poland,Sulphur Oxides,1211.3
+2005,Poland,Sulphur Oxides,1171.567
+2006,Poland,Sulphur Oxides,1236.497
+2007,Poland,Sulphur Oxides,1174.118
+2008,Poland,Sulphur Oxides,947.329
+2009,Poland,Sulphur Oxides,811.353
+2010,Poland,Sulphur Oxides,874.532
+2011,Poland,Sulphur Oxides,836.459
+2012,Poland,Sulphur Oxides,803.035
+2013,Poland,Sulphur Oxides,768.096
+2014,Poland,Sulphur Oxides,723.674
+2015,Poland,Sulphur Oxides,711.439
+2016,Poland,Sulphur Oxides,590.607
+2017,Poland,Sulphur Oxides,582.578
+2000,Poland,Nitrogen Oxides,851.548
+2001,Poland,Nitrogen Oxides,828.546
+2002,Poland,Nitrogen Oxides,797.39
+2003,Poland,Nitrogen Oxides,818.168
+2004,Poland,Nitrogen Oxides,839.463
+2005,Poland,Nitrogen Oxides,869.159
+2006,Poland,Nitrogen Oxides,889.869
+2007,Poland,Nitrogen Oxides,892.319
+2008,Poland,Nitrogen Oxides,862.476
+2009,Poland,Nitrogen Oxides,855.815
+2010,Poland,Nitrogen Oxides,887.335
+2011,Poland,Nitrogen Oxides,871.154
+2012,Poland,Nitrogen Oxides,835.483
+2013,Poland,Nitrogen Oxides,795.262
+2014,Poland,Nitrogen Oxides,745.963
+2015,Poland,Nitrogen Oxides,724.516
+2016,Poland,Nitrogen Oxides,741.342
+2017,Poland,Nitrogen Oxides,802.568
+2000,Poland,Particulates (PM10),273.818
+2001,Poland,Particulates (PM10),278.35
+2002,Poland,Particulates (PM10),279.785
+2003,Poland,Particulates (PM10),274.95
+2004,Poland,Particulates (PM10),279.213
+2005,Poland,Particulates (PM10),284.242
+2006,Poland,Particulates (PM10),294.612
+2007,Poland,Particulates (PM10),279.279
+2008,Poland,Particulates (PM10),274.073
+2009,Poland,Particulates (PM10),261.274
+2010,Poland,Particulates (PM10),275.052
+2011,Poland,Particulates (PM10),257.484
+2012,Poland,Particulates (PM10),255.311
+2013,Poland,Particulates (PM10),244.918
+2014,Poland,Particulates (PM10),232.395
+2015,Poland,Particulates (PM10),231.639
+2016,Poland,Particulates (PM10),240.646
+2017,Poland,Particulates (PM10),246.321
+2000,Poland,Particulates (PM2.5),159.371
+2001,Poland,Particulates (PM2.5),159.002
+2002,Poland,Particulates (PM2.5),158.921
+2003,Poland,Particulates (PM2.5),157.418
+2004,Poland,Particulates (PM2.5),160.639
+2005,Poland,Particulates (PM2.5),160.441
+2006,Poland,Particulates (PM2.5),164.185
+2007,Poland,Particulates (PM2.5),158.342
+2008,Poland,Particulates (PM2.5),155.054
+2009,Poland,Particulates (PM2.5),147.831
+2010,Poland,Particulates (PM2.5),156.955
+2011,Poland,Particulates (PM2.5),150.264
+2012,Poland,Particulates (PM2.5),148.821
+2013,Poland,Particulates (PM2.5),143.731
+2014,Poland,Particulates (PM2.5),136.025
+2015,Poland,Particulates (PM2.5),136.024
+2016,Poland,Particulates (PM2.5),141.888
+2017,Poland,Particulates (PM2.5),147.293
+2000,Poland,Carbon Monoxide,3358.776
+2001,Poland,Carbon Monoxide,3200.774
+2002,Poland,Carbon Monoxide,3198.693
+2003,Poland,Carbon Monoxide,3090.045
+2004,Poland,Carbon Monoxide,3092.973
+2005,Poland,Carbon Monoxide,3092.588
+2006,Poland,Carbon Monoxide,3231.635
+2007,Poland,Carbon Monoxide,2999.693
+2008,Poland,Carbon Monoxide,3011.903
+2009,Poland,Carbon Monoxide,2943.046
+2010,Poland,Carbon Monoxide,3081.577
+2011,Poland,Carbon Monoxide,2786.88
+2012,Poland,Carbon Monoxide,2792.844
+2013,Poland,Carbon Monoxide,2661.84
+2014,Poland,Carbon Monoxide,2391.97
+2015,Poland,Carbon Monoxide,2346.914
+2016,Poland,Carbon Monoxide,2460.742
+2017,Poland,Carbon Monoxide,2547.502
+2000,Poland,Non-methane Volatile Organic Compounds,731.699
+2001,Poland,Non-methane Volatile Organic Compounds,704.951
+2002,Poland,Non-methane Volatile Organic Compounds,722.874
+2003,Poland,Non-methane Volatile Organic Compounds,702.524
+2004,Poland,Non-methane Volatile Organic Compounds,707.924
+2005,Poland,Non-methane Volatile Organic Compounds,721.139
+2006,Poland,Non-methane Volatile Organic Compounds,761.022
+2007,Poland,Non-methane Volatile Organic Compounds,733.12
+2008,Poland,Non-methane Volatile Organic Compounds,747.531
+2009,Poland,Non-methane Volatile Organic Compounds,747.966
+2010,Poland,Non-methane Volatile Organic Compounds,712.213
+2011,Poland,Non-methane Volatile Organic Compounds,694.53
+2012,Poland,Non-methane Volatile Organic Compounds,675.999
+2013,Poland,Non-methane Volatile Organic Compounds,632.696
+2014,Poland,Non-methane Volatile Organic Compounds,631.453
+2015,Poland,Non-methane Volatile Organic Compounds,640.831
+2016,Poland,Non-methane Volatile Organic Compounds,674.187
+2017,Poland,Non-methane Volatile Organic Compounds,690.755
+2000,Portugal,Sulphur Oxides,302.929
+2001,Portugal,Sulphur Oxides,281.909
+2002,Portugal,Sulphur Oxides,277.646
+2003,Portugal,Sulphur Oxides,187.423
+2004,Portugal,Sulphur Oxides,190.696
+2005,Portugal,Sulphur Oxides,192.148
+2006,Portugal,Sulphur Oxides,166.983
+2007,Portugal,Sulphur Oxides,159.042
+2008,Portugal,Sulphur Oxides,109.918
+2009,Portugal,Sulphur Oxides,76.649
+2010,Portugal,Sulphur Oxides,66.651
+2011,Portugal,Sulphur Oxides,60.375
+2012,Portugal,Sulphur Oxides,54.913
+2013,Portugal,Sulphur Oxides,49.593
+2014,Portugal,Sulphur Oxides,45.39
+2015,Portugal,Sulphur Oxides,47.379
+2016,Portugal,Sulphur Oxides,47.342
+2017,Portugal,Sulphur Oxides,48.865
+2000,Portugal,Nitrogen Oxides,304.141
+2001,Portugal,Nitrogen Oxides,301.114
+2002,Portugal,Nitrogen Oxides,308.009
+2003,Portugal,Nitrogen Oxides,282.739
+2004,Portugal,Nitrogen Oxides,285.185
+2005,Portugal,Nitrogen Oxides,293.027
+2006,Portugal,Nitrogen Oxides,266.219
+2007,Portugal,Nitrogen Oxides,255.366
+2008,Portugal,Nitrogen Oxides,236.146
+2009,Portugal,Nitrogen Oxides,223.887
+2010,Portugal,Nitrogen Oxides,204.843
+2011,Portugal,Nitrogen Oxides,187.346
+2012,Portugal,Nitrogen Oxides,173.693
+2013,Portugal,Nitrogen Oxides,170.523
+2014,Portugal,Nitrogen Oxides,167.715
+2015,Portugal,Nitrogen Oxides,171.191
+2016,Portugal,Nitrogen Oxides,164.899
+2017,Portugal,Nitrogen Oxides,167.96
+2000,Portugal,Particulates (PM10),108.635
+2001,Portugal,Particulates (PM10),120.221
+2002,Portugal,Particulates (PM10),124.208
+2003,Portugal,Particulates (PM10),107.431
+2004,Portugal,Particulates (PM10),108.38
+2005,Portugal,Particulates (PM10),106.999
+2006,Portugal,Particulates (PM10),106.804
+2007,Portugal,Particulates (PM10),96.183
+2008,Portugal,Particulates (PM10),95.646
+2009,Portugal,Particulates (PM10),93.568
+2010,Portugal,Particulates (PM10),87.08
+2011,Portugal,Particulates (PM10),92.536
+2012,Portugal,Particulates (PM10),84.369
+2013,Portugal,Particulates (PM10),73.191
+2014,Portugal,Particulates (PM10),66.925
+2015,Portugal,Particulates (PM10),68.411
+2016,Portugal,Particulates (PM10),70.18
+2017,Portugal,Particulates (PM10),71.492
+2000,Portugal,Particulates (PM2.5),73.101
+2001,Portugal,Particulates (PM2.5),70.485
+2002,Portugal,Particulates (PM2.5),70.289
+2003,Portugal,Particulates (PM2.5),66.382
+2004,Portugal,Particulates (PM2.5),67.513
+2005,Portugal,Particulates (PM2.5),65.76
+2006,Portugal,Particulates (PM2.5),61.804
+2007,Portugal,Particulates (PM2.5),60.618
+2008,Portugal,Particulates (PM2.5),57.955
+2009,Portugal,Particulates (PM2.5),54.668
+2010,Portugal,Particulates (PM2.5),54.719
+2011,Portugal,Particulates (PM2.5),55.908
+2012,Portugal,Particulates (PM2.5),53.141
+2013,Portugal,Particulates (PM2.5),50.944
+2014,Portugal,Particulates (PM2.5),50.103
+2015,Portugal,Particulates (PM2.5),50.066
+2016,Portugal,Particulates (PM2.5),49.748
+2017,Portugal,Particulates (PM2.5),49.956
+2000,Portugal,Carbon Monoxide,703.697
+2001,Portugal,Carbon Monoxide,640.657
+2002,Portugal,Carbon Monoxide,618.108
+2003,Portugal,Carbon Monoxide,594.895
+2004,Portugal,Carbon Monoxide,566.032
+2005,Portugal,Carbon Monoxide,532.744
+2006,Portugal,Carbon Monoxide,500.229
+2007,Portugal,Carbon Monoxide,475.011
+2008,Portugal,Carbon Monoxide,436.62
+2009,Portugal,Carbon Monoxide,413.739
+2010,Portugal,Carbon Monoxide,412.121
+2011,Portugal,Carbon Monoxide,383.51
+2012,Portugal,Carbon Monoxide,371.36
+2013,Portugal,Carbon Monoxide,352.549
+2014,Portugal,Carbon Monoxide,336.567
+2015,Portugal,Carbon Monoxide,345.344
+2016,Portugal,Carbon Monoxide,333.933
+2017,Portugal,Carbon Monoxide,352.016
+2000,Portugal,Non-methane Volatile Organic Compounds,245.507
+2001,Portugal,Non-methane Volatile Organic Compounds,241.07
+2002,Portugal,Non-methane Volatile Organic Compounds,235.911
+2003,Portugal,Non-methane Volatile Organic Compounds,225.175
+2004,Portugal,Non-methane Volatile Organic Compounds,218.991
+2005,Portugal,Non-methane Volatile Organic Compounds,208.332
+2006,Portugal,Non-methane Volatile Organic Compounds,201.99
+2007,Portugal,Non-methane Volatile Organic Compounds,197.568
+2008,Portugal,Non-methane Volatile Organic Compounds,186.567
+2009,Portugal,Non-methane Volatile Organic Compounds,173.959
+2010,Portugal,Non-methane Volatile Organic Compounds,176.093
+2011,Portugal,Non-methane Volatile Organic Compounds,167.356
+2012,Portugal,Non-methane Volatile Organic Compounds,164.274
+2013,Portugal,Non-methane Volatile Organic Compounds,163.819
+2014,Portugal,Non-methane Volatile Organic Compounds,168.561
+2015,Portugal,Non-methane Volatile Organic Compounds,169.066
+2016,Portugal,Non-methane Volatile Organic Compounds,165.687
+2017,Portugal,Non-methane Volatile Organic Compounds,166.907
+2000,Slovak Republic,Sulphur Oxides,116.701
+2001,Slovak Republic,Sulphur Oxides,122.863
+2002,Slovak Republic,Sulphur Oxides,99.163
+2003,Slovak Republic,Sulphur Oxides,101.871
+2004,Slovak Republic,Sulphur Oxides,93.058
+2005,Slovak Republic,Sulphur Oxides,85.999
+2006,Slovak Republic,Sulphur Oxides,84.572
+2007,Slovak Republic,Sulphur Oxides,68.979
+2008,Slovak Republic,Sulphur Oxides,67.609
+2009,Slovak Republic,Sulphur Oxides,62.751
+2010,Slovak Republic,Sulphur Oxides,67.746
+2011,Slovak Republic,Sulphur Oxides,67.046
+2012,Slovak Republic,Sulphur Oxides,57.01
+2013,Slovak Republic,Sulphur Oxides,51.74
+2014,Slovak Republic,Sulphur Oxides,44.469
+2015,Slovak Republic,Sulphur Oxides,66.78
+2016,Slovak Republic,Sulphur Oxides,26.257
+2017,Slovak Republic,Sulphur Oxides,26.914
+2000,Slovak Republic,Nitrogen Oxides,107.067
+2001,Slovak Republic,Nitrogen Oxides,108.037
+2002,Slovak Republic,Nitrogen Oxides,101.949
+2003,Slovak Republic,Nitrogen Oxides,99.923
+2004,Slovak Republic,Nitrogen Oxides,99.8
+2005,Slovak Republic,Nitrogen Oxides,103.252
+2006,Slovak Republic,Nitrogen Oxides,96.499
+2007,Slovak Republic,Nitrogen Oxides,95.96
+2008,Slovak Republic,Nitrogen Oxides,95.72
+2009,Slovak Republic,Nitrogen Oxides,86.896
+2010,Slovak Republic,Nitrogen Oxides,84.998
+2011,Slovak Republic,Nitrogen Oxides,77.375
+2012,Slovak Republic,Nitrogen Oxides,75.141
+2013,Slovak Republic,Nitrogen Oxides,72.943
+2014,Slovak Republic,Nitrogen Oxides,72.612
+2015,Slovak Republic,Nitrogen Oxides,72.301
+2016,Slovak Republic,Nitrogen Oxides,66.14
+2017,Slovak Republic,Nitrogen Oxides,65.105
+2000,Slovak Republic,Particulates (PM10),49.733
+2001,Slovak Republic,Particulates (PM10),48.883
+2002,Slovak Republic,Particulates (PM10),38.116
+2003,Slovak Republic,Particulates (PM10),36.995
+2004,Slovak Republic,Particulates (PM10),34.376
+2005,Slovak Republic,Particulates (PM10),40.371
+2006,Slovak Republic,Particulates (PM10),36.002
+2007,Slovak Republic,Particulates (PM10),31.9
+2008,Slovak Republic,Particulates (PM10),28.919
+2009,Slovak Republic,Particulates (PM10),26.78
+2010,Slovak Republic,Particulates (PM10),29.176
+2011,Slovak Republic,Particulates (PM10),27.18
+2012,Slovak Republic,Particulates (PM10),28.337
+2013,Slovak Republic,Particulates (PM10),26.163
+2014,Slovak Republic,Particulates (PM10),21.35
+2015,Slovak Republic,Particulates (PM10),23.054
+2016,Slovak Republic,Particulates (PM10),23.576
+2017,Slovak Republic,Particulates (PM10),22.55
+2000,Slovak Republic,Particulates (PM2.5),41.38
+2001,Slovak Republic,Particulates (PM2.5),40.671
+2002,Slovak Republic,Particulates (PM2.5),30.425
+2003,Slovak Republic,Particulates (PM2.5),29.872
+2004,Slovak Republic,Particulates (PM2.5),27.797
+2005,Slovak Republic,Particulates (PM2.5),34.345
+2006,Slovak Republic,Particulates (PM2.5),30.454
+2007,Slovak Republic,Particulates (PM2.5),26.667
+2008,Slovak Republic,Particulates (PM2.5),23.831
+2009,Slovak Republic,Particulates (PM2.5),21.801
+2010,Slovak Republic,Particulates (PM2.5),24.512
+2011,Slovak Republic,Particulates (PM2.5),22.639
+2012,Slovak Republic,Particulates (PM2.5),23.704
+2013,Slovak Republic,Particulates (PM2.5),21.634
+2014,Slovak Republic,Particulates (PM2.5),16.744
+2015,Slovak Republic,Particulates (PM2.5),18.472
+2016,Slovak Republic,Particulates (PM2.5),18.829
+2017,Slovak Republic,Particulates (PM2.5),18.034
+2000,Slovak Republic,Carbon Monoxide,546.297
+2001,Slovak Republic,Carbon Monoxide,562.778
+2002,Slovak Republic,Carbon Monoxide,483.108
+2003,Slovak Republic,Carbon Monoxide,509.419
+2004,Slovak Republic,Carbon Monoxide,513.652
+2005,Slovak Republic,Carbon Monoxide,556.726
+2006,Slovak Republic,Carbon Monoxide,509.908
+2007,Slovak Republic,Carbon Monoxide,506.127
+2008,Slovak Republic,Carbon Monoxide,469.617
+2009,Slovak Republic,Carbon Monoxide,412.33
+2010,Slovak Republic,Carbon Monoxide,451.515
+2011,Slovak Republic,Carbon Monoxide,419.775
+2012,Slovak Republic,Carbon Monoxide,427.567
+2013,Slovak Republic,Carbon Monoxide,398.891
+2014,Slovak Republic,Carbon Monoxide,358.636
+2015,Slovak Republic,Carbon Monoxide,370.222
+2016,Slovak Republic,Carbon Monoxide,376.719
+2017,Slovak Republic,Carbon Monoxide,364.893
+2000,Slovak Republic,Non-methane Volatile Organic Compounds,168.427
+2001,Slovak Republic,Non-methane Volatile Organic Compounds,166.107
+2002,Slovak Republic,Non-methane Volatile Organic Compounds,149.372
+2003,Slovak Republic,Non-methane Volatile Organic Compounds,148.481
+2004,Slovak Republic,Non-methane Volatile Organic Compounds,147.676
+2005,Slovak Republic,Non-methane Volatile Organic Compounds,151.167
+2006,Slovak Republic,Non-methane Volatile Organic Compounds,147.585
+2007,Slovak Republic,Non-methane Volatile Organic Compounds,144.594
+2008,Slovak Republic,Non-methane Volatile Organic Compounds,141.375
+2009,Slovak Republic,Non-methane Volatile Organic Compounds,131.369
+2010,Slovak Republic,Non-methane Volatile Organic Compounds,133.201
+2011,Slovak Republic,Non-methane Volatile Organic Compounds,127.106
+2012,Slovak Republic,Non-methane Volatile Organic Compounds,124.718
+2013,Slovak Republic,Non-methane Volatile Organic Compounds,107.04
+2014,Slovak Republic,Non-methane Volatile Organic Compounds,89.059
+2015,Slovak Republic,Non-methane Volatile Organic Compounds,97.092
+2016,Slovak Republic,Non-methane Volatile Organic Compounds,95.466
+2017,Slovak Republic,Non-methane Volatile Organic Compounds,89.462
+2000,Spain,Sulphur Oxides,1389.215
+2001,Spain,Sulphur Oxides,1328.811
+2002,Spain,Sulphur Oxides,1470.71
+2003,Spain,Sulphur Oxides,1217.236
+2004,Spain,Sulphur Oxides,1249.143
+2005,Spain,Sulphur Oxides,1205.782
+2006,Spain,Sulphur Oxides,1074.434
+2007,Spain,Sulphur Oxides,1044.668
+2008,Spain,Sulphur Oxides,382.611
+2009,Spain,Sulphur Oxides,284.264
+2010,Spain,Sulphur Oxides,243.977
+2011,Spain,Sulphur Oxides,280.6
+2012,Spain,Sulphur Oxides,279.47
+2013,Spain,Sulphur Oxides,221.441
+2014,Spain,Sulphur Oxides,243.298
+2015,Spain,Sulphur Oxides,259.841
+2016,Spain,Sulphur Oxides,217.583
+2017,Spain,Sulphur Oxides,220.538
+2000,Spain,Nitrogen Oxides,1360.918
+2001,Spain,Nitrogen Oxides,1329.818
+2002,Spain,Nitrogen Oxides,1365.732
+2003,Spain,Nitrogen Oxides,1356.529
+2004,Spain,Nitrogen Oxides,1389.453
+2005,Spain,Nitrogen Oxides,1370.116
+2006,Spain,Nitrogen Oxides,1321.916
+2007,Spain,Nitrogen Oxides,1312.909
+2008,Spain,Nitrogen Oxides,1104.54
+2009,Spain,Nitrogen Oxides,983.403
+2010,Spain,Nitrogen Oxides,926.36
+2011,Spain,Nitrogen Oxides,908.586
+2012,Spain,Nitrogen Oxides,873.882
+2013,Spain,Nitrogen Oxides,758.782
+2014,Spain,Nitrogen Oxides,775.513
+2015,Spain,Nitrogen Oxides,778.44
+2016,Spain,Nitrogen Oxides,743.066
+2017,Spain,Nitrogen Oxides,740.899
+2000,Spain,Particulates (PM10),236.868
+2001,Spain,Particulates (PM10),226.303
+2002,Spain,Particulates (PM10),231.697
+2003,Spain,Particulates (PM10),235.434
+2004,Spain,Particulates (PM10),235.796
+2005,Spain,Particulates (PM10),235.46
+2006,Spain,Particulates (PM10),233.636
+2007,Spain,Particulates (PM10),232.353
+2008,Spain,Particulates (PM10),206.68
+2009,Spain,Particulates (PM10),199.561
+2010,Spain,Particulates (PM10),190.686
+2011,Spain,Particulates (PM10),188.706
+2012,Spain,Particulates (PM10),180.721
+2013,Spain,Particulates (PM10),173.548
+2014,Spain,Particulates (PM10),173.071
+2015,Spain,Particulates (PM10),173.957
+2016,Spain,Particulates (PM10),173.222
+2017,Spain,Particulates (PM10),172.132
+2000,Spain,Particulates (PM2.5),139.855
+2001,Spain,Particulates (PM2.5),129.715
+2002,Spain,Particulates (PM2.5),131.441
+2003,Spain,Particulates (PM2.5),133.252
+2004,Spain,Particulates (PM2.5),132.014
+2005,Spain,Particulates (PM2.5),131.678
+2006,Spain,Particulates (PM2.5),128.07
+2007,Spain,Particulates (PM2.5),128.044
+2008,Spain,Particulates (PM2.5),117.045
+2009,Spain,Particulates (PM2.5),118.478
+2010,Spain,Particulates (PM2.5),113.783
+2011,Spain,Particulates (PM2.5),113.995
+2012,Spain,Particulates (PM2.5),110.094
+2013,Spain,Particulates (PM2.5),106.048
+2014,Spain,Particulates (PM2.5),104.742
+2015,Spain,Particulates (PM2.5),105.112
+2016,Spain,Particulates (PM2.5),103.155
+2017,Spain,Particulates (PM2.5),105.132
+2000,Spain,Carbon Monoxide,2304.284
+2001,Spain,Carbon Monoxide,2110.238
+2002,Spain,Carbon Monoxide,2000.176
+2003,Spain,Carbon Monoxide,1899.881
+2004,Spain,Carbon Monoxide,1847.599
+2005,Spain,Carbon Monoxide,1763.423
+2006,Spain,Carbon Monoxide,1644.235
+2007,Spain,Carbon Monoxide,1611.237
+2008,Spain,Carbon Monoxide,1504.957
+2009,Spain,Carbon Monoxide,1358.372
+2010,Spain,Carbon Monoxide,1425.823
+2011,Spain,Carbon Monoxide,1386.197
+2012,Spain,Carbon Monoxide,1320.67
+2013,Spain,Carbon Monoxide,1301.051
+2014,Spain,Carbon Monoxide,1314.277
+2015,Spain,Carbon Monoxide,1299.182
+2016,Spain,Carbon Monoxide,1293.049
+2017,Spain,Carbon Monoxide,1310.112
+2000,Spain,Non-methane Volatile Organic Compounds,942.327
+2001,Spain,Non-methane Volatile Organic Compounds,912.821
+2002,Spain,Non-methane Volatile Organic Compounds,885.088
+2003,Spain,Non-methane Volatile Organic Compounds,846.368
+2004,Spain,Non-methane Volatile Organic Compounds,830.554
+2005,Spain,Non-methane Volatile Organic Compounds,801.979
+2006,Spain,Non-methane Volatile Organic Compounds,774.667
+2007,Spain,Non-methane Volatile Organic Compounds,764.734
+2008,Spain,Non-methane Volatile Organic Compounds,697.841
+2009,Spain,Non-methane Volatile Organic Compounds,638.311
+2010,Spain,Non-methane Volatile Organic Compounds,630.126
+2011,Spain,Non-methane Volatile Organic Compounds,606.164
+2012,Spain,Non-methane Volatile Organic Compounds,582.484
+2013,Spain,Non-methane Volatile Organic Compounds,563.428
+2014,Spain,Non-methane Volatile Organic Compounds,568.438
+2015,Spain,Non-methane Volatile Organic Compounds,588.14
+2016,Spain,Non-methane Volatile Organic Compounds,602.803
+2017,Spain,Non-methane Volatile Organic Compounds,617.561
+2000,Sweden,Sulphur Oxides,43.412
+2001,Sweden,Sulphur Oxides,41.225
+2002,Sweden,Sulphur Oxides,41.283
+2003,Sweden,Sulphur Oxides,41.671
+2004,Sweden,Sulphur Oxides,36.999
+2005,Sweden,Sulphur Oxides,35.806
+2006,Sweden,Sulphur Oxides,35.287
+2007,Sweden,Sulphur Oxides,30.699
+2008,Sweden,Sulphur Oxides,28.317
+2009,Sweden,Sulphur Oxides,26.917
+2010,Sweden,Sulphur Oxides,28.522
+2011,Sweden,Sulphur Oxides,25.735
+2012,Sweden,Sulphur Oxides,24.73
+2013,Sweden,Sulphur Oxides,22.278
+2014,Sweden,Sulphur Oxides,19.912
+2015,Sweden,Sulphur Oxides,17.653
+2016,Sweden,Sulphur Oxides,18.33
+2017,Sweden,Sulphur Oxides,17.644
+2000,Sweden,Nitrogen Oxides,217.068
+2001,Sweden,Nitrogen Oxides,206.984
+2002,Sweden,Nitrogen Oxides,199.108
+2003,Sweden,Nitrogen Oxides,195.481
+2004,Sweden,Nitrogen Oxides,190.044
+2005,Sweden,Nitrogen Oxides,185.183
+2006,Sweden,Nitrogen Oxides,180.609
+2007,Sweden,Nitrogen Oxides,173.677
+2008,Sweden,Nitrogen Oxides,164.989
+2009,Sweden,Nitrogen Oxides,154.029
+2010,Sweden,Nitrogen Oxides,157.223
+2011,Sweden,Nitrogen Oxides,149.463
+2012,Sweden,Nitrogen Oxides,141.524
+2013,Sweden,Nitrogen Oxides,139.005
+2014,Sweden,Nitrogen Oxides,137.649
+2015,Sweden,Nitrogen Oxides,132.927
+2016,Sweden,Nitrogen Oxides,128.756
+2017,Sweden,Nitrogen Oxides,124.724
+2000,Sweden,Particulates (PM10),51.966
+2001,Sweden,Particulates (PM10),51.081
+2002,Sweden,Particulates (PM10),50.328
+2003,Sweden,Particulates (PM10),51.246
+2004,Sweden,Particulates (PM10),50.62
+2005,Sweden,Particulates (PM10),50.611
+2006,Sweden,Particulates (PM10),48.865
+2007,Sweden,Particulates (PM10),48.7
+2008,Sweden,Particulates (PM10),46.607
+2009,Sweden,Particulates (PM10),44.551
+2010,Sweden,Particulates (PM10),44.964
+2011,Sweden,Particulates (PM10),45.868
+2012,Sweden,Particulates (PM10),42.348
+2013,Sweden,Particulates (PM10),43.87
+2014,Sweden,Particulates (PM10),39.681
+2015,Sweden,Particulates (PM10),39.024
+2016,Sweden,Particulates (PM10),39.698
+2017,Sweden,Particulates (PM10),40.31
+2000,Sweden,Particulates (PM2.5),32.844
+2001,Sweden,Particulates (PM2.5),31.874
+2002,Sweden,Particulates (PM2.5),31.11
+2003,Sweden,Particulates (PM2.5),31.76
+2004,Sweden,Particulates (PM2.5),30.856
+2005,Sweden,Particulates (PM2.5),30.816
+2006,Sweden,Particulates (PM2.5),28.951
+2007,Sweden,Particulates (PM2.5),28.62
+2008,Sweden,Particulates (PM2.5),27.259
+2009,Sweden,Particulates (PM2.5),26.052
+2010,Sweden,Particulates (PM2.5),26.314
+2011,Sweden,Particulates (PM2.5),25.769
+2012,Sweden,Particulates (PM2.5),24.213
+2013,Sweden,Particulates (PM2.5),23.702
+2014,Sweden,Particulates (PM2.5),20.701
+2015,Sweden,Particulates (PM2.5),19.668
+2016,Sweden,Particulates (PM2.5),19.801
+2017,Sweden,Particulates (PM2.5),20.105
+2000,Sweden,Carbon Monoxide,663.383
+2001,Sweden,Carbon Monoxide,625.371
+2002,Sweden,Carbon Monoxide,590.476
+2003,Sweden,Carbon Monoxide,578.957
+2004,Sweden,Carbon Monoxide,541.737
+2005,Sweden,Carbon Monoxide,528.942
+2006,Sweden,Carbon Monoxide,502.563
+2007,Sweden,Carbon Monoxide,497.737
+2008,Sweden,Carbon Monoxide,480.72
+2009,Sweden,Carbon Monoxide,466.298
+2010,Sweden,Carbon Monoxide,454.845
+2011,Sweden,Carbon Monoxide,441.231
+2012,Sweden,Carbon Monoxide,417.708
+2013,Sweden,Carbon Monoxide,411.716
+2014,Sweden,Carbon Monoxide,397.741
+2015,Sweden,Carbon Monoxide,385.153
+2016,Sweden,Carbon Monoxide,386.035
+2017,Sweden,Carbon Monoxide,385.432
+2000,Sweden,Non-methane Volatile Organic Compounds,224.696
+2001,Sweden,Non-methane Volatile Organic Compounds,218.302
+2002,Sweden,Non-methane Volatile Organic Compounds,215.78
+2003,Sweden,Non-methane Volatile Organic Compounds,216.693
+2004,Sweden,Non-methane Volatile Organic Compounds,210.385
+2005,Sweden,Non-methane Volatile Organic Compounds,208.989
+2006,Sweden,Non-methane Volatile Organic Compounds,204.09
+2007,Sweden,Non-methane Volatile Organic Compounds,198.663
+2008,Sweden,Non-methane Volatile Organic Compounds,187.437
+2009,Sweden,Non-methane Volatile Organic Compounds,181.688
+2010,Sweden,Non-methane Volatile Organic Compounds,180.637
+2011,Sweden,Non-methane Volatile Organic Compounds,173.961
+2012,Sweden,Non-methane Volatile Organic Compounds,164.203
+2013,Sweden,Non-methane Volatile Organic Compounds,160.241
+2014,Sweden,Non-methane Volatile Organic Compounds,155.624
+2015,Sweden,Non-methane Volatile Organic Compounds,153.722
+2016,Sweden,Non-methane Volatile Organic Compounds,144.712
+2017,Sweden,Non-methane Volatile Organic Compounds,146.961
+2000,Switzerland,Sulphur Oxides,16.213
+2001,Switzerland,Sulphur Oxides,17.028
+2002,Switzerland,Sulphur Oxides,14.811
+2003,Switzerland,Sulphur Oxides,15.04
+2004,Switzerland,Sulphur Oxides,14.78
+2005,Switzerland,Sulphur Oxides,13.835
+2006,Switzerland,Sulphur Oxides,13.202
+2007,Switzerland,Sulphur Oxides,11.493
+2008,Switzerland,Sulphur Oxides,11.602
+2009,Switzerland,Sulphur Oxides,10.306
+2010,Switzerland,Sulphur Oxides,10.421
+2011,Switzerland,Sulphur Oxides,8.411
+2012,Switzerland,Sulphur Oxides,8.666
+2013,Switzerland,Sulphur Oxides,8.086
+2014,Switzerland,Sulphur Oxides,7.388
+2015,Switzerland,Sulphur Oxides,5.716
+2016,Switzerland,Sulphur Oxides,5.305
+2017,Switzerland,Sulphur Oxides,5.295
+2000,Switzerland,Nitrogen Oxides,104.16
+2001,Switzerland,Nitrogen Oxides,100.838
+2002,Switzerland,Nitrogen Oxides,95.193
+2003,Switzerland,Nitrogen Oxides,93.003
+2004,Switzerland,Nitrogen Oxides,91.495
+2005,Switzerland,Nitrogen Oxides,90.989
+2006,Switzerland,Nitrogen Oxides,88.07
+2007,Switzerland,Nitrogen Oxides,85.347
+2008,Switzerland,Nitrogen Oxides,83.7
+2009,Switzerland,Nitrogen Oxides,78.119
+2010,Switzerland,Nitrogen Oxides,76.638
+2011,Switzerland,Nitrogen Oxides,71.846
+2012,Switzerland,Nitrogen Oxides,71.798
+2013,Switzerland,Nitrogen Oxides,71.614
+2014,Switzerland,Nitrogen Oxides,67.754
+2015,Switzerland,Nitrogen Oxides,63.74
+2016,Switzerland,Nitrogen Oxides,61.928
+2017,Switzerland,Nitrogen Oxides,59.508
+2000,Switzerland,Particulates (PM10),18.603
+2001,Switzerland,Particulates (PM10),18.319
+2002,Switzerland,Particulates (PM10),17.702
+2003,Switzerland,Particulates (PM10),17.658
+2004,Switzerland,Particulates (PM10),17.576
+2005,Switzerland,Particulates (PM10),17.531
+2006,Switzerland,Particulates (PM10),17.367
+2007,Switzerland,Particulates (PM10),17.097
+2008,Switzerland,Particulates (PM10),17.194
+2009,Switzerland,Particulates (PM10),16.754
+2010,Switzerland,Particulates (PM10),16.741
+2011,Switzerland,Particulates (PM10),16.118
+2012,Switzerland,Particulates (PM10),16.248
+2013,Switzerland,Particulates (PM10),16.168
+2014,Switzerland,Particulates (PM10),15.408
+2015,Switzerland,Particulates (PM10),15.175
+2016,Switzerland,Particulates (PM10),15.041
+2017,Switzerland,Particulates (PM10),15.088
+2000,Switzerland,Particulates (PM2.5),10.553
+2001,Switzerland,Particulates (PM2.5),10.381
+2002,Switzerland,Particulates (PM2.5),9.796
+2003,Switzerland,Particulates (PM2.5),9.72
+2004,Switzerland,Particulates (PM2.5),9.541
+2005,Switzerland,Particulates (PM2.5),9.445
+2006,Switzerland,Particulates (PM2.5),9.233
+2007,Switzerland,Particulates (PM2.5),8.784
+2008,Switzerland,Particulates (PM2.5),8.766
+2009,Switzerland,Particulates (PM2.5),8.318
+2010,Switzerland,Particulates (PM2.5),8.259
+2011,Switzerland,Particulates (PM2.5),7.584
+2012,Switzerland,Particulates (PM2.5),7.661
+2013,Switzerland,Particulates (PM2.5),7.511
+2014,Switzerland,Particulates (PM2.5),6.841
+2015,Switzerland,Particulates (PM2.5),6.696
+2016,Switzerland,Particulates (PM2.5),6.574
+2017,Switzerland,Particulates (PM2.5),6.536
+2000,Switzerland,Carbon Monoxide,383.811
+2001,Switzerland,Carbon Monoxide,364.361
+2002,Switzerland,Carbon Monoxide,339.796
+2003,Switzerland,Carbon Monoxide,331.767
+2004,Switzerland,Carbon Monoxide,315.8
+2005,Switzerland,Carbon Monoxide,301.826
+2006,Switzerland,Carbon Monoxide,280.11
+2007,Switzerland,Carbon Monoxide,264.159
+2008,Switzerland,Carbon Monoxide,254.353
+2009,Switzerland,Carbon Monoxide,237.873
+2010,Switzerland,Carbon Monoxide,228.258
+2011,Switzerland,Carbon Monoxide,206.986
+2012,Switzerland,Carbon Monoxide,199.378
+2013,Switzerland,Carbon Monoxide,192.028
+2014,Switzerland,Carbon Monoxide,173.443
+2015,Switzerland,Carbon Monoxide,164.426
+2016,Switzerland,Carbon Monoxide,160.32
+2017,Switzerland,Carbon Monoxide,154.113
+2000,Switzerland,Non-methane Volatile Organic Compounds,147.324
+2001,Switzerland,Non-methane Volatile Organic Compounds,139.565
+2002,Switzerland,Non-methane Volatile Organic Compounds,127.757
+2003,Switzerland,Non-methane Volatile Organic Compounds,118.477
+2004,Switzerland,Non-methane Volatile Organic Compounds,109.528
+2005,Switzerland,Non-methane Volatile Organic Compounds,106.57
+2006,Switzerland,Non-methane Volatile Organic Compounds,103.551
+2007,Switzerland,Non-methane Volatile Organic Compounds,100.644
+2008,Switzerland,Non-methane Volatile Organic Compounds,98.789
+2009,Switzerland,Non-methane Volatile Organic Compounds,95.481
+2010,Switzerland,Non-methane Volatile Organic Compounds,92.468
+2011,Switzerland,Non-methane Volatile Organic Compounds,89.44
+2012,Switzerland,Non-methane Volatile Organic Compounds,88.015
+2013,Switzerland,Non-methane Volatile Organic Compounds,85.882
+2014,Switzerland,Non-methane Volatile Organic Compounds,82.425
+2015,Switzerland,Non-methane Volatile Organic Compounds,80.158
+2016,Switzerland,Non-methane Volatile Organic Compounds,78.238
+2017,Switzerland,Non-methane Volatile Organic Compounds,78.242
+2000,Turkey,Sulphur Oxides,2242.096
+2001,Turkey,Sulphur Oxides,1982.51
+2002,Turkey,Sulphur Oxides,1872.274
+2003,Turkey,Sulphur Oxides,1790.901
+2004,Turkey,Sulphur Oxides,1779.164
+2005,Turkey,Sulphur Oxides,2002.875
+2006,Turkey,Sulphur Oxides,2159.921
+2007,Turkey,Sulphur Oxides,2522.619
+2008,Turkey,Sulphur Oxides,2558.518
+2009,Turkey,Sulphur Oxides,2662.376
+2010,Turkey,Sulphur Oxides,2557.314
+2011,Turkey,Sulphur Oxides,2636.8
+2012,Turkey,Sulphur Oxides,2703.019
+2013,Turkey,Sulphur Oxides,1939.766
+2014,Turkey,Sulphur Oxides,2149.207
+2015,Turkey,Sulphur Oxides,1948.121
+2016,Turkey,Sulphur Oxides,2250.319
+2017,Turkey,Sulphur Oxides,2349.93
+2000,Turkey,Nitrogen Oxides,495.332
+2001,Turkey,Nitrogen Oxides,473.517
+2002,Turkey,Nitrogen Oxides,560.239
+2003,Turkey,Nitrogen Oxides,541.9
+2004,Turkey,Nitrogen Oxides,633.065
+2005,Turkey,Nitrogen Oxides,671.817
+2006,Turkey,Nitrogen Oxides,689.035
+2007,Turkey,Nitrogen Oxides,741.438
+2008,Turkey,Nitrogen Oxides,732.079
+2009,Turkey,Nitrogen Oxides,713.653
+2010,Turkey,Nitrogen Oxides,703.726
+2011,Turkey,Nitrogen Oxides,741.916
+2012,Turkey,Nitrogen Oxides,654.032
+2013,Turkey,Nitrogen Oxides,706.692
+2014,Turkey,Nitrogen Oxides,701.53
+2015,Turkey,Nitrogen Oxides,709.257
+2016,Turkey,Nitrogen Oxides,718.541
+2017,Turkey,Nitrogen Oxides,782.583
+2000,Turkey,Particulates (PM10),704.508
+2001,Turkey,Particulates (PM10),600.914
+2002,Turkey,Particulates (PM10),741.652
+2003,Turkey,Particulates (PM10),722.269
+2004,Turkey,Particulates (PM10),689.938
+2005,Turkey,Particulates (PM10),694.483
+2006,Turkey,Particulates (PM10),749.196
+2007,Turkey,Particulates (PM10),754.157
+2008,Turkey,Particulates (PM10),748.601
+2009,Turkey,Particulates (PM10),817.55
+2010,Turkey,Particulates (PM10),906.644
+2011,Turkey,Particulates (PM10),869.62
+2012,Turkey,Particulates (PM10),888.703
+2013,Turkey,Particulates (PM10),779.38
+2014,Turkey,Particulates (PM10),550.804
+2015,Turkey,Particulates (PM10),806.609
+2016,Turkey,Particulates (PM10),721.418
+2017,Turkey,Particulates (PM10),764.935
+2000,Turkey,Particulates (PM2.5),383.731
+2001,Turkey,Particulates (PM2.5),371.607
+2002,Turkey,Particulates (PM2.5),359.482
+2003,Turkey,Particulates (PM2.5),348.254
+2004,Turkey,Particulates (PM2.5),351.272
+2005,Turkey,Particulates (PM2.5),354.29
+2006,Turkey,Particulates (PM2.5),357.02
+2007,Turkey,Particulates (PM2.5),359.747
+2008,Turkey,Particulates (PM2.5),362.476
+2009,Turkey,Particulates (PM2.5),365.205
+2010,Turkey,Particulates (PM2.5),368.03
+2011,Turkey,Particulates (PM2.5),370.855
+2012,Turkey,Particulates (PM2.5),373.68
+2013,Turkey,Particulates (PM2.5),376.505
+2014,Turkey,Particulates (PM2.5),379.331
+2015,Turkey,Particulates (PM2.5),382.156
+2016,Turkey,Particulates (PM2.5),384.981
+2017,Turkey,Particulates (PM2.5),387.806
+2000,Turkey,Carbon Monoxide,2605.457
+2001,Turkey,Carbon Monoxide,2357.09
+2002,Turkey,Carbon Monoxide,2419.822
+2003,Turkey,Carbon Monoxide,2376.004
+2004,Turkey,Carbon Monoxide,2375.947
+2005,Turkey,Carbon Monoxide,2318.405
+2006,Turkey,Carbon Monoxide,2350.264
+2007,Turkey,Carbon Monoxide,2399.662
+2008,Turkey,Carbon Monoxide,2722.377
+2009,Turkey,Carbon Monoxide,2933.366
+2010,Turkey,Carbon Monoxide,2898.822
+2011,Turkey,Carbon Monoxide,2596.09
+2012,Turkey,Carbon Monoxide,2825.063
+2013,Turkey,Carbon Monoxide,2042.579
+2014,Turkey,Carbon Monoxide,1958.516
+2015,Turkey,Carbon Monoxide,2182.265
+2016,Turkey,Carbon Monoxide,2047.339
+2000,Turkey,Non-methane Volatile Organic Compounds,1015.417
+2001,Turkey,Non-methane Volatile Organic Compounds,929.48
+2002,Turkey,Non-methane Volatile Organic Compounds,985.834
+2003,Turkey,Non-methane Volatile Organic Compounds,1008.805
+2004,Turkey,Non-methane Volatile Organic Compounds,1012.448
+2005,Turkey,Non-methane Volatile Organic Compounds,997.544
+2006,Turkey,Non-methane Volatile Organic Compounds,994.703
+2007,Turkey,Non-methane Volatile Organic Compounds,987.38
+2008,Turkey,Non-methane Volatile Organic Compounds,1001.482
+2009,Turkey,Non-methane Volatile Organic Compounds,1027.066
+2010,Turkey,Non-methane Volatile Organic Compounds,1048.757
+2011,Turkey,Non-methane Volatile Organic Compounds,1032.802
+2012,Turkey,Non-methane Volatile Organic Compounds,1093.933
+2013,Turkey,Non-methane Volatile Organic Compounds,1038.361
+2014,Turkey,Non-methane Volatile Organic Compounds,1039.054
+2015,Turkey,Non-methane Volatile Organic Compounds,1076.25
+2016,Turkey,Non-methane Volatile Organic Compounds,1060.581
+2017,Turkey,Non-methane Volatile Organic Compounds,1098.316
+2000,United Kingdom,Sulphur Oxides,1286.052
+2001,United Kingdom,Sulphur Oxides,1197.375
+2002,United Kingdom,Sulphur Oxides,1077.062
+2003,United Kingdom,Sulphur Oxides,1051.769
+2004,United Kingdom,Sulphur Oxides,894.157
+2005,United Kingdom,Sulphur Oxides,772.534
+2006,United Kingdom,Sulphur Oxides,727.473
+2007,United Kingdom,Sulphur Oxides,632.047
+2008,United Kingdom,Sulphur Oxides,528.976
+2009,United Kingdom,Sulphur Oxides,432.162
+2010,United Kingdom,Sulphur Oxides,449.575
+2011,United Kingdom,Sulphur Oxides,414.828
+2012,United Kingdom,Sulphur Oxides,459.147
+2013,United Kingdom,Sulphur Oxides,396.434
+2014,United Kingdom,Sulphur Oxides,321.656
+2015,United Kingdom,Sulphur Oxides,249.5
+2016,United Kingdom,Sulphur Oxides,175.027
+2017,United Kingdom,Sulphur Oxides,172.133
+2000,United Kingdom,Nitrogen Oxides,2047.801
+2001,United Kingdom,Nitrogen Oxides,1997.587
+2002,United Kingdom,Nitrogen Oxides,1891.027
+2003,United Kingdom,Nitrogen Oxides,1846.697
+2004,United Kingdom,Nitrogen Oxides,1787.785
+2005,United Kingdom,Nitrogen Oxides,1774.54
+2006,United Kingdom,Nitrogen Oxides,1702.06
+2007,United Kingdom,Nitrogen Oxides,1633.896
+2008,United Kingdom,Nitrogen Oxides,1462.951
+2009,United Kingdom,Nitrogen Oxides,1270.542
+2010,United Kingdom,Nitrogen Oxides,1247.086
+2011,United Kingdom,Nitrogen Oxides,1157.076
+2012,United Kingdom,Nitrogen Oxides,1181.584
+2013,United Kingdom,Nitrogen Oxides,1121.9
+2014,United Kingdom,Nitrogen Oxides,1050.322
+2015,United Kingdom,Nitrogen Oxides,1013.528
+2016,United Kingdom,Nitrogen Oxides,922.968
+2017,United Kingdom,Nitrogen Oxides,887.981
+2000,United Kingdom,Particulates (PM10),235.748
+2001,United Kingdom,Particulates (PM10),241.805
+2002,United Kingdom,Particulates (PM10),213.082
+2003,United Kingdom,Particulates (PM10),225.968
+2004,United Kingdom,Particulates (PM10),210.384
+2005,United Kingdom,Particulates (PM10),203.341
+2006,United Kingdom,Particulates (PM10),197.294
+2007,United Kingdom,Particulates (PM10),187.716
+2008,United Kingdom,Particulates (PM10),178.549
+2009,United Kingdom,Particulates (PM10),168.646
+2010,United Kingdom,Particulates (PM10),183.505
+2011,United Kingdom,Particulates (PM10),167.371
+2012,United Kingdom,Particulates (PM10),169.234
+2013,United Kingdom,Particulates (PM10),177.118
+2014,United Kingdom,Particulates (PM10),168.029
+2015,United Kingdom,Particulates (PM10),169.114
+2016,United Kingdom,Particulates (PM10),169.296
+2017,United Kingdom,Particulates (PM10),170.818
+2000,United Kingdom,Particulates (PM2.5),148.038
+2001,United Kingdom,Particulates (PM2.5),146.883
+2002,United Kingdom,Particulates (PM2.5),130.66
+2003,United Kingdom,Particulates (PM2.5),131.633
+2004,United Kingdom,Particulates (PM2.5),128.264
+2005,United Kingdom,Particulates (PM2.5),126.069
+2006,United Kingdom,Particulates (PM2.5),123.607
+2007,United Kingdom,Particulates (PM2.5),117.531
+2008,United Kingdom,Particulates (PM2.5),115.993
+2009,United Kingdom,Particulates (PM2.5),110.857
+2010,United Kingdom,Particulates (PM2.5),119.001
+2011,United Kingdom,Particulates (PM2.5),107.16
+2012,United Kingdom,Particulates (PM2.5),112.677
+2013,United Kingdom,Particulates (PM2.5),114.121
+2014,United Kingdom,Particulates (PM2.5),107.651
+2015,United Kingdom,Particulates (PM2.5),108.582
+2016,United Kingdom,Particulates (PM2.5),107.111
+2017,United Kingdom,Particulates (PM2.5),106.83
+2000,United Kingdom,Carbon Monoxide,4440.569
+2001,United Kingdom,Carbon Monoxide,4463.129
+2002,United Kingdom,Carbon Monoxide,3978.239
+2003,United Kingdom,Carbon Monoxide,3622.779
+2004,United Kingdom,Carbon Monoxide,3405.881
+2005,United Kingdom,Carbon Monoxide,3157.362
+2006,United Kingdom,Carbon Monoxide,2961.656
+2007,United Kingdom,Carbon Monoxide,2748.489
+2008,United Kingdom,Carbon Monoxide,2594.584
+2009,United Kingdom,Carbon Monoxide,2123.474
+2010,United Kingdom,Carbon Monoxide,2035.702
+2011,United Kingdom,Carbon Monoxide,1850.214
+2012,United Kingdom,Carbon Monoxide,1833.537
+2013,United Kingdom,Carbon Monoxide,1832.501
+2014,United Kingdom,Carbon Monoxide,1742.181
+2015,United Kingdom,Carbon Monoxide,1702.236
+2016,United Kingdom,Carbon Monoxide,1567.495
+2017,United Kingdom,Carbon Monoxide,1550.056
+2000,United Kingdom,Non-methane Volatile Organic Compounds,1635.317
+2001,United Kingdom,Non-methane Volatile Organic Compounds,1557.766
+2002,United Kingdom,Non-methane Volatile Organic Compounds,1468.285
+2003,United Kingdom,Non-methane Volatile Organic Compounds,1351.243
+2004,United Kingdom,Non-methane Volatile Organic Compounds,1262.612
+2005,United Kingdom,Non-methane Volatile Organic Compounds,1179.847
+2006,United Kingdom,Non-methane Volatile Organic Compounds,1130.196
+2007,United Kingdom,Non-methane Volatile Organic Compounds,1089.524
+2008,United Kingdom,Non-methane Volatile Organic Compounds,1010.741
+2009,United Kingdom,Non-methane Volatile Organic Compounds,906.146
+2010,United Kingdom,Non-methane Volatile Organic Compounds,880.769
+2011,United Kingdom,Non-methane Volatile Organic Compounds,861.86
+2012,United Kingdom,Non-methane Volatile Organic Compounds,846.148
+2013,United Kingdom,Non-methane Volatile Organic Compounds,818.339
+2014,United Kingdom,Non-methane Volatile Organic Compounds,814.09
+2015,United Kingdom,Non-methane Volatile Organic Compounds,815.405
+2016,United Kingdom,Non-methane Volatile Organic Compounds,801.956
+2017,United Kingdom,Non-methane Volatile Organic Compounds,810.106
+2000,United States,Sulphur Oxides,14767.108
+2001,United States,Sulphur Oxides,14413.253
+2002,United States,Sulphur Oxides,13564.209
+2003,United States,Sulphur Oxides,13360.887
+2004,United States,Sulphur Oxides,13146.333
+2005,United States,Sulphur Oxides,13145.176
+2006,United States,Sulphur Oxides,11854.056
+2007,United States,Sulphur Oxides,10562.935
+2008,United States,Sulphur Oxides,9302.125
+2009,United States,Sulphur Oxides,8182.259
+2010,United States,Sulphur Oxides,6951.162
+2011,United States,Sulphur Oxides,5790.66
+2012,United States,Sulphur Oxides,4521.158
+2013,United States,Sulphur Oxides,4334.555
+2014,United States,Sulphur Oxides,4176.349
+2015,United States,Sulphur Oxides,3278.533
+2016,United States,Sulphur Oxides,2621.311
+2017,United States,Sulphur Oxides,2489.063
+2000,United States,Nitrogen Oxides,20262.523
+2001,United States,Nitrogen Oxides,19393.71
+2002,United States,Nitrogen Oxides,21632.312
+2003,United States,Nitrogen Oxides,20445.527
+2004,United States,Nitrogen Oxides,19248.535
+2005,United States,Nitrogen Oxides,18380.739
+2006,United States,Nitrogen Oxides,17357.631
+2007,United States,Nitrogen Oxides,16334.523
+2008,United States,Nitrogen Oxides,15252.744
+2009,United States,Nitrogen Oxides,14220.664
+2010,United States,Nitrogen Oxides,13381.276
+2011,United States,Nitrogen Oxides,13003.906
+2012,United States,Nitrogen Oxides,12425.051
+2013,United States,Nitrogen Oxides,11846.196
+2014,United States,Nitrogen Oxides,11318.57
+2015,United States,Nitrogen Oxides,10641.422
+2016,United States,Nitrogen Oxides,10152.714
+2017,United States,Nitrogen Oxides,9667.771
+2000,United States,Particulates (PM10),21543.167
+2001,United States,Particulates (PM10),21507.529
+2002,United States,Particulates (PM10),18362.821
+2003,United States,Particulates (PM10),18443.204
+2004,United States,Particulates (PM10),18519.917
+2005,United States,Particulates (PM10),18594.439
+2006,United States,Particulates (PM10),18684.806
+2007,United States,Particulates (PM10),18775.174
+2008,United States,Particulates (PM10),18508.693
+2009,United States,Particulates (PM10),18163.33
+2010,United States,Particulates (PM10),17822.027
+2011,United States,Particulates (PM10),17596.539
+2012,United States,Particulates (PM10),16917.73
+2013,United States,Particulates (PM10),16238.92
+2014,United States,Particulates (PM10),15560.111
+2015,United States,Particulates (PM10),15544.619
+2016,United States,Particulates (PM10),15532.744
+2017,United States,Particulates (PM10),15519.06
+2000,United States,Particulates (PM2.5),6611.687
+2001,United States,Particulates (PM2.5),6346.438
+2002,United States,Particulates (PM2.5),4240.357
+2003,United States,Particulates (PM2.5),4315.619
+2004,United States,Particulates (PM2.5),4389.449
+2005,United States,Particulates (PM2.5),4462.487
+2006,United States,Particulates (PM2.5),4593.526
+2007,United States,Particulates (PM2.5),4724.565
+2008,United States,Particulates (PM2.5),4550.096
+2009,United States,Particulates (PM2.5),4526.303
+2010,United States,Particulates (PM2.5),4504.661
+2011,United States,Particulates (PM2.5),4512.807
+2012,United States,Particulates (PM2.5),4371.059
+2013,United States,Particulates (PM2.5),4229.311
+2014,United States,Particulates (PM2.5),4087.563
+2015,United States,Particulates (PM2.5),4071.133
+2016,United States,Particulates (PM2.5),4057.761
+2017,United States,Particulates (PM2.5),4042.86
+2000,United States,Carbon Monoxide,92913.61
+2001,United States,Carbon Monoxide,89375.868
+2002,United States,Carbon Monoxide,79816.663
+2003,United States,Carbon Monoxide,77602.959
+2004,United States,Carbon Monoxide,75384.361
+2005,United States,Carbon Monoxide,73161.908
+2006,United States,Carbon Monoxide,70704.493
+2007,United States,Carbon Monoxide,68247.078
+2008,United States,Carbon Monoxide,61195.15
+2009,United States,Carbon Monoxide,54933.143
+2010,United States,Carbon Monoxide,55857.149
+2011,United States,Carbon Monoxide,55393.766
+2012,United States,Carbon Monoxide,53609.261
+2013,United States,Carbon Monoxide,51824.755
+2014,United States,Carbon Monoxide,50040.25
+2015,United States,Carbon Monoxide,49064.69
+2016,United States,Carbon Monoxide,46691.743
+2017,United States,Carbon Monoxide,45017.49
+2000,United States,Non-methane Volatile Organic Compounds,15329.42
+2001,United States,Non-methane Volatile Organic Compounds,15149.274
+2002,United States,Non-methane Volatile Organic Compounds,15491.324
+2003,United States,Non-methane Volatile Organic Compounds,15147.967
+2004,United States,Non-methane Volatile Organic Compounds,14787.69
+2005,United States,Non-methane Volatile Organic Compounds,14411.177
+2006,United States,Non-methane Volatile Organic Compounds,14546.107
+2007,United States,Non-methane Volatile Organic Compounds,14681.037
+2008,United States,Non-methane Volatile Organic Compounds,13528.368
+2009,United States,Non-methane Volatile Organic Compounds,13378.082
+2010,United States,Non-methane Volatile Organic Compounds,13597.458
+2011,United States,Non-methane Volatile Organic Compounds,13846.608
+2012,United States,Non-methane Volatile Organic Compounds,13599.707
+2013,United States,Non-methane Volatile Organic Compounds,13352.806
+2014,United States,Non-methane Volatile Organic Compounds,13105.905
+2015,United States,Non-methane Volatile Organic Compounds,12940.771
+2016,United States,Non-methane Volatile Organic Compounds,12694.173
+2017,United States,Non-methane Volatile Organic Compounds,12488.307
+2005,Chile,Sulphur Oxides,284.44
+2006,Chile,Sulphur Oxides,379.008
+2007,Chile,Sulphur Oxides,400.347
+2008,Chile,Sulphur Oxides,349.024
+2009,Chile,Sulphur Oxides,330.183
+2010,Chile,Sulphur Oxides,303.249
+2011,Chile,Sulphur Oxides,321.306
+2012,Chile,Sulphur Oxides,237.724
+2013,Chile,Sulphur Oxides,217.271
+2014,Chile,Sulphur Oxides,147.816
+2015,Chile,Sulphur Oxides,153.057
+2016,Chile,Sulphur Oxides,346.553
+2017,Chile,Sulphur Oxides,305.537
+2005,Chile,Nitrogen Oxides,121.238
+2006,Chile,Nitrogen Oxides,140.828
+2007,Chile,Nitrogen Oxides,164.001
+2008,Chile,Nitrogen Oxides,203.555
+2009,Chile,Nitrogen Oxides,220.337
+2010,Chile,Nitrogen Oxides,228.328
+2011,Chile,Nitrogen Oxides,241.744
+2012,Chile,Nitrogen Oxides,256.505
+2013,Chile,Nitrogen Oxides,218.321
+2014,Chile,Nitrogen Oxides,232.823
+2015,Chile,Nitrogen Oxides,186.385
+2016,Chile,Nitrogen Oxides,181.855
+2017,Chile,Nitrogen Oxides,179.83
+2005,Chile,Particulates (PM10),365.394
+2006,Chile,Particulates (PM10),368.423
+2007,Chile,Particulates (PM10),377.453
+2008,Chile,Particulates (PM10),405.343
+2009,Chile,Particulates (PM10),406.245
+2010,Chile,Particulates (PM10),407.874
+2011,Chile,Particulates (PM10),412.908
+2012,Chile,Particulates (PM10),413.088
+2013,Chile,Particulates (PM10),404.566
+2014,Chile,Particulates (PM10),295.57
+2015,Chile,Particulates (PM10),140.062
+2016,Chile,Particulates (PM10),145.919
+2017,Chile,Particulates (PM10),145.027
+2005,Chile,Particulates (PM2.5),348.621
+2006,Chile,Particulates (PM2.5),350.775
+2007,Chile,Particulates (PM2.5),358.493
+2008,Chile,Particulates (PM2.5),375.464
+2009,Chile,Particulates (PM2.5),378.548
+2010,Chile,Particulates (PM2.5),378.35
+2011,Chile,Particulates (PM2.5),381.78
+2012,Chile,Particulates (PM2.5),380.789
+2013,Chile,Particulates (PM2.5),377.577
+2014,Chile,Particulates (PM2.5),274.099
+2015,Chile,Particulates (PM2.5),121.054
+2016,Chile,Particulates (PM2.5),127.967
+2017,Chile,Particulates (PM2.5),131.624
+2005,Chile,Carbon Monoxide,4387.499
+2006,Chile,Carbon Monoxide,4515.046
+2007,Chile,Carbon Monoxide,4495.765
+2008,Chile,Carbon Monoxide,4668.876
+2009,Chile,Carbon Monoxide,4717.744
+2010,Chile,Carbon Monoxide,4910.676
+2011,Chile,Carbon Monoxide,4935.643
+2012,Chile,Carbon Monoxide,4831.531
+2013,Chile,Carbon Monoxide,4780.09
+2014,Chile,Carbon Monoxide,3538.502
+2015,Chile,Carbon Monoxide,2155.001
+2016,Chile,Carbon Monoxide,2419.215
+2017,Chile,Carbon Monoxide,2460.212
+2005,Chile,Non-methane Volatile Organic Compounds,2268.696
+2006,Chile,Non-methane Volatile Organic Compounds,2295.058
+2007,Chile,Non-methane Volatile Organic Compounds,2306.461
+2008,Chile,Non-methane Volatile Organic Compounds,2363.211
+2009,Chile,Non-methane Volatile Organic Compounds,2380.734
+2010,Chile,Non-methane Volatile Organic Compounds,2404.325
+2011,Chile,Non-methane Volatile Organic Compounds,2403.623
+2012,Chile,Non-methane Volatile Organic Compounds,2407.379
+2013,Chile,Non-methane Volatile Organic Compounds,2420.017
+2014,Chile,Non-methane Volatile Organic Compounds,1715.183
+2015,Chile,Non-methane Volatile Organic Compounds,1117.543
+2016,Chile,Non-methane Volatile Organic Compounds,1271.145
+2017,Chile,Non-methane Volatile Organic Compounds,1272.237
+2000,Estonia,Sulphur Oxides,97.107
+2001,Estonia,Sulphur Oxides,90.709
+2002,Estonia,Sulphur Oxides,87.034
+2003,Estonia,Sulphur Oxides,100.327
+2004,Estonia,Sulphur Oxides,88.183
+2005,Estonia,Sulphur Oxides,76.251
+2006,Estonia,Sulphur Oxides,69.906
+2007,Estonia,Sulphur Oxides,88.043
+2008,Estonia,Sulphur Oxides,69.486
+2009,Estonia,Sulphur Oxides,54.888
+2010,Estonia,Sulphur Oxides,83.286
+2011,Estonia,Sulphur Oxides,72.712
+2012,Estonia,Sulphur Oxides,42.916
+2013,Estonia,Sulphur Oxides,41.69
+2014,Estonia,Sulphur Oxides,46.83
+2015,Estonia,Sulphur Oxides,36.076
+2016,Estonia,Sulphur Oxides,34.94
+2017,Estonia,Sulphur Oxides,38.645
+2000,Estonia,Nitrogen Oxides,44.86
+2001,Estonia,Nitrogen Oxides,46.868
+2002,Estonia,Nitrogen Oxides,47.471
+2003,Estonia,Nitrogen Oxides,48.379
+2004,Estonia,Nitrogen Oxides,45.417
+2005,Estonia,Nitrogen Oxides,41.799
+2006,Estonia,Nitrogen Oxides,40.493
+2007,Estonia,Nitrogen Oxides,44.8
+2008,Estonia,Nitrogen Oxides,41.548
+2009,Estonia,Nitrogen Oxides,36.444
+2010,Estonia,Nitrogen Oxides,42.798
+2011,Estonia,Nitrogen Oxides,41.304
+2012,Estonia,Nitrogen Oxides,38.303
+2013,Estonia,Nitrogen Oxides,37.162
+2014,Estonia,Nitrogen Oxides,36.666
+2015,Estonia,Nitrogen Oxides,32.569
+2016,Estonia,Nitrogen Oxides,32.296
+2017,Estonia,Nitrogen Oxides,33.122
+2000,Estonia,Particulates (PM10),32.087
+2001,Estonia,Particulates (PM10),31.996
+2002,Estonia,Particulates (PM10),28.077
+2003,Estonia,Particulates (PM10),24.354
+2004,Estonia,Particulates (PM10),24.906
+2005,Estonia,Particulates (PM10),22.497
+2006,Estonia,Particulates (PM10),16.335
+2007,Estonia,Particulates (PM10),22.807
+2008,Estonia,Particulates (PM10),19.031
+2009,Estonia,Particulates (PM10),15.516
+2010,Estonia,Particulates (PM10),23.393
+2011,Estonia,Particulates (PM10),34.441
+2012,Estonia,Particulates (PM10),14.115
+2013,Estonia,Particulates (PM10),20.415
+2014,Estonia,Particulates (PM10),15.392
+2015,Estonia,Particulates (PM10),14.54
+2016,Estonia,Particulates (PM10),11.919
+2017,Estonia,Particulates (PM10),13.911
+2000,Estonia,Particulates (PM2.5),15.341
+2001,Estonia,Particulates (PM2.5),16.263
+2002,Estonia,Particulates (PM2.5),16.658
+2003,Estonia,Particulates (PM2.5),14.309
+2004,Estonia,Particulates (PM2.5),15.444
+2005,Estonia,Particulates (PM2.5),14.223
+2006,Estonia,Particulates (PM2.5),9.793
+2007,Estonia,Particulates (PM2.5),12.713
+2008,Estonia,Particulates (PM2.5),11.932
+2009,Estonia,Particulates (PM2.5),9.64
+2010,Estonia,Particulates (PM2.5),13.929
+2011,Estonia,Particulates (PM2.5),18.226
+2012,Estonia,Particulates (PM2.5),8.689
+2013,Estonia,Particulates (PM2.5),12.127
+2014,Estonia,Particulates (PM2.5),8.916
+2015,Estonia,Particulates (PM2.5),9.634
+2016,Estonia,Particulates (PM2.5),7.769
+2017,Estonia,Particulates (PM2.5),9.222
+2000,Estonia,Carbon Monoxide,198.565
+2001,Estonia,Carbon Monoxide,200.412
+2002,Estonia,Carbon Monoxide,189.953
+2003,Estonia,Carbon Monoxide,182.753
+2004,Estonia,Carbon Monoxide,173.727
+2005,Estonia,Carbon Monoxide,155.328
+2006,Estonia,Carbon Monoxide,141.555
+2007,Estonia,Carbon Monoxide,157.475
+2008,Estonia,Carbon Monoxide,156.43
+2009,Estonia,Carbon Monoxide,155.839
+2010,Estonia,Carbon Monoxide,156.673
+2011,Estonia,Carbon Monoxide,131.747
+2012,Estonia,Carbon Monoxide,141.861
+2013,Estonia,Carbon Monoxide,134.217
+2014,Estonia,Carbon Monoxide,128.754
+2015,Estonia,Carbon Monoxide,128.787
+2016,Estonia,Carbon Monoxide,139.947
+2017,Estonia,Carbon Monoxide,138.13
+2000,Estonia,Non-methane Volatile Organic Compounds,37.127
+2001,Estonia,Non-methane Volatile Organic Compounds,36.099
+2002,Estonia,Non-methane Volatile Organic Compounds,35.494
+2003,Estonia,Non-methane Volatile Organic Compounds,34.13
+2004,Estonia,Non-methane Volatile Organic Compounds,34.346
+2005,Estonia,Non-methane Volatile Organic Compounds,32.301
+2006,Estonia,Non-methane Volatile Organic Compounds,30.759
+2007,Estonia,Non-methane Volatile Organic Compounds,28.231
+2008,Estonia,Non-methane Volatile Organic Compounds,26.426
+2009,Estonia,Non-methane Volatile Organic Compounds,23.808
+2010,Estonia,Non-methane Volatile Organic Compounds,23.334
+2011,Estonia,Non-methane Volatile Organic Compounds,23.142
+2012,Estonia,Non-methane Volatile Organic Compounds,22.926
+2013,Estonia,Non-methane Volatile Organic Compounds,22.362
+2014,Estonia,Non-methane Volatile Organic Compounds,22.079
+2015,Estonia,Non-methane Volatile Organic Compounds,21.696
+2016,Estonia,Non-methane Volatile Organic Compounds,21.505
+2017,Estonia,Non-methane Volatile Organic Compounds,22.232
+2000,Israel,Sulphur Oxides,267.195
+2003,Israel,Sulphur Oxides,243.679
+2004,Israel,Sulphur Oxides,227.478
+2005,Israel,Sulphur Oxides,205.996
+2006,Israel,Sulphur Oxides,190.535
+2007,Israel,Sulphur Oxides,186.182
+2008,Israel,Sulphur Oxides,176.262
+2009,Israel,Sulphur Oxides,162.526
+2010,Israel,Sulphur Oxides,153.261
+2011,Israel,Sulphur Oxides,160.946
+2012,Israel,Sulphur Oxides,169.709
+2013,Israel,Sulphur Oxides,139.037
+2014,Israel,Sulphur Oxides,117.55
+2015,Israel,Sulphur Oxides,120.291
+2016,Israel,Sulphur Oxides,103.703
+2000,Israel,Nitrogen Oxides,236.871
+2003,Israel,Nitrogen Oxides,210.364
+2004,Israel,Nitrogen Oxides,199.578
+2005,Israel,Nitrogen Oxides,200.472
+2006,Israel,Nitrogen Oxides,195.353
+2007,Israel,Nitrogen Oxides,196.244
+2008,Israel,Nitrogen Oxides,188.24
+2009,Israel,Nitrogen Oxides,171.637
+2010,Israel,Nitrogen Oxides,167.294
+2011,Israel,Nitrogen Oxides,161.475
+2012,Israel,Nitrogen Oxides,182.685
+2013,Israel,Nitrogen Oxides,150.63
+2014,Israel,Nitrogen Oxides,129.531
+2015,Israel,Nitrogen Oxides,124.482
+2016,Israel,Nitrogen Oxides,108.167
+2000,Israel,Carbon Monoxide,375.886
+2003,Israel,Carbon Monoxide,283.635
+2004,Israel,Carbon Monoxide,262.916
+2005,Israel,Carbon Monoxide,256.643
+2006,Israel,Carbon Monoxide,236.494
+2007,Israel,Carbon Monoxide,225.063
+2008,Israel,Carbon Monoxide,212.531
+2009,Israel,Carbon Monoxide,197.705
+2010,Israel,Carbon Monoxide,185.114
+2011,Israel,Carbon Monoxide,167.253
+2012,Israel,Carbon Monoxide,142.043
+2013,Israel,Carbon Monoxide,137.021
+2014,Israel,Carbon Monoxide,133.987
+2015,Israel,Carbon Monoxide,134.604
+2016,Israel,Carbon Monoxide,132.569
+2000,Israel,Non-methane Volatile Organic Compounds,239.201
+2003,Israel,Non-methane Volatile Organic Compounds,247.084
+2004,Israel,Non-methane Volatile Organic Compounds,228.786
+2005,Israel,Non-methane Volatile Organic Compounds,233.054
+2006,Israel,Non-methane Volatile Organic Compounds,237.923
+2007,Israel,Non-methane Volatile Organic Compounds,248.435
+2008,Israel,Non-methane Volatile Organic Compounds,244.959
+2009,Israel,Non-methane Volatile Organic Compounds,262.896
+2010,Israel,Non-methane Volatile Organic Compounds,267.843
+2011,Israel,Non-methane Volatile Organic Compounds,271.537
+2012,Israel,Non-methane Volatile Organic Compounds,269.185
+2006,Russia,Sulphur Oxides,4904
+2007,Russia,Sulphur Oxides,4709
+2008,Russia,Sulphur Oxides,4675
+2009,Russia,Sulphur Oxides,4512
+2010,Russia,Sulphur Oxides,4512
+2011,Russia,Sulphur Oxides,4462
+2012,Russia,Sulphur Oxides,4431
+2013,Russia,Sulphur Oxides,4306
+2014,Russia,Sulphur Oxides,4131
+2015,Russia,Sulphur Oxides,4196
+2016,Russia,Sulphur Oxides,4110
+2006,Russia,Nitrogen Oxides,3678
+2007,Russia,Nitrogen Oxides,3764
+2008,Russia,Nitrogen Oxides,3809
+2009,Russia,Nitrogen Oxides,3669
+2010,Russia,Nitrogen Oxides,3735
+2011,Russia,Nitrogen Oxides,3649
+2012,Russia,Nitrogen Oxides,3452
+2013,Russia,Nitrogen Oxides,3423
+2014,Russia,Nitrogen Oxides,3379
+2015,Russia,Nitrogen Oxides,3381
+2016,Russia,Nitrogen Oxides,3460
+2006,Russia,Carbon Monoxide,17438
+2007,Russia,Carbon Monoxide,17485
+2008,Russia,Carbon Monoxide,16299
+2009,Russia,Carbon Monoxide,15632
+2010,Russia,Carbon Monoxide,15363
+2011,Russia,Carbon Monoxide,15840
+2012,Russia,Carbon Monoxide,16119
+2013,Russia,Carbon Monoxide,15782
+2014,Russia,Carbon Monoxide,15517
+2015,Russia,Carbon Monoxide,15531
+2016,Russia,Carbon Monoxide,15862
+2006,Russia,Non-methane Volatile Organic Compounds,3461
+2007,Russia,Non-methane Volatile Organic Compounds,3463
+2008,Russia,Non-methane Volatile Organic Compounds,2889
+2009,Russia,Non-methane Volatile Organic Compounds,2925
+2010,Russia,Non-methane Volatile Organic Compounds,2894
+2011,Russia,Non-methane Volatile Organic Compounds,2977
+2012,Russia,Non-methane Volatile Organic Compounds,2563
+2013,Russia,Non-methane Volatile Organic Compounds,2834
+2014,Russia,Non-methane Volatile Organic Compounds,2741
+2015,Russia,Non-methane Volatile Organic Compounds,2716
+2016,Russia,Non-methane Volatile Organic Compounds,2756
+2000,Slovenia,Sulphur Oxides,93.538
+2001,Slovenia,Sulphur Oxides,63.096
+2002,Slovenia,Sulphur Oxides,62.685
+2003,Slovenia,Sulphur Oxides,60.158
+2004,Slovenia,Sulphur Oxides,50.687
+2005,Slovenia,Sulphur Oxides,40.412
+2006,Slovenia,Sulphur Oxides,17.088
+2007,Slovenia,Sulphur Oxides,15.624
+2008,Slovenia,Sulphur Oxides,14.601
+2009,Slovenia,Sulphur Oxides,11.862
+2010,Slovenia,Sulphur Oxides,10.644
+2011,Slovenia,Sulphur Oxides,13.158
+2012,Slovenia,Sulphur Oxides,11.596
+2013,Slovenia,Sulphur Oxides,13.783
+2014,Slovenia,Sulphur Oxides,9.731
+2015,Slovenia,Sulphur Oxides,5.428
+2016,Slovenia,Sulphur Oxides,4.626
+2017,Slovenia,Sulphur Oxides,4.858
+2000,Slovenia,Nitrogen Oxides,58.335
+2001,Slovenia,Nitrogen Oxides,58.145
+2002,Slovenia,Nitrogen Oxides,57.641
+2003,Slovenia,Nitrogen Oxides,55.143
+2004,Slovenia,Nitrogen Oxides,53.685
+2005,Slovenia,Nitrogen Oxides,54.928
+2006,Slovenia,Nitrogen Oxides,55.239
+2007,Slovenia,Nitrogen Oxides,53.486
+2008,Slovenia,Nitrogen Oxides,57.655
+2009,Slovenia,Nitrogen Oxides,49.33
+2010,Slovenia,Nitrogen Oxides,47.932
+2011,Slovenia,Nitrogen Oxides,47.216
+2012,Slovenia,Nitrogen Oxides,45.661
+2013,Slovenia,Nitrogen Oxides,43.654
+2014,Slovenia,Nitrogen Oxides,38.763
+2015,Slovenia,Nitrogen Oxides,34.749
+2016,Slovenia,Nitrogen Oxides,35.701
+2017,Slovenia,Nitrogen Oxides,34.384
+2000,Slovenia,Particulates (PM10),12.696
+2001,Slovenia,Particulates (PM10),12.99
+2002,Slovenia,Particulates (PM10),13.665
+2003,Slovenia,Particulates (PM10),14.102
+2004,Slovenia,Particulates (PM10),14.64
+2005,Slovenia,Particulates (PM10),15.295
+2006,Slovenia,Particulates (PM10),15.067
+2007,Slovenia,Particulates (PM10),15.131
+2008,Slovenia,Particulates (PM10),15.953
+2009,Slovenia,Particulates (PM10),15.08
+2010,Slovenia,Particulates (PM10),15.073
+2011,Slovenia,Particulates (PM10),15.014
+2012,Slovenia,Particulates (PM10),14.467
+2013,Slovenia,Particulates (PM10),14.494
+2014,Slovenia,Particulates (PM10),12.422
+2015,Slovenia,Particulates (PM10),13.085
+2016,Slovenia,Particulates (PM10),13.403
+2017,Slovenia,Particulates (PM10),12.984
+2000,Slovenia,Particulates (PM2.5),10.849
+2001,Slovenia,Particulates (PM2.5),11.123
+2002,Slovenia,Particulates (PM2.5),11.697
+2003,Slovenia,Particulates (PM2.5),12.192
+2004,Slovenia,Particulates (PM2.5),12.763
+2005,Slovenia,Particulates (PM2.5),13.288
+2006,Slovenia,Particulates (PM2.5),13.208
+2007,Slovenia,Particulates (PM2.5),13.221
+2008,Slovenia,Particulates (PM2.5),13.969
+2009,Slovenia,Particulates (PM2.5),13.424
+2010,Slovenia,Particulates (PM2.5),13.38
+2011,Slovenia,Particulates (PM2.5),13.294
+2012,Slovenia,Particulates (PM2.5),12.793
+2013,Slovenia,Particulates (PM2.5),12.947
+2014,Slovenia,Particulates (PM2.5),10.99
+2015,Slovenia,Particulates (PM2.5),11.643
+2016,Slovenia,Particulates (PM2.5),11.929
+2017,Slovenia,Particulates (PM2.5),11.478
+2000,Slovenia,Carbon Monoxide,187.438
+2001,Slovenia,Carbon Monoxide,181.521
+2002,Slovenia,Carbon Monoxide,177.871
+2003,Slovenia,Carbon Monoxide,176.531
+2004,Slovenia,Carbon Monoxide,165.678
+2005,Slovenia,Carbon Monoxide,162.398
+2006,Slovenia,Carbon Monoxide,153.68
+2007,Slovenia,Carbon Monoxide,146.972
+2008,Slovenia,Carbon Monoxide,142.724
+2009,Slovenia,Carbon Monoxide,131.515
+2010,Slovenia,Carbon Monoxide,130.016
+2011,Slovenia,Carbon Monoxide,127.729
+2012,Slovenia,Carbon Monoxide,122.606
+2013,Slovenia,Carbon Monoxide,121.444
+2014,Slovenia,Carbon Monoxide,101.51
+2015,Slovenia,Carbon Monoxide,107.225
+2016,Slovenia,Carbon Monoxide,109.834
+2017,Slovenia,Carbon Monoxide,104.734
+2000,Slovenia,Non-methane Volatile Organic Compounds,52.417
+2001,Slovenia,Non-methane Volatile Organic Compounds,51.509
+2002,Slovenia,Non-methane Volatile Organic Compounds,50.414
+2003,Slovenia,Non-methane Volatile Organic Compounds,49.656
+2004,Slovenia,Non-methane Volatile Organic Compounds,47.63
+2005,Slovenia,Non-methane Volatile Organic Compounds,44.574
+2006,Slovenia,Non-methane Volatile Organic Compounds,44.846
+2007,Slovenia,Non-methane Volatile Organic Compounds,43.05
+2008,Slovenia,Non-methane Volatile Organic Compounds,41.811
+2009,Slovenia,Non-methane Volatile Organic Compounds,38.664
+2010,Slovenia,Non-methane Volatile Organic Compounds,37.273
+2011,Slovenia,Non-methane Volatile Organic Compounds,34.891
+2012,Slovenia,Non-methane Volatile Organic Compounds,33.105
+2013,Slovenia,Non-methane Volatile Organic Compounds,32.482
+2014,Slovenia,Non-methane Volatile Organic Compounds,29.717
+2015,Slovenia,Non-methane Volatile Organic Compounds,29.77
+2016,Slovenia,Non-methane Volatile Organic Compounds,30.023
+2017,Slovenia,Non-methane Volatile Organic Compounds,29.765
+2000,OECD - Europe,Nitrogen Oxides,13574.755
+2001,OECD - Europe,Nitrogen Oxides,13309.166
+2002,OECD - Europe,Nitrogen Oxides,13052.798
+2003,OECD - Europe,Nitrogen Oxides,12884.659
+2004,OECD - Europe,Nitrogen Oxides,12779.829
+2005,OECD - Europe,Nitrogen Oxides,12596.513
+2006,OECD - Europe,Nitrogen Oxides,12269.309
+2007,OECD - Europe,Nitrogen Oxides,11960.932
+2008,OECD - Europe,Nitrogen Oxides,11092.728
+2009,OECD - Europe,Nitrogen Oxides,10241.93
+2010,OECD - Europe,Nitrogen Oxides,10075.462
+2011,OECD - Europe,Nitrogen Oxides,9689.228
+2012,OECD - Europe,Nitrogen Oxides,9287.763
+2013,OECD - Europe,Nitrogen Oxides,8982.881
+2014,OECD - Europe,Nitrogen Oxides,8656.322
+2015,OECD - Europe,Nitrogen Oxides,8482.643
+2016,OECD - Europe,Nitrogen Oxides,8208.432
+2017,OECD - Europe,Nitrogen Oxides,8136.085
+2000,OECD - Total,Carbon Monoxide,154197.9
+2001,OECD - Total,Carbon Monoxide,147620.4
+2002,OECD - Total,Carbon Monoxide,135412.3
+2003,OECD - Total,Carbon Monoxide,131260.3
+2004,OECD - Total,Carbon Monoxide,127223.3
+2005,OECD - Total,Carbon Monoxide,121540.5
+2006,OECD - Total,Carbon Monoxide,117284.5
+2007,OECD - Total,Carbon Monoxide,113134.7
+2008,OECD - Total,Carbon Monoxide,104936.1
+2009,OECD - Total,Carbon Monoxide,95909.7
+2010,OECD - Total,Carbon Monoxide,98001.93
+2011,OECD - Total,Carbon Monoxide,93725.98
+2012,OECD - Total,Carbon Monoxide,91273.16
+2013,OECD - Total,Carbon Monoxide,88089.44
+2014,OECD - Total,Carbon Monoxide,84066.64
+2015,OECD - Total,Carbon Monoxide,83179.96
+2016,OECD - Total,Carbon Monoxide,80625.56
+2017,OECD - Total,Carbon Monoxide,78970.99
+2000,OECD - Europe,Particulates (PM2.5),2095.459
+2001,OECD - Europe,Particulates (PM2.5),2048.034
+2002,OECD - Europe,Particulates (PM2.5),1926.378
+2003,OECD - Europe,Particulates (PM2.5),1931.08
+2004,OECD - Europe,Particulates (PM2.5),1885.292
+2005,OECD - Europe,Particulates (PM2.5),1874.031
+2006,OECD - Europe,Particulates (PM2.5),1834.922
+2007,OECD - Europe,Particulates (PM2.5),1820.134
+2008,OECD - Europe,Particulates (PM2.5),1791.58
+2009,OECD - Europe,Particulates (PM2.5),1740.363
+2010,OECD - Europe,Particulates (PM2.5),1770.732
+2011,OECD - Europe,Particulates (PM2.5),1665.493
+2012,OECD - Europe,Particulates (PM2.5),1675.956
+2013,OECD - Europe,Particulates (PM2.5),1657.984
+2014,OECD - Europe,Particulates (PM2.5),1555.246
+2015,OECD - Europe,Particulates (PM2.5),1565.745
+2016,OECD - Europe,Particulates (PM2.5),1556.296
+2017,OECD - Europe,Particulates (PM2.5),1565.659
+2000,OECD - Total,Nitrogen Oxides,42121.38
+2001,OECD - Total,Nitrogen Oxides,41012.63
+2002,OECD - Total,Nitrogen Oxides,43084.47
+2003,OECD - Total,Nitrogen Oxides,41871.79
+2004,OECD - Total,Nitrogen Oxides,40417.91
+2005,OECD - Total,Nitrogen Oxides,39206.84
+2006,OECD - Total,Nitrogen Oxides,37604.7
+2007,OECD - Total,Nitrogen Oxides,36104.7
+2008,OECD - Total,Nitrogen Oxides,33859.25
+2009,OECD - Total,Nitrogen Oxides,31681.32
+2010,OECD - Total,Nitrogen Oxides,30822.77
+2011,OECD - Total,Nitrogen Oxides,29864.63
+2012,OECD - Total,Nitrogen Oxides,28946.84
+2013,OECD - Total,Nitrogen Oxides,28009.76
+2014,OECD - Total,Nitrogen Oxides,27101.61
+2015,OECD - Total,Nitrogen Oxides,26179.24
+2016,OECD - Total,Nitrogen Oxides,25599.19
+2017,OECD - Total,Nitrogen Oxides,25094.86
+2000,OECD - Europe,Non-methane Volatile Organic Compounds,12612.908
+2001,OECD - Europe,Non-methane Volatile Organic Compounds,12066.104
+2002,OECD - Europe,Non-methane Volatile Organic Compounds,11604.557
+2003,OECD - Europe,Non-methane Volatile Organic Compounds,11192.037
+2004,OECD - Europe,Non-methane Volatile Organic Compounds,10809.139
+2005,OECD - Europe,Non-methane Volatile Organic Compounds,10462.927
+2006,OECD - Europe,Non-methane Volatile Organic Compounds,10193.448
+2007,OECD - Europe,Non-methane Volatile Organic Compounds,9844.637
+2008,OECD - Europe,Non-methane Volatile Organic Compounds,9424.031
+2009,OECD - Europe,Non-methane Volatile Organic Compounds,8900.821
+2010,OECD - Europe,Non-methane Volatile Organic Compounds,8892.3
+2011,OECD - Europe,Non-methane Volatile Organic Compounds,8431.31
+2012,OECD - Europe,Non-methane Volatile Organic Compounds,8345.031
+2013,OECD - Europe,Non-methane Volatile Organic Compounds,8060.517
+2014,OECD - Europe,Non-methane Volatile Organic Compounds,7854.744
+2015,OECD - Europe,Non-methane Volatile Organic Compounds,7847.699
+2016,OECD - Europe,Non-methane Volatile Organic Compounds,7795.67
+2017,OECD - Europe,Non-methane Volatile Organic Compounds,7917.418
+2000,OECD - Europe,Sulphur Oxides,10878.61
+2001,OECD - Europe,Sulphur Oxides,10181.663
+2002,OECD - Europe,Sulphur Oxides,9633.002
+2003,OECD - Europe,Sulphur Oxides,8961.585
+2004,OECD - Europe,Sulphur Oxides,8499.495
+2005,OECD - Europe,Sulphur Oxides,8245.548
+2006,OECD - Europe,Sulphur Oxides,8127.05
+2007,OECD - Europe,Sulphur Oxides,8185.741
+2008,OECD - Europe,Sulphur Oxides,6867.99
+2009,OECD - Europe,Sulphur Oxides,6261.415
+2010,OECD - Europe,Sulphur Oxides,6036.665
+2011,OECD - Europe,Sulphur Oxides,5938.071
+2012,OECD - Europe,Sulphur Oxides,5853.824
+2013,OECD - Europe,Sulphur Oxides,4800.03
+2014,OECD - Europe,Sulphur Oxides,4769.119
+2015,OECD - Europe,Sulphur Oxides,4464.979
+2016,OECD - Europe,Sulphur Oxides,4380.37
+2017,OECD - Europe,Sulphur Oxides,4467.155
+2000,OECD - Europe,Particulates (PM10),3295.717
+2001,OECD - Europe,Particulates (PM10),3175.524
+2002,OECD - Europe,Particulates (PM10),3192.39
+2003,OECD - Europe,Particulates (PM10),3178.756
+2004,OECD - Europe,Particulates (PM10),3101.67
+2005,OECD - Europe,Particulates (PM10),3066.444
+2006,OECD - Europe,Particulates (PM10),3081.926
+2007,OECD - Europe,Particulates (PM10),3038.401
+2008,OECD - Europe,Particulates (PM10),2983.536
+2009,OECD - Europe,Particulates (PM10),2948.992
+2010,OECD - Europe,Particulates (PM10),3054.175
+2011,OECD - Europe,Particulates (PM10),2884.392
+2012,OECD - Europe,Particulates (PM10),2877.731
+2013,OECD - Europe,Particulates (PM10),2744.386
+2014,OECD - Europe,Particulates (PM10),2399.352
+2015,OECD - Europe,Particulates (PM10),2659.073
+2016,OECD - Europe,Particulates (PM10),2562.01
+2017,OECD - Europe,Particulates (PM10),2616.598
+2000,OECD - Total,Non-methane Volatile Organic Compounds,34899.82
+2001,OECD - Total,Non-methane Volatile Organic Compounds,33789.12
+2002,OECD - Total,Non-methane Volatile Organic Compounds,33648.24
+2003,OECD - Total,Non-methane Volatile Organic Compounds,32713.45
+2004,OECD - Total,Non-methane Volatile Organic Compounds,31908.95
+2005,OECD - Total,Non-methane Volatile Organic Compounds,30938.41
+2006,OECD - Total,Non-methane Volatile Organic Compounds,30738.15
+2007,OECD - Total,Non-methane Volatile Organic Compounds,30508.27
+2008,OECD - Total,Non-methane Volatile Organic Compounds,28742.27
+2009,OECD - Total,Non-methane Volatile Organic Compounds,27829.47
+2010,OECD - Total,Non-methane Volatile Organic Compounds,28106.39
+2011,OECD - Total,Non-methane Volatile Organic Compounds,27727.17
+2012,OECD - Total,Non-methane Volatile Organic Compounds,27410.47
+2013,OECD - Total,Non-methane Volatile Organic Compounds,26928.01
+2014,OECD - Total,Non-methane Volatile Organic Compounds,26492.8
+2015,OECD - Total,Non-methane Volatile Organic Compounds,25808.14
+2016,OECD - Total,Non-methane Volatile Organic Compounds,25438.86
+2017,OECD - Total,Non-methane Volatile Organic Compounds,25380.37
+2000,OECD - Europe,Carbon Monoxide,39325.072
+2001,OECD - Europe,Carbon Monoxide,37665.883
+2002,OECD - Europe,Carbon Monoxide,35503.087
+2003,OECD - Europe,Carbon Monoxide,34470.993
+2004,OECD - Europe,Carbon Monoxide,33200.401
+2005,OECD - Europe,Carbon Monoxide,31705.038
+2006,OECD - Europe,Carbon Monoxide,30408.816
+2007,OECD - Europe,Carbon Monoxide,29478.077
+2008,OECD - Europe,Carbon Monoxide,29016.013
+2009,OECD - Europe,Carbon Monoxide,26693.168
+2010,OECD - Europe,Carbon Monoxide,27516.331
+2011,OECD - Europe,Carbon Monoxide,24839.255
+2012,OECD - Europe,Carbon Monoxide,24383.873
+2013,OECD - Europe,Carbon Monoxide,23251.244
+2014,OECD - Europe,Carbon Monoxide,21392.405
+2015,OECD - Europe,Carbon Monoxide,21598.353
+2016,OECD - Europe,Carbon Monoxide,21249.341
+2000,OECD - Total,Sulphur Oxides,32345.76
+2001,OECD - Total,Sulphur Oxides,31502.25
+2002,OECD - Total,Sulphur Oxides,30215.11
+2003,OECD - Total,Sulphur Oxides,29246.34
+2004,OECD - Total,Sulphur Oxides,28247.35
+2005,OECD - Total,Sulphur Oxides,27782.58
+2006,OECD - Total,Sulphur Oxides,26111.02
+2007,OECD - Total,Sulphur Oxides,24691.07
+2008,OECD - Total,Sulphur Oxides,21944.19
+2009,OECD - Total,Sulphur Oxides,19935.92
+2010,OECD - Total,Sulphur Oxides,18120.67
+2011,OECD - Total,Sulphur Oxides,16899.47
+2012,OECD - Total,Sulphur Oxides,15536.31
+2013,OECD - Total,Sulphur Oxides,14123.88
+2014,OECD - Total,Sulphur Oxides,13881.04
+2015,OECD - Total,Sulphur Oxides,12439.9
+2016,OECD - Total,Sulphur Oxides,11754
+2017,OECD - Total,Sulphur Oxides,11412.62
+2000,Latvia,Particulates (PM10),28.911
+2001,Latvia,Particulates (PM10),28.062
+2002,Latvia,Particulates (PM10),28.273
+2003,Latvia,Particulates (PM10),29.795
+2004,Latvia,Particulates (PM10),38.202
+2005,Latvia,Particulates (PM10),31.099
+2006,Latvia,Particulates (PM10),31.024
+2007,Latvia,Particulates (PM10),32.168
+2008,Latvia,Particulates (PM10),30.99
+2009,Latvia,Particulates (PM10),30.146
+2010,Latvia,Particulates (PM10),25.863
+2011,Latvia,Particulates (PM10),28.377
+2012,Latvia,Particulates (PM10),28.668
+2013,Latvia,Particulates (PM10),26.777
+2014,Latvia,Particulates (PM10),26.787
+2015,Latvia,Particulates (PM10),26.211
+2016,Latvia,Particulates (PM10),24.679
+2017,Latvia,Particulates (PM10),25.51
+2000,Lithuania,Particulates (PM2.5),6.917
+2001,Lithuania,Particulates (PM2.5),7.13
+2002,Lithuania,Particulates (PM2.5),7.66
+2003,Lithuania,Particulates (PM2.5),7.296
+2004,Lithuania,Particulates (PM2.5),7.372
+2005,Lithuania,Particulates (PM2.5),12.437
+2006,Lithuania,Particulates (PM2.5),11.242
+2007,Lithuania,Particulates (PM2.5),10.3
+2008,Lithuania,Particulates (PM2.5),12.525
+2009,Lithuania,Particulates (PM2.5),10.892
+2010,Lithuania,Particulates (PM2.5),9.252
+2011,Lithuania,Particulates (PM2.5),14.068
+2012,Lithuania,Particulates (PM2.5),10.095
+2013,Lithuania,Particulates (PM2.5),11.305
+2014,Lithuania,Particulates (PM2.5),10.013
+2015,Lithuania,Particulates (PM2.5),8.573
+2016,Lithuania,Particulates (PM2.5),8.01
+2017,Lithuania,Particulates (PM2.5),9.073
+2000,Latvia,Sulphur Oxides,17.565
+2001,Latvia,Sulphur Oxides,14.114
+2002,Latvia,Sulphur Oxides,12.809
+2003,Latvia,Sulphur Oxides,11.365
+2004,Latvia,Sulphur Oxides,9.284
+2005,Latvia,Sulphur Oxides,8.483
+2006,Latvia,Sulphur Oxides,8.175
+2007,Latvia,Sulphur Oxides,7.881
+2008,Latvia,Sulphur Oxides,6.59
+2009,Latvia,Sulphur Oxides,6.424
+2010,Latvia,Sulphur Oxides,4.327
+2011,Latvia,Sulphur Oxides,4.292
+2012,Latvia,Sulphur Oxides,4.429
+2013,Latvia,Sulphur Oxides,3.916
+2014,Latvia,Sulphur Oxides,3.887
+2015,Latvia,Sulphur Oxides,3.581
+2016,Latvia,Sulphur Oxides,3.45
+2017,Latvia,Sulphur Oxides,3.975
+2000,Lithuania,Nitrogen Oxides,56.125
+2001,Lithuania,Nitrogen Oxides,57.77
+2002,Lithuania,Nitrogen Oxides,59.13
+2003,Lithuania,Nitrogen Oxides,59.455
+2004,Lithuania,Nitrogen Oxides,61.133
+2005,Lithuania,Nitrogen Oxides,61.42
+2006,Lithuania,Nitrogen Oxides,64.108
+2007,Lithuania,Nitrogen Oxides,61.096
+2008,Lithuania,Nitrogen Oxides,61.798
+2009,Lithuania,Nitrogen Oxides,56.188
+2010,Lithuania,Nitrogen Oxides,57.768
+2011,Lithuania,Nitrogen Oxides,54.805
+2012,Lithuania,Nitrogen Oxides,56.876
+2013,Lithuania,Nitrogen Oxides,55.724
+2014,Lithuania,Nitrogen Oxides,55.58
+2015,Lithuania,Nitrogen Oxides,56.46
+2016,Lithuania,Nitrogen Oxides,56.186
+2017,Lithuania,Nitrogen Oxides,52.049
+2000,Lithuania,Non-methane Volatile Organic Compounds,63.156
+2001,Lithuania,Non-methane Volatile Organic Compounds,60.5
+2002,Lithuania,Non-methane Volatile Organic Compounds,58.635
+2003,Lithuania,Non-methane Volatile Organic Compounds,55.809
+2004,Lithuania,Non-methane Volatile Organic Compounds,54.983
+2005,Lithuania,Non-methane Volatile Organic Compounds,62.161
+2006,Lithuania,Non-methane Volatile Organic Compounds,61.441
+2007,Lithuania,Non-methane Volatile Organic Compounds,60.083
+2008,Lithuania,Non-methane Volatile Organic Compounds,58.693
+2009,Lithuania,Non-methane Volatile Organic Compounds,55.031
+2010,Lithuania,Non-methane Volatile Organic Compounds,54.928
+2011,Lithuania,Non-methane Volatile Organic Compounds,52.579
+2012,Lithuania,Non-methane Volatile Organic Compounds,53.371
+2013,Lithuania,Non-methane Volatile Organic Compounds,50.167
+2014,Lithuania,Non-methane Volatile Organic Compounds,49.487
+2015,Lithuania,Non-methane Volatile Organic Compounds,46.783
+2016,Lithuania,Non-methane Volatile Organic Compounds,46.471
+2017,Lithuania,Non-methane Volatile Organic Compounds,45.717
+2000,Lithuania,Sulphur Oxides,37.474
+2001,Lithuania,Sulphur Oxides,41.32
+2002,Lithuania,Sulphur Oxides,36.883
+2003,Lithuania,Sulphur Oxides,26.603
+2004,Lithuania,Sulphur Oxides,27.296
+2005,Lithuania,Sulphur Oxides,27.917
+2006,Lithuania,Sulphur Oxides,25.847
+2007,Lithuania,Sulphur Oxides,22.015
+2008,Lithuania,Sulphur Oxides,19.726
+2009,Lithuania,Sulphur Oxides,18.852
+2010,Lithuania,Sulphur Oxides,18.163
+2011,Lithuania,Sulphur Oxides,19.925
+2012,Lithuania,Sulphur Oxides,17.267
+2013,Lithuania,Sulphur Oxides,14.979
+2014,Lithuania,Sulphur Oxides,13.625
+2015,Lithuania,Sulphur Oxides,15.165
+2016,Lithuania,Sulphur Oxides,15.026
+2017,Lithuania,Sulphur Oxides,13.092
+2000,Latvia,Carbon Monoxide,285.519
+2001,Latvia,Carbon Monoxide,281.348
+2002,Latvia,Carbon Monoxide,268.456
+2003,Latvia,Carbon Monoxide,268.117
+2004,Latvia,Carbon Monoxide,254.662
+2005,Latvia,Carbon Monoxide,226.001
+2006,Latvia,Carbon Monoxide,221.957
+2007,Latvia,Carbon Monoxide,201.387
+2008,Latvia,Carbon Monoxide,183.416
+2009,Latvia,Carbon Monoxide,193.46
+2010,Latvia,Carbon Monoxide,155.643
+2011,Latvia,Carbon Monoxide,160.772
+2012,Latvia,Carbon Monoxide,163.916
+2013,Latvia,Carbon Monoxide,149.163
+2014,Latvia,Carbon Monoxide,144.466
+2015,Latvia,Carbon Monoxide,122.136
+2016,Latvia,Carbon Monoxide,119.464
+2017,Latvia,Carbon Monoxide,128.15
+2000,Lithuania,Particulates (PM10),8.748
+2001,Lithuania,Particulates (PM10),9.003
+2002,Lithuania,Particulates (PM10),9.65
+2003,Lithuania,Particulates (PM10),9.238
+2004,Lithuania,Particulates (PM10),9.433
+2005,Lithuania,Particulates (PM10),14.887
+2006,Lithuania,Particulates (PM10),15.508
+2007,Lithuania,Particulates (PM10),15.357
+2008,Lithuania,Particulates (PM10),15.795
+2009,Lithuania,Particulates (PM10),14.784
+2010,Lithuania,Particulates (PM10),14.855
+2011,Lithuania,Particulates (PM10),14.847
+2012,Lithuania,Particulates (PM10),15.169
+2013,Lithuania,Particulates (PM10),15.191
+2014,Lithuania,Particulates (PM10),14.799
+2015,Lithuania,Particulates (PM10),14.323
+2016,Lithuania,Particulates (PM10),13.89
+2017,Lithuania,Particulates (PM10),14.196
+2000,Latvia,Nitrogen Oxides,40.257
+2001,Latvia,Nitrogen Oxides,43.244
+2002,Latvia,Nitrogen Oxides,42.139
+2003,Latvia,Nitrogen Oxides,43.958
+2004,Latvia,Nitrogen Oxides,43.355
+2005,Latvia,Nitrogen Oxides,42.317
+2006,Latvia,Nitrogen Oxides,43.482
+2007,Latvia,Nitrogen Oxides,44.252
+2008,Latvia,Nitrogen Oxides,40.46
+2009,Latvia,Nitrogen Oxides,38.099
+2010,Latvia,Nitrogen Oxides,40.788
+2011,Latvia,Nitrogen Oxides,38.085
+2012,Latvia,Nitrogen Oxides,37.784
+2013,Latvia,Nitrogen Oxides,38.193
+2014,Latvia,Nitrogen Oxides,38.112
+2015,Latvia,Nitrogen Oxides,37.91
+2016,Latvia,Nitrogen Oxides,36.507
+2017,Latvia,Nitrogen Oxides,37.333
+2000,Latvia,Non-methane Volatile Organic Compounds,48.784
+2001,Latvia,Non-methane Volatile Organic Compounds,51.351
+2002,Latvia,Non-methane Volatile Organic Compounds,50.349
+2003,Latvia,Non-methane Volatile Organic Compounds,49.71
+2004,Latvia,Non-methane Volatile Organic Compounds,49.147
+2005,Latvia,Non-methane Volatile Organic Compounds,48.367
+2006,Latvia,Non-methane Volatile Organic Compounds,48.152
+2007,Latvia,Non-methane Volatile Organic Compounds,47.182
+2008,Latvia,Non-methane Volatile Organic Compounds,41.988
+2009,Latvia,Non-methane Volatile Organic Compounds,41.718
+2010,Latvia,Non-methane Volatile Organic Compounds,40.257
+2011,Latvia,Non-methane Volatile Organic Compounds,41.006
+2012,Latvia,Non-methane Volatile Organic Compounds,41.865
+2013,Latvia,Non-methane Volatile Organic Compounds,41.333
+2014,Latvia,Non-methane Volatile Organic Compounds,42.08
+2015,Latvia,Non-methane Volatile Organic Compounds,40.143
+2016,Latvia,Non-methane Volatile Organic Compounds,38.196
+2017,Latvia,Non-methane Volatile Organic Compounds,38.053
+2000,Lithuania,Carbon Monoxide,183.439
+2001,Lithuania,Carbon Monoxide,181.761
+2002,Lithuania,Carbon Monoxide,183.57
+2003,Lithuania,Carbon Monoxide,177.747
+2004,Lithuania,Carbon Monoxide,173.786
+2005,Lithuania,Carbon Monoxide,175.879
+2006,Lithuania,Carbon Monoxide,186.337
+2007,Lithuania,Carbon Monoxide,191.759
+2008,Lithuania,Carbon Monoxide,181.454
+2009,Lithuania,Carbon Monoxide,173.525
+2010,Lithuania,Carbon Monoxide,155.535
+2011,Lithuania,Carbon Monoxide,171.268
+2012,Lithuania,Carbon Monoxide,166.276
+2013,Lithuania,Carbon Monoxide,159.241
+2014,Lithuania,Carbon Monoxide,151.081
+2015,Lithuania,Carbon Monoxide,144.406
+2016,Lithuania,Carbon Monoxide,142.717
+2017,Lithuania,Carbon Monoxide,139.197
+2000,Latvia,Particulates (PM2.5),24.668
+2001,Latvia,Particulates (PM2.5),24.036
+2002,Latvia,Particulates (PM2.5),24.009
+2003,Latvia,Particulates (PM2.5),25.2
+2004,Latvia,Particulates (PM2.5),26.389
+2005,Latvia,Particulates (PM2.5),23.585
+2006,Latvia,Particulates (PM2.5),23.299
+2007,Latvia,Particulates (PM2.5),22.788
+2008,Latvia,Particulates (PM2.5),21.863
+2009,Latvia,Particulates (PM2.5),23.496
+2010,Latvia,Particulates (PM2.5),19.078
+2011,Latvia,Particulates (PM2.5),19.469
+2012,Latvia,Particulates (PM2.5),20.179
+2013,Latvia,Particulates (PM2.5),18.914
+2014,Latvia,Particulates (PM2.5),18.871
+2015,Latvia,Particulates (PM2.5),16.87
+2016,Latvia,Particulates (PM2.5),16.834
+2017,Latvia,Particulates (PM2.5),18.383

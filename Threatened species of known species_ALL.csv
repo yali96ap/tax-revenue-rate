@@ -1,0 +1,316 @@
+Species,Country,Threatened species as % of known species
+Mammals,Australia,27.114
+Birds,Australia,16.835
+Reptiles,Australia,5.951
+Amphibians,Australia,11.983
+Vascular plants,Australia,6.58
+Fish,Australia,0.923
+Mammals,Austria,26.733
+Birds,Austria,27.273
+Reptiles,Austria,64.286
+Amphibians,Austria,60
+Vascular plants,Austria,33.39
+Fish,Austria,46.429
+Freshwater Fish,Austria,46.429
+Mammals,Belgium,21.429
+Birds,Belgium,27.778
+Reptiles,Belgium,40
+Amphibians,Belgium,31.579
+Vascular plants,Belgium,23.267
+Fish,Belgium,20.423
+Marine Fish,Belgium,14.141
+Freshwater Fish,Belgium,34.884
+Mammals,Canada,23.529
+Birds,Canada,13.056
+Reptiles,Canada,57.778
+Amphibians,Canada,34.043
+Vascular plants,Canada,21.35
+Fish,Canada,6.395
+Marine Fish,Canada,4.294
+Freshwater Fish,Canada,21.818
+Mammals,Czech Republic,16.484
+Birds,Czech Republic,47.143
+Reptiles,Czech Republic,53.846
+Amphibians,Czech Republic,72.727
+Vascular plants,Czech Republic,25.527
+Fish,Czech Republic,38.462
+Freshwater Fish,Czech Republic,38.462
+Mammals,Denmark,16.418
+Birds,Denmark,16.268
+Amphibians,Denmark,6.667
+Vascular plants,Denmark,4.022
+Freshwater Fish,Denmark,14.545
+Mammals,Finland,9.333
+Birds,Finland,35.081
+Reptiles,Finland,20
+Amphibians,Finland,14.286
+Vascular plants,Finland,15.887
+Freshwater Fish,Finland,17.391
+Mammals,France,13.6
+Birds,France,27.366
+Reptiles,France,23.684
+Amphibians,France,22.857
+Freshwater Fish,France,21.739
+Mammals,Germany,34.409
+Birds,Germany,35.606
+Reptiles,Germany,61.538
+Amphibians,Germany,36.364
+Vascular plants,Germany,27.384
+Freshwater Fish,Germany,30.108
+Mammals,Greece,25.217
+Birds,Greece,14.091
+Reptiles,Greece,13.636
+Amphibians,Greece,26.087
+Vascular plants,Greece,4.359
+Fish,Greece,9.474
+Marine Fish,Greece,2.74
+Freshwater Fish,Greece,31.818
+Mammals,Hungary,16.092
+Birds,Hungary,17.931
+Reptiles,Hungary,26.667
+Amphibians,Hungary,11.111
+Vascular plants,Hungary,14.039
+Fish,Hungary,43.21
+Freshwater Fish,Hungary,43.21
+Birds,Iceland,44
+Vascular plants,Iceland,11.872
+Mammals,Ireland,1.754
+Birds,Ireland,26.569
+Reptiles,Ireland,0
+Amphibians,Ireland,33.333
+Vascular plants,Ireland,9.619
+Freshwater Fish,Ireland,17.857
+Mammals,Italy,18.254
+Birds,Italy,27.715
+Reptiles,Italy,19.643
+Amphibians,Italy,31.818
+Vascular plants,Italy,6.748
+Freshwater Fish,Italy,25.773
+Mammals,Japan,20.625
+Birds,Japan,13.857
+Reptiles,Japan,37
+Amphibians,Japan,37.662
+Vascular plants,Japan,25.514
+Freshwater Fish,Japan,42.25
+Mammals,Korea,11.2
+Birds,Korea,10.436
+Reptiles,Korea,15.625
+Amphibians,Korea,25
+Vascular plants,Korea,4.958
+Fish,Korea,2.031
+Birds,Luxembourg,19.084
+Reptiles,Luxembourg,33.333
+Amphibians,Luxembourg,28.571
+Vascular plants,Luxembourg,26.757
+Fish,Luxembourg,27.907
+Freshwater Fish,Luxembourg,27.907
+Mammals,Mexico,26.773
+Birds,Mexico,20.748
+Reptiles,Mexico,18.172
+Amphibians,Mexico,12.782
+Vascular plants,Mexico,2.189
+Fish,Mexico,6.298
+Mammals,Netherlands,20.755
+Birds,Netherlands,23.81
+Reptiles,Netherlands,71.429
+Amphibians,Netherlands,43.75
+Vascular plants,Netherlands,25.52
+Fish,Netherlands,23.711
+Marine Fish,Netherlands,17.544
+Freshwater Fish,Netherlands,32.5
+Mammals,Norway,19.101
+Birds,Norway,17.424
+Amphibians,Norway,16.667
+Vascular plants,Norway,7.586
+Fish,Norway,2.244
+Marine Fish,Norway,2.456
+Mammals,Poland,11.607
+Birds,Poland,7.539
+Reptiles,Poland,27.273
+Vascular plants,Poland,15.808
+Fish,Poland,21.014
+Marine Fish,Poland,18
+Freshwater Fish,Poland,34.286
+Mammals,Portugal,19.62
+Birds,Portugal,28.244
+Reptiles,Portugal,20.408
+Amphibians,Portugal,10
+Fish,Portugal,33.846
+Mammals,Slovak Republic,22.222
+Birds,Slovak Republic,24.171
+Reptiles,Slovak Republic,41.667
+Amphibians,Slovak Republic,44.444
+Vascular plants,Slovak Republic,14.562
+Freshwater Fish,Slovak Republic,15.19
+Mammals,Spain,16.667
+Birds,Spain,19.621
+Reptiles,Spain,36.957
+Amphibians,Spain,38.889
+Vascular plants,Spain,17.874
+Freshwater Fish,Spain,47.826
+Mammals,Sweden,21.538
+Birds,Sweden,20.233
+Reptiles,Sweden,33.333
+Amphibians,Sweden,38.462
+Vascular plants,Sweden,17.297
+Fish,Sweden,14.184
+Mammals,Turkey,14.286
+Birds,Turkey,3.696
+Amphibians,Turkey,7.092
+Vascular plants,Turkey,10.951
+Vascular plants,United Kingdom,18.106
+Mammals,United States,17.219
+Birds,United States,12.154
+Reptiles,United States,17.971
+Amphibians,United States,40.37
+Vascular plants,United States,27.467
+Freshwater Fish,United States,31.746
+Mammals,Chile,20.571
+Birds,Chile,9.036
+Reptiles,Chile,39.695
+Amphibians,Chile,67.692
+Mammals,Estonia,3.077
+Birds,Estonia,10.08
+Reptiles,Estonia,50
+Amphibians,Estonia,44.444
+Vascular plants,Estonia,9.388
+Fish,Estonia,7.059
+Marine Fish,Estonia,3.125
+Freshwater Fish,Estonia,12.195
+Mammals,Russia,12.5
+Birds,Russia,7.65
+Reptiles,Russia,12
+Amphibians,Russia,18.519
+Vascular plants,Russia,1.763
+Freshwater Fish,Russia,12.274
+Mammals,Slovenia,38.202
+Birds,Slovenia,27.632
+Reptiles,Slovenia,75
+Amphibians,Slovenia,80.952
+Vascular plants,Slovenia,9.676
+Fish,Slovenia,18.315
+Marine Fish,Slovenia,5.319
+Freshwater Fish,Slovenia,47.059
+Fish,Italy,7.332
+Marine Fish,Italy,4.044
+Mosses,Canada,21.413
+Mosses,Finland,20.516
+Lichens,Finland,16.813
+Invertebrates,Finland,5.24
+Fish,Germany,26.344
+Marine Fish,Germany,22.581
+Mosses,Germany,40.946
+Lichens,Germany,51.672
+Invertebrates,Germany,36.593
+Invertebrates,Italy,0.778
+Freshwater Fish,Korea,12.871
+Invertebrates,Korea,0.769
+Invertebrates,Luxembourg,15.436
+Freshwater Fish,Mexico,30.693
+Mosses,Netherlands,23.598
+Lichens,Netherlands,22.84
+Invertebrates,Netherlands,30.682
+Invertebrates,New Zealand,0.806
+Mosses,Norway,13.088
+Lichens,Norway,10.679
+Invertebrates,Norway,4.514
+Mosses,Poland,11.874
+Lichens,Poland,32.383
+Invertebrates,Poland,3.116
+Mosses,Slovak Republic,34.213
+Lichens,Slovak Republic,23.674
+Invertebrates,Slovak Republic,6.592
+Mammals,Switzerland,36.559
+Birds,Switzerland,34.634
+Reptiles,Switzerland,78.947
+Amphibians,Switzerland,68.421
+Vascular plants,Switzerland,25.641
+Fish,Switzerland,34.286
+Freshwater Fish,Switzerland,34.286
+Mosses,Switzerland,40.261
+Lichens,Switzerland,36.045
+Invertebrates,Switzerland,34.052
+Mammals,United Kingdom,11.111
+Birds,United Kingdom,22.712
+Lichens,United Kingdom,6.609
+Invertebrates,United Kingdom,2.478
+Invertebrates,Chile,0.737
+Mammals,Colombia,8.537
+Birds,Colombia,7.288
+Reptiles,Colombia,8.194
+Amphibians,Colombia,6.849
+Vascular plants,Colombia,2.59
+Fish,Colombia,2.358
+Marine Fish,Colombia,2.8
+Freshwater Fish,Colombia,7.596
+Mosses,Colombia,5.882
+Invertebrates,Colombia,0.635
+Mosses,Estonia,33.676
+Lichens,Estonia,24.094
+Invertebrates,Estonia,3.03
+Mammals,Latvia,8.065
+Birds,Latvia,16.738
+Reptiles,Latvia,28.571
+Amphibians,Latvia,30.769
+Vascular plants,Latvia,10.79
+Fish,Latvia,2.299
+Marine Fish,Latvia,2.381
+Freshwater Fish,Latvia,2.222
+Mosses,Australia,0.102
+Invertebrates,Australia,0.062
+Mosses,Belgium,26.871
+Lichens,Belgium,59.069
+Invertebrates,Belgium,10.806
+Mosses,Czech Republic,29.085
+Lichens,Czech Republic,37.408
+Invertebrates,Czech Republic,16.486
+Lichens,Denmark,44.231
+Invertebrates,Denmark,14.044
+Mosses,Ireland,18.96
+Invertebrates,Ireland,14.669
+Mosses,Japan,13.389
+Lichens,Japan,3.813
+Invertebrates,Japan,1.226
+Mosses,Spain,23.545
+Marine Fish,Sweden,19
+Freshwater Fish,Sweden,4.762
+Mammals,Costa Rica,5.6
+Birds,Costa Rica,2.412
+Reptiles,Costa Rica,6.224
+Amphibians,Costa Rica,20.398
+Vascular plants,Costa Rica,1.379
+Marine Fish,Costa Rica,0.274
+Freshwater Fish,Costa Rica,0.369
+Mosses,Latvia,10.893
+Lichens,Latvia,3.493
+Invertebrates,Latvia,0.462
+Mammals,Lithuania,10.294
+Birds,Lithuania,14.396
+Reptiles,Lithuania,28.571
+Vascular plants,Lithuania,9.745
+Fish,Lithuania,4.762
+Marine Fish,Lithuania,1.961
+Mosses,Lithuania,10.213
+Lichens,Lithuania,17.2
+Invertebrates,Lithuania,0.356
+Mosses,Austria,23.425
+Lichens,Austria,21.095
+Invertebrates,Austria,2.14
+Vascular plants,France,51.866
+Fish,France,21.739
+Invertebrates,France,20.66
+Mosses,Italy,31.394
+Lichens,Italy,10.207
+Lichens,Canada,21.47
+Marine Fish,Ireland,4.521
+Invertebrates,Turkey,0.431
+Amphibians,Brazil,4.333
+Invertebrates,Canada,6.345
+Mosses,Hungary,26.252
+Lichens,Hungary,15.804
+Invertebrates,Hungary,27.586
+Fish,Japan,4.302
+Marine Fish,Japan,0.41
+Mosses,United Kingdom,15.28
+Amphibians,Lithuania,15.385
+Freshwater Fish,Lithuania,7.407
